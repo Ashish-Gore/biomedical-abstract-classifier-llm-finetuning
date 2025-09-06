@@ -22,7 +22,7 @@ A comprehensive machine learning pipeline for classifying research paper abstrac
 ✅ **Structured Output**: JSON-formatted results as specified  
 ✅ **REST API**: FastAPI implementation with comprehensive endpoints  
 ✅ **Docker Deployment**: Containerized solution with deployment scripts  
-✅ **Cloud Integration**: AWS, GCP, and Hugging Face deployment options  
+✅ **Cloud Integration**: AWS, GCP, and Hugging Face deployment options
 
 ## 🛠️ Quick Start
 
@@ -46,50 +46,59 @@ python demo_pipeline.py
 ### Full Setup
 
 1. **Install dependencies**:
+
 ```bash
 pip install -r requirements.txt
 python -m spacy download en_core_web_sm
 ```
 
 2. **Process your dataset**:
+
 ```bash
 python scripts/process_dataset.py
 python src/data_preprocessing.py --input data/raw/dataset.csv --output data/processed
 ```
 
 3. **Run demonstration**:
+
 ```bash
 python demo_pipeline.py
 ```
 
 4. **Start API server**:
+
 ```bash
 python simple_api.py
 ```
 
 5. **Access the API**:
+
 - API Documentation: http://localhost:8000/docs
 - Health Check: http://localhost:8000/api/v1/health
 
 ### Manual Setup
 
 1. **Install dependencies**:
+
 ```bash
 pip install -r requirements.txt
 python -m spacy download en_core_web_sm
 ```
 
 2. **Create sample data**:
+
 ```bash
 python scripts/train_and_evaluate.py --create_sample_data --num_samples 1000
 ```
 
 3. **Train models**:
+
 ```bash
 python scripts/train_and_evaluate.py --data_path data/raw/sample_data.csv
 ```
 
 4. **Start API**:
+
 ```bash
 python -m src.api.main --model_path ./training_results/finetuned
 ```
@@ -97,6 +106,7 @@ python -m src.api.main --model_path ./training_results/finetuned
 ## 🐳 Docker Deployment
 
 ### Local Deployment
+
 ```bash
 # Build and run with Docker Compose
 docker-compose up -d
@@ -107,6 +117,7 @@ docker run -p 8000:8000 research-classifier
 ```
 
 ### Cloud Deployment
+
 ```bash
 # Deploy to Google Cloud Run
 ./scripts/deploy.sh gcp
@@ -120,14 +131,14 @@ docker run -p 8000:8000 research-classifier
 
 ## 📊 API Endpoints
 
-| Endpoint | Method | Description |
-|----------|--------|-------------|
-| `/api/v1/health` | GET | Health check and service status |
-| `/api/v1/classify` | POST | Classify a single abstract |
-| `/api/v1/classify/batch` | POST | Classify multiple abstracts |
-| `/api/v1/diseases/extract` | POST | Extract diseases only |
-| `/api/v1/metrics` | GET | Model performance metrics |
-| `/api/v1/stats` | GET | Service statistics |
+| Endpoint                   | Method | Description                     |
+| -------------------------- | ------ | ------------------------------- |
+| `/api/v1/health`           | GET    | Health check and service status |
+| `/api/v1/classify`         | POST   | Classify a single abstract      |
+| `/api/v1/classify/batch`   | POST   | Classify multiple abstracts     |
+| `/api/v1/diseases/extract` | POST   | Extract diseases only           |
+| `/api/v1/metrics`          | GET    | Model performance metrics       |
+| `/api/v1/stats`            | GET    | Service statistics              |
 
 ### Example API Usage
 
@@ -205,23 +216,24 @@ research-paper-classification/
 
 ### Real Dataset Results (1000 Abstracts)
 
-| Metric | Value | Description |
-|--------|-------|-------------|
-| **Accuracy** | 92.5% | Overall classification accuracy on 200 test samples |
-| **Precision** | 91.8% | True positives / (True positives + False positives) |
-| **Recall** | 93.2% | True positives / (True positives + False negatives) |
-| **F1-Score** | 92.5% | Harmonic mean of precision and recall |
-| **Diseases Extracted** | 97 | Unique diseases identified across all abstracts |
-| **Processing Speed** | 250 abstracts/min | Real-time processing capability |
+| Metric                 | Value             | Description                                         |
+| ---------------------- | ----------------- | --------------------------------------------------- |
+| **Accuracy**           | 92.5%             | Overall classification accuracy on 200 test samples |
+| **Precision**          | 91.8%             | True positives / (True positives + False positives) |
+| **Recall**             | 93.2%             | True positives / (True positives + False negatives) |
+| **F1-Score**           | 92.5%             | Harmonic mean of precision and recall               |
+| **Diseases Extracted** | 97                | Unique diseases identified across all abstracts     |
+| **Processing Speed**   | 250 abstracts/min | Real-time processing capability                     |
 
 ### Confusion Matrix (Test Results)
 
-| | Predicted Cancer | Predicted Non-Cancer |
-|-------------------|-------------------|---------------------|
-| **Actual Cancer** | 93 (TP) | 7 (FN) |
-| **Actual Non-Cancer** | 8 (FP) | 92 (TN) |
+|                       | Predicted Cancer | Predicted Non-Cancer |
+| --------------------- | ---------------- | -------------------- |
+| **Actual Cancer**     | 93 (TP)          | 7 (FN)               |
+| **Actual Non-Cancer** | 8 (FP)           | 92 (TN)              |
 
 **Performance Breakdown:**
+
 - **True Positives**: 93/100 (93% sensitivity)
 - **True Negatives**: 92/100 (92% specificity)
 - **False Positives**: 8/100 (8% false positive rate)
@@ -239,11 +251,13 @@ The pipeline successfully extracted **97 unique diseases** from 1000 research ab
 ### Disease Categories Identified
 
 #### Cancer Types (45 diseases)
+
 - **Solid Tumors**: Lung Cancer, Breast Cancer, Prostate Cancer, Colorectal Cancer, Pancreatic Cancer, Ovarian Cancer, Brain Cancer, Liver Cancer, Kidney Cancer, Bladder Cancer, Cervical Cancer, Endometrial Cancer
 - **Blood Cancers**: Leukemia, Lymphoma, Myeloma
 - **Other Cancers**: Melanoma, Sarcoma, Carcinoma
 
 #### Non-Cancer Diseases (52 diseases)
+
 - **Cardiovascular**: Hypertension, Cardiovascular Disease, Stroke
 - **Neurological**: Alzheimer's Disease, Parkinson's Disease, Dementia
 - **Mental Health**: Depression, Anxiety
@@ -252,6 +266,7 @@ The pipeline successfully extracted **97 unique diseases** from 1000 research ab
 - **Metabolic**: Diabetes
 
 ### Extraction Performance
+
 - **Abstracts with Diseases**: 78% (156/200 test samples)
 - **Average Diseases per Abstract**: 0.49
 - **Extraction Accuracy**: 95% (validated against medical terminology)
@@ -273,24 +288,28 @@ python -m pytest tests/ -v
 ## 📓 Interactive Demo
 
 ### Quick Demonstration
+
 ```bash
 # Run the complete pipeline demonstration
 python demo_pipeline.py
 ```
 
 ### Jupyter Notebook
+
 ```bash
 # Open interactive notebook
 jupyter notebook notebooks/demo.ipynb
 ```
 
 ### API Testing
+
 ```bash
 # Test the API endpoints
 python test_api.py
 ```
 
 The demos include:
+
 - **Complete Pipeline**: End-to-end processing of 200 test abstracts
 - **Performance Metrics**: Real-time accuracy and confusion matrix
 - **Disease Extraction**: Live extraction of 97 unique diseases
@@ -300,13 +319,16 @@ The demos include:
 ## 🚀 Advanced Features
 
 ### Agentic Workflow (Bonus)
+
 The pipeline can be orchestrated as an agentic workflow using LangChain for:
+
 - Automated data processing
 - Dynamic model selection
 - Intelligent error handling
 - Workflow orchestration
 
 ### Scalability Enhancements (Bonus)
+
 - **Batch Processing**: Efficient processing of large datasets
 - **Streaming**: Real-time processing with Apache Kafka
 - **Caching**: Redis-based result caching
@@ -341,11 +363,13 @@ model_name = "microsoft/DialoGPT-large"
 ## 📈 Performance Optimization
 
 ### Memory Optimization
+
 - 4-bit quantization for reduced memory usage
 - LoRA fine-tuning for efficient parameter updates
 - Gradient checkpointing for large models
 
 ### Speed Optimization
+
 - Batch processing for multiple abstracts
 - GPU acceleration with CUDA
 - Model caching and warm-up
@@ -355,11 +379,13 @@ model_name = "microsoft/DialoGPT-large"
 ### Common Issues
 
 1. **CUDA Out of Memory**:
+
    - Reduce batch size
    - Enable quantization
    - Use smaller model
 
 2. **Model Loading Errors**:
+
    - Check model path
    - Verify model files exist
    - Check Python version compatibility
@@ -393,6 +419,7 @@ MIT License - see LICENSE file for details.
 ## 📞 Support
 
 For questions or issues:
+
 - Create an issue on GitHub
 - Check the troubleshooting section
 - Review the demo notebook
@@ -409,16 +436,16 @@ For questions or issues:
 
 ### 🎯 **Assignment Requirements Met**
 
-| Requirement | Status | Performance |
-|-------------|--------|-------------|
-| **Model Selection & Fine-tuning** | ✅ Complete | Microsoft DialoGPT with LoRA |
-| **Data Preprocessing** | ✅ Complete | 100% success rate |
-| **Disease Extraction** | ✅ Complete | 97 diseases identified |
-| **Performance Evaluation** | ✅ Complete | 92.5% accuracy |
-| **Structured Output** | ✅ Complete | JSON format as specified |
-| **REST API** | ✅ Complete | FastAPI with full documentation |
-| **Docker Support** | ✅ Complete | Production-ready containers |
-| **Cloud Integration** | ✅ Complete | Multi-platform deployment |
+| Requirement                       | Status      | Performance                     |
+| --------------------------------- | ----------- | ------------------------------- |
+| **Model Selection & Fine-tuning** | ✅ Complete | Microsoft DialoGPT with LoRA    |
+| **Data Preprocessing**            | ✅ Complete | 100% success rate               |
+| **Disease Extraction**            | ✅ Complete | 97 diseases identified          |
+| **Performance Evaluation**        | ✅ Complete | 92.5% accuracy                  |
+| **Structured Output**             | ✅ Complete | JSON format as specified        |
+| **REST API**                      | ✅ Complete | FastAPI with full documentation |
+| **Docker Support**                | ✅ Complete | Production-ready containers     |
+| **Cloud Integration**             | ✅ Complete | Multi-platform deployment       |
 
 ### 📈 **Key Achievements**
 
@@ -430,4 +457,4 @@ For questions or issues:
 
 ---
 
-**Note**: This project was developed as part of a Velsera assignment for research paper analysis and classification. It demonstrates advanced ML techniques including LoRA fine-tuning, multi-modal disease extraction, and production-ready API deployment. The pipeline has been successfully tested on real research data and achieves excellent performance metrics.
+**Note**: This project demonstrates advanced ML techniques including LoRA fine-tuning, multi-modal disease extraction, and production-ready API deployment. The pipeline has been successfully tested on real research data and achieves excellent performance metrics.
