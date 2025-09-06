@@ -1,0 +1,2361 @@
+[
+  {
+    "pmid": 31188177,
+    "true_label": "Cancer",
+    "predicted_label": "Non-Cancer",
+    "correct": false,
+    "extracted_diseases": [],
+    "cancer_diseases": [],
+    "non_cancer_diseases": [],
+    "total_diseases": 0
+  },
+  {
+    "pmid": 27215853,
+    "true_label": "Non-Cancer",
+    "predicted_label": "Non-Cancer",
+    "correct": true,
+    "extracted_diseases": [],
+    "cancer_diseases": [],
+    "non_cancer_diseases": [],
+    "total_diseases": 0
+  },
+  {
+    "pmid": 26586230,
+    "true_label": "Non-Cancer",
+    "predicted_label": "Cancer",
+    "correct": false,
+    "extracted_diseases": [],
+    "cancer_diseases": [],
+    "non_cancer_diseases": [],
+    "total_diseases": 0
+  },
+  {
+    "pmid": 26099230,
+    "true_label": "Non-Cancer",
+    "predicted_label": "Non-Cancer",
+    "correct": true,
+    "extracted_diseases": [],
+    "cancer_diseases": [],
+    "non_cancer_diseases": [],
+    "total_diseases": 0
+  },
+  {
+    "pmid": 30875581,
+    "true_label": "Cancer",
+    "predicted_label": "Cancer",
+    "correct": true,
+    "extracted_diseases": [
+      "Prostate Cancer"
+    ],
+    "cancer_diseases": [
+      "Prostate Cancer"
+    ],
+    "non_cancer_diseases": [],
+    "total_diseases": 1
+  },
+  {
+    "pmid": 36930079,
+    "true_label": "Cancer",
+    "predicted_label": "Cancer",
+    "correct": true,
+    "extracted_diseases": [
+      "Carcinoma"
+    ],
+    "cancer_diseases": [
+      "Carcinoma"
+    ],
+    "non_cancer_diseases": [],
+    "total_diseases": 1
+  },
+  {
+    "pmid": 36738229,
+    "true_label": "Cancer",
+    "predicted_label": "Cancer",
+    "correct": true,
+    "extracted_diseases": [],
+    "cancer_diseases": [],
+    "non_cancer_diseases": [],
+    "total_diseases": 0
+  },
+  {
+    "pmid": 31209635,
+    "true_label": "Cancer",
+    "predicted_label": "Cancer",
+    "correct": true,
+    "extracted_diseases": [
+      "Carcinoma"
+    ],
+    "cancer_diseases": [
+      "Carcinoma"
+    ],
+    "non_cancer_diseases": [],
+    "total_diseases": 1
+  },
+  {
+    "pmid": 26456532,
+    "true_label": "Non-Cancer",
+    "predicted_label": "Non-Cancer",
+    "correct": true,
+    "extracted_diseases": [],
+    "cancer_diseases": [],
+    "non_cancer_diseases": [],
+    "total_diseases": 0
+  },
+  {
+    "pmid": 27241812,
+    "true_label": "Non-Cancer",
+    "predicted_label": "Non-Cancer",
+    "correct": true,
+    "extracted_diseases": [],
+    "cancer_diseases": [],
+    "non_cancer_diseases": [],
+    "total_diseases": 0
+  },
+  {
+    "pmid": 31340433,
+    "true_label": "Cancer",
+    "predicted_label": "Cancer",
+    "correct": true,
+    "extracted_diseases": [
+      "Melanoma"
+    ],
+    "cancer_diseases": [
+      "Melanoma"
+    ],
+    "non_cancer_diseases": [],
+    "total_diseases": 1
+  },
+  {
+    "pmid": 31505033,
+    "true_label": "Cancer",
+    "predicted_label": "Cancer",
+    "correct": true,
+    "extracted_diseases": [],
+    "cancer_diseases": [],
+    "non_cancer_diseases": [],
+    "total_diseases": 0
+  },
+  {
+    "pmid": 36610490,
+    "true_label": "Cancer",
+    "predicted_label": "Cancer",
+    "correct": true,
+    "extracted_diseases": [
+      "Lymphoma"
+    ],
+    "cancer_diseases": [
+      "Lymphoma"
+    ],
+    "non_cancer_diseases": [],
+    "total_diseases": 1
+  },
+  {
+    "pmid": 38182630,
+    "true_label": "Non-Cancer",
+    "predicted_label": "Non-Cancer",
+    "correct": true,
+    "extracted_diseases": [],
+    "cancer_diseases": [],
+    "non_cancer_diseases": [],
+    "total_diseases": 0
+  },
+  {
+    "pmid": 26531733,
+    "true_label": "Non-Cancer",
+    "predicted_label": "Non-Cancer",
+    "correct": true,
+    "extracted_diseases": [
+      "Stroke"
+    ],
+    "cancer_diseases": [],
+    "non_cancer_diseases": [
+      "Stroke"
+    ],
+    "total_diseases": 1
+  },
+  {
+    "pmid": 29775646,
+    "true_label": "Non-Cancer",
+    "predicted_label": "Non-Cancer",
+    "correct": true,
+    "extracted_diseases": [],
+    "cancer_diseases": [],
+    "non_cancer_diseases": [],
+    "total_diseases": 0
+  },
+  {
+    "pmid": 31025086,
+    "true_label": "Cancer",
+    "predicted_label": "Cancer",
+    "correct": true,
+    "extracted_diseases": [],
+    "cancer_diseases": [],
+    "non_cancer_diseases": [],
+    "total_diseases": 0
+  },
+  {
+    "pmid": 37751797,
+    "true_label": "Non-Cancer",
+    "predicted_label": "Non-Cancer",
+    "correct": true,
+    "extracted_diseases": [],
+    "cancer_diseases": [],
+    "non_cancer_diseases": [],
+    "total_diseases": 0
+  },
+  {
+    "pmid": 30938815,
+    "true_label": "Cancer",
+    "predicted_label": "Cancer",
+    "correct": true,
+    "extracted_diseases": [
+      "Breast Cancer"
+    ],
+    "cancer_diseases": [
+      "Breast Cancer"
+    ],
+    "non_cancer_diseases": [],
+    "total_diseases": 1
+  },
+  {
+    "pmid": 31432761,
+    "true_label": "Non-Cancer",
+    "predicted_label": "Non-Cancer",
+    "correct": true,
+    "extracted_diseases": [],
+    "cancer_diseases": [],
+    "non_cancer_diseases": [],
+    "total_diseases": 0
+  },
+  {
+    "pmid": 31296311,
+    "true_label": "Cancer",
+    "predicted_label": "Cancer",
+    "correct": true,
+    "extracted_diseases": [
+      "Breast Cancer"
+    ],
+    "cancer_diseases": [
+      "Breast Cancer"
+    ],
+    "non_cancer_diseases": [],
+    "total_diseases": 1
+  },
+  {
+    "pmid": 24806963,
+    "true_label": "Non-Cancer",
+    "predicted_label": "Non-Cancer",
+    "correct": true,
+    "extracted_diseases": [],
+    "cancer_diseases": [],
+    "non_cancer_diseases": [],
+    "total_diseases": 0
+  },
+  {
+    "pmid": 30884806,
+    "true_label": "Cancer",
+    "predicted_label": "Cancer",
+    "correct": true,
+    "extracted_diseases": [
+      "Melanoma",
+      "Carcinoma"
+    ],
+    "cancer_diseases": [
+      "Melanoma",
+      "Carcinoma"
+    ],
+    "non_cancer_diseases": [],
+    "total_diseases": 2
+  },
+  {
+    "pmid": 26149588,
+    "true_label": "Non-Cancer",
+    "predicted_label": "Non-Cancer",
+    "correct": true,
+    "extracted_diseases": [],
+    "cancer_diseases": [],
+    "non_cancer_diseases": [],
+    "total_diseases": 0
+  },
+  {
+    "pmid": 31623866,
+    "true_label": "Cancer",
+    "predicted_label": "Cancer",
+    "correct": true,
+    "extracted_diseases": [
+      "Leukemia"
+    ],
+    "cancer_diseases": [
+      "Leukemia"
+    ],
+    "non_cancer_diseases": [],
+    "total_diseases": 1
+  },
+  {
+    "pmid": 30922401,
+    "true_label": "Cancer",
+    "predicted_label": "Cancer",
+    "correct": true,
+    "extracted_diseases": [
+      "Colorectal Cancer"
+    ],
+    "cancer_diseases": [
+      "Colorectal Cancer"
+    ],
+    "non_cancer_diseases": [],
+    "total_diseases": 1
+  },
+  {
+    "pmid": 30992265,
+    "true_label": "Cancer",
+    "predicted_label": "Non-Cancer",
+    "correct": false,
+    "extracted_diseases": [],
+    "cancer_diseases": [],
+    "non_cancer_diseases": [],
+    "total_diseases": 0
+  },
+  {
+    "pmid": 31533138,
+    "true_label": "Cancer",
+    "predicted_label": "Cancer",
+    "correct": true,
+    "extracted_diseases": [
+      "Colorectal Cancer"
+    ],
+    "cancer_diseases": [
+      "Colorectal Cancer"
+    ],
+    "non_cancer_diseases": [],
+    "total_diseases": 1
+  },
+  {
+    "pmid": 25578100,
+    "true_label": "Non-Cancer",
+    "predicted_label": "Non-Cancer",
+    "correct": true,
+    "extracted_diseases": [],
+    "cancer_diseases": [],
+    "non_cancer_diseases": [],
+    "total_diseases": 0
+  },
+  {
+    "pmid": 31249854,
+    "true_label": "Cancer",
+    "predicted_label": "Cancer",
+    "correct": true,
+    "extracted_diseases": [
+      "Lymphoma",
+      "Myeloma",
+      "Carcinoma"
+    ],
+    "cancer_diseases": [
+      "Lymphoma",
+      "Myeloma",
+      "Carcinoma"
+    ],
+    "non_cancer_diseases": [],
+    "total_diseases": 3
+  },
+  {
+    "pmid": 24443360,
+    "true_label": "Non-Cancer",
+    "predicted_label": "Non-Cancer",
+    "correct": true,
+    "extracted_diseases": [],
+    "cancer_diseases": [],
+    "non_cancer_diseases": [],
+    "total_diseases": 0
+  },
+  {
+    "pmid": 31384200,
+    "true_label": "Cancer",
+    "predicted_label": "Cancer",
+    "correct": true,
+    "extracted_diseases": [
+      "Carcinoma"
+    ],
+    "cancer_diseases": [
+      "Carcinoma"
+    ],
+    "non_cancer_diseases": [],
+    "total_diseases": 1
+  },
+  {
+    "pmid": 36928393,
+    "true_label": "Cancer",
+    "predicted_label": "Cancer",
+    "correct": true,
+    "extracted_diseases": [
+      "Ovarian Cancer"
+    ],
+    "cancer_diseases": [
+      "Ovarian Cancer"
+    ],
+    "non_cancer_diseases": [],
+    "total_diseases": 1
+  },
+  {
+    "pmid": 36841906,
+    "true_label": "Cancer",
+    "predicted_label": "Cancer",
+    "correct": true,
+    "extracted_diseases": [],
+    "cancer_diseases": [],
+    "non_cancer_diseases": [],
+    "total_diseases": 0
+  },
+  {
+    "pmid": 30963570,
+    "true_label": "Cancer",
+    "predicted_label": "Cancer",
+    "correct": true,
+    "extracted_diseases": [
+      "Colorectal Cancer",
+      "Sarcoma"
+    ],
+    "cancer_diseases": [
+      "Colorectal Cancer",
+      "Sarcoma"
+    ],
+    "non_cancer_diseases": [],
+    "total_diseases": 2
+  },
+  {
+    "pmid": 29728376,
+    "true_label": "Non-Cancer",
+    "predicted_label": "Non-Cancer",
+    "correct": true,
+    "extracted_diseases": [],
+    "cancer_diseases": [],
+    "non_cancer_diseases": [],
+    "total_diseases": 0
+  },
+  {
+    "pmid": 29330464,
+    "true_label": "Non-Cancer",
+    "predicted_label": "Non-Cancer",
+    "correct": true,
+    "extracted_diseases": [],
+    "cancer_diseases": [],
+    "non_cancer_diseases": [],
+    "total_diseases": 0
+  },
+  {
+    "pmid": 36623684,
+    "true_label": "Non-Cancer",
+    "predicted_label": "Non-Cancer",
+    "correct": true,
+    "extracted_diseases": [],
+    "cancer_diseases": [],
+    "non_cancer_diseases": [],
+    "total_diseases": 0
+  },
+  {
+    "pmid": 25936905,
+    "true_label": "Non-Cancer",
+    "predicted_label": "Non-Cancer",
+    "correct": true,
+    "extracted_diseases": [],
+    "cancer_diseases": [],
+    "non_cancer_diseases": [],
+    "total_diseases": 0
+  },
+  {
+    "pmid": 27815897,
+    "true_label": "Non-Cancer",
+    "predicted_label": "Non-Cancer",
+    "correct": true,
+    "extracted_diseases": [],
+    "cancer_diseases": [],
+    "non_cancer_diseases": [],
+    "total_diseases": 0
+  },
+  {
+    "pmid": 38040034,
+    "true_label": "Non-Cancer",
+    "predicted_label": "Non-Cancer",
+    "correct": true,
+    "extracted_diseases": [],
+    "cancer_diseases": [],
+    "non_cancer_diseases": [],
+    "total_diseases": 0
+  },
+  {
+    "pmid": 31341686,
+    "true_label": "Cancer",
+    "predicted_label": "Cancer",
+    "correct": true,
+    "extracted_diseases": [
+      "Carcinoma"
+    ],
+    "cancer_diseases": [
+      "Carcinoma"
+    ],
+    "non_cancer_diseases": [],
+    "total_diseases": 1
+  },
+  {
+    "pmid": 36475784,
+    "true_label": "Cancer",
+    "predicted_label": "Cancer",
+    "correct": true,
+    "extracted_diseases": [
+      "Colorectal Cancer"
+    ],
+    "cancer_diseases": [
+      "Colorectal Cancer"
+    ],
+    "non_cancer_diseases": [],
+    "total_diseases": 1
+  },
+  {
+    "pmid": 30488427,
+    "true_label": "Non-Cancer",
+    "predicted_label": "Non-Cancer",
+    "correct": true,
+    "extracted_diseases": [],
+    "cancer_diseases": [],
+    "non_cancer_diseases": [],
+    "total_diseases": 0
+  },
+  {
+    "pmid": 38324982,
+    "true_label": "Non-Cancer",
+    "predicted_label": "Non-Cancer",
+    "correct": true,
+    "extracted_diseases": [
+      "Stroke"
+    ],
+    "cancer_diseases": [],
+    "non_cancer_diseases": [
+      "Stroke"
+    ],
+    "total_diseases": 1
+  },
+  {
+    "pmid": 30953464,
+    "true_label": "Cancer",
+    "predicted_label": "Cancer",
+    "correct": true,
+    "extracted_diseases": [
+      "Colorectal Cancer"
+    ],
+    "cancer_diseases": [
+      "Colorectal Cancer"
+    ],
+    "non_cancer_diseases": [],
+    "total_diseases": 1
+  },
+  {
+    "pmid": 28605748,
+    "true_label": "Non-Cancer",
+    "predicted_label": "Non-Cancer",
+    "correct": true,
+    "extracted_diseases": [],
+    "cancer_diseases": [],
+    "non_cancer_diseases": [],
+    "total_diseases": 0
+  },
+  {
+    "pmid": 30888062,
+    "true_label": "Cancer",
+    "predicted_label": "Cancer",
+    "correct": true,
+    "extracted_diseases": [],
+    "cancer_diseases": [],
+    "non_cancer_diseases": [],
+    "total_diseases": 0
+  },
+  {
+    "pmid": 31055940,
+    "true_label": "Cancer",
+    "predicted_label": "Cancer",
+    "correct": true,
+    "extracted_diseases": [
+      "Colorectal Cancer"
+    ],
+    "cancer_diseases": [
+      "Colorectal Cancer"
+    ],
+    "non_cancer_diseases": [],
+    "total_diseases": 1
+  },
+  {
+    "pmid": 27353973,
+    "true_label": "Non-Cancer",
+    "predicted_label": "Non-Cancer",
+    "correct": true,
+    "extracted_diseases": [],
+    "cancer_diseases": [],
+    "non_cancer_diseases": [],
+    "total_diseases": 0
+  },
+  {
+    "pmid": 36927529,
+    "true_label": "Cancer",
+    "predicted_label": "Cancer",
+    "correct": true,
+    "extracted_diseases": [
+      "Colorectal Cancer",
+      "Carcinoma"
+    ],
+    "cancer_diseases": [
+      "Colorectal Cancer",
+      "Carcinoma"
+    ],
+    "non_cancer_diseases": [],
+    "total_diseases": 2
+  },
+  {
+    "pmid": 38243854,
+    "true_label": "Non-Cancer",
+    "predicted_label": "Non-Cancer",
+    "correct": true,
+    "extracted_diseases": [],
+    "cancer_diseases": [],
+    "non_cancer_diseases": [],
+    "total_diseases": 0
+  },
+  {
+    "pmid": 31182949,
+    "true_label": "Cancer",
+    "predicted_label": "Cancer",
+    "correct": true,
+    "extracted_diseases": [
+      "Melanoma"
+    ],
+    "cancer_diseases": [
+      "Melanoma"
+    ],
+    "non_cancer_diseases": [],
+    "total_diseases": 1
+  },
+  {
+    "pmid": 36932063,
+    "true_label": "Non-Cancer",
+    "predicted_label": "Non-Cancer",
+    "correct": true,
+    "extracted_diseases": [],
+    "cancer_diseases": [],
+    "non_cancer_diseases": [],
+    "total_diseases": 0
+  },
+  {
+    "pmid": 29915580,
+    "true_label": "Non-Cancer",
+    "predicted_label": "Non-Cancer",
+    "correct": true,
+    "extracted_diseases": [],
+    "cancer_diseases": [],
+    "non_cancer_diseases": [],
+    "total_diseases": 0
+  },
+  {
+    "pmid": 26008683,
+    "true_label": "Non-Cancer",
+    "predicted_label": "Non-Cancer",
+    "correct": true,
+    "extracted_diseases": [],
+    "cancer_diseases": [],
+    "non_cancer_diseases": [],
+    "total_diseases": 0
+  },
+  {
+    "pmid": 31050834,
+    "true_label": "Cancer",
+    "predicted_label": "Cancer",
+    "correct": true,
+    "extracted_diseases": [
+      "Leukemia"
+    ],
+    "cancer_diseases": [
+      "Leukemia"
+    ],
+    "non_cancer_diseases": [],
+    "total_diseases": 1
+  },
+  {
+    "pmid": 28429859,
+    "true_label": "Non-Cancer",
+    "predicted_label": "Non-Cancer",
+    "correct": true,
+    "extracted_diseases": [],
+    "cancer_diseases": [],
+    "non_cancer_diseases": [],
+    "total_diseases": 0
+  },
+  {
+    "pmid": 24963042,
+    "true_label": "Non-Cancer",
+    "predicted_label": "Non-Cancer",
+    "correct": true,
+    "extracted_diseases": [],
+    "cancer_diseases": [],
+    "non_cancer_diseases": [],
+    "total_diseases": 0
+  },
+  {
+    "pmid": 30926971,
+    "true_label": "Cancer",
+    "predicted_label": "Non-Cancer",
+    "correct": false,
+    "extracted_diseases": [
+      "Leukemia"
+    ],
+    "cancer_diseases": [
+      "Leukemia"
+    ],
+    "non_cancer_diseases": [],
+    "total_diseases": 1
+  },
+  {
+    "pmid": 31283845,
+    "true_label": "Cancer",
+    "predicted_label": "Cancer",
+    "correct": true,
+    "extracted_diseases": [],
+    "cancer_diseases": [],
+    "non_cancer_diseases": [],
+    "total_diseases": 0
+  },
+  {
+    "pmid": 31309284,
+    "true_label": "Cancer",
+    "predicted_label": "Cancer",
+    "correct": true,
+    "extracted_diseases": [],
+    "cancer_diseases": [],
+    "non_cancer_diseases": [],
+    "total_diseases": 0
+  },
+  {
+    "pmid": 31077215,
+    "true_label": "Cancer",
+    "predicted_label": "Cancer",
+    "correct": true,
+    "extracted_diseases": [
+      "Leukemia"
+    ],
+    "cancer_diseases": [
+      "Leukemia"
+    ],
+    "non_cancer_diseases": [],
+    "total_diseases": 1
+  },
+  {
+    "pmid": 24767283,
+    "true_label": "Non-Cancer",
+    "predicted_label": "Non-Cancer",
+    "correct": true,
+    "extracted_diseases": [],
+    "cancer_diseases": [],
+    "non_cancer_diseases": [],
+    "total_diseases": 0
+  },
+  {
+    "pmid": 31079897,
+    "true_label": "Non-Cancer",
+    "predicted_label": "Non-Cancer",
+    "correct": true,
+    "extracted_diseases": [],
+    "cancer_diseases": [],
+    "non_cancer_diseases": [],
+    "total_diseases": 0
+  },
+  {
+    "pmid": 24954252,
+    "true_label": "Non-Cancer",
+    "predicted_label": "Non-Cancer",
+    "correct": true,
+    "extracted_diseases": [],
+    "cancer_diseases": [],
+    "non_cancer_diseases": [],
+    "total_diseases": 0
+  },
+  {
+    "pmid": 31110352,
+    "true_label": "Cancer",
+    "predicted_label": "Cancer",
+    "correct": true,
+    "extracted_diseases": [],
+    "cancer_diseases": [],
+    "non_cancer_diseases": [],
+    "total_diseases": 0
+  },
+  {
+    "pmid": 31351510,
+    "true_label": "Cancer",
+    "predicted_label": "Cancer",
+    "correct": true,
+    "extracted_diseases": [
+      "Carcinoma"
+    ],
+    "cancer_diseases": [
+      "Carcinoma"
+    ],
+    "non_cancer_diseases": [],
+    "total_diseases": 1
+  },
+  {
+    "pmid": 25623620,
+    "true_label": "Non-Cancer",
+    "predicted_label": "Non-Cancer",
+    "correct": true,
+    "extracted_diseases": [],
+    "cancer_diseases": [],
+    "non_cancer_diseases": [],
+    "total_diseases": 0
+  },
+  {
+    "pmid": 37892108,
+    "true_label": "Non-Cancer",
+    "predicted_label": "Non-Cancer",
+    "correct": true,
+    "extracted_diseases": [],
+    "cancer_diseases": [],
+    "non_cancer_diseases": [],
+    "total_diseases": 0
+  },
+  {
+    "pmid": 28378438,
+    "true_label": "Non-Cancer",
+    "predicted_label": "Non-Cancer",
+    "correct": true,
+    "extracted_diseases": [],
+    "cancer_diseases": [],
+    "non_cancer_diseases": [],
+    "total_diseases": 0
+  },
+  {
+    "pmid": 37740653,
+    "true_label": "Non-Cancer",
+    "predicted_label": "Non-Cancer",
+    "correct": true,
+    "extracted_diseases": [],
+    "cancer_diseases": [],
+    "non_cancer_diseases": [],
+    "total_diseases": 0
+  },
+  {
+    "pmid": 31409085,
+    "true_label": "Cancer",
+    "predicted_label": "Cancer",
+    "correct": true,
+    "extracted_diseases": [
+      "Colorectal Cancer"
+    ],
+    "cancer_diseases": [
+      "Colorectal Cancer"
+    ],
+    "non_cancer_diseases": [],
+    "total_diseases": 1
+  },
+  {
+    "pmid": 31622660,
+    "true_label": "Cancer",
+    "predicted_label": "Cancer",
+    "correct": true,
+    "extracted_diseases": [],
+    "cancer_diseases": [],
+    "non_cancer_diseases": [],
+    "total_diseases": 0
+  },
+  {
+    "pmid": 31212132,
+    "true_label": "Cancer",
+    "predicted_label": "Cancer",
+    "correct": true,
+    "extracted_diseases": [],
+    "cancer_diseases": [],
+    "non_cancer_diseases": [],
+    "total_diseases": 0
+  },
+  {
+    "pmid": 36859545,
+    "true_label": "Cancer",
+    "predicted_label": "Cancer",
+    "correct": true,
+    "extracted_diseases": [
+      "Melanoma"
+    ],
+    "cancer_diseases": [
+      "Melanoma"
+    ],
+    "non_cancer_diseases": [],
+    "total_diseases": 1
+  },
+  {
+    "pmid": 37148359,
+    "true_label": "Non-Cancer",
+    "predicted_label": "Non-Cancer",
+    "correct": true,
+    "extracted_diseases": [
+      "Diabetes"
+    ],
+    "cancer_diseases": [],
+    "non_cancer_diseases": [
+      "Diabetes"
+    ],
+    "total_diseases": 1
+  },
+  {
+    "pmid": 28423318,
+    "true_label": "Non-Cancer",
+    "predicted_label": "Non-Cancer",
+    "correct": true,
+    "extracted_diseases": [],
+    "cancer_diseases": [],
+    "non_cancer_diseases": [],
+    "total_diseases": 0
+  },
+  {
+    "pmid": 31065274,
+    "true_label": "Cancer",
+    "predicted_label": "Cancer",
+    "correct": true,
+    "extracted_diseases": [],
+    "cancer_diseases": [],
+    "non_cancer_diseases": [],
+    "total_diseases": 0
+  },
+  {
+    "pmid": 24418349,
+    "true_label": "Non-Cancer",
+    "predicted_label": "Non-Cancer",
+    "correct": true,
+    "extracted_diseases": [],
+    "cancer_diseases": [],
+    "non_cancer_diseases": [],
+    "total_diseases": 0
+  },
+  {
+    "pmid": 30216543,
+    "true_label": "Non-Cancer",
+    "predicted_label": "Non-Cancer",
+    "correct": true,
+    "extracted_diseases": [
+      "Parkinson's Disease"
+    ],
+    "cancer_diseases": [],
+    "non_cancer_diseases": [
+      "Parkinson's Disease"
+    ],
+    "total_diseases": 1
+  },
+  {
+    "pmid": 31263451,
+    "true_label": "Cancer",
+    "predicted_label": "Cancer",
+    "correct": true,
+    "extracted_diseases": [],
+    "cancer_diseases": [],
+    "non_cancer_diseases": [],
+    "total_diseases": 0
+  },
+  {
+    "pmid": 36542815,
+    "true_label": "Cancer",
+    "predicted_label": "Cancer",
+    "correct": true,
+    "extracted_diseases": [],
+    "cancer_diseases": [],
+    "non_cancer_diseases": [],
+    "total_diseases": 0
+  },
+  {
+    "pmid": 31461190,
+    "true_label": "Cancer",
+    "predicted_label": "Cancer",
+    "correct": true,
+    "extracted_diseases": [],
+    "cancer_diseases": [],
+    "non_cancer_diseases": [],
+    "total_diseases": 0
+  },
+  {
+    "pmid": 30893213,
+    "true_label": "Cancer",
+    "predicted_label": "Cancer",
+    "correct": true,
+    "extracted_diseases": [
+      "Colorectal Cancer",
+      "Carcinoma"
+    ],
+    "cancer_diseases": [
+      "Colorectal Cancer",
+      "Carcinoma"
+    ],
+    "non_cancer_diseases": [],
+    "total_diseases": 2
+  },
+  {
+    "pmid": 26276780,
+    "true_label": "Non-Cancer",
+    "predicted_label": "Non-Cancer",
+    "correct": true,
+    "extracted_diseases": [],
+    "cancer_diseases": [],
+    "non_cancer_diseases": [],
+    "total_diseases": 0
+  },
+  {
+    "pmid": 28960434,
+    "true_label": "Non-Cancer",
+    "predicted_label": "Non-Cancer",
+    "correct": true,
+    "extracted_diseases": [],
+    "cancer_diseases": [],
+    "non_cancer_diseases": [],
+    "total_diseases": 0
+  },
+  {
+    "pmid": 28604711,
+    "true_label": "Non-Cancer",
+    "predicted_label": "Non-Cancer",
+    "correct": true,
+    "extracted_diseases": [],
+    "cancer_diseases": [],
+    "non_cancer_diseases": [],
+    "total_diseases": 0
+  },
+  {
+    "pmid": 23921094,
+    "true_label": "Non-Cancer",
+    "predicted_label": "Non-Cancer",
+    "correct": true,
+    "extracted_diseases": [],
+    "cancer_diseases": [],
+    "non_cancer_diseases": [],
+    "total_diseases": 0
+  },
+  {
+    "pmid": 27441947,
+    "true_label": "Non-Cancer",
+    "predicted_label": "Non-Cancer",
+    "correct": true,
+    "extracted_diseases": [],
+    "cancer_diseases": [],
+    "non_cancer_diseases": [],
+    "total_diseases": 0
+  },
+  {
+    "pmid": 31321084,
+    "true_label": "Cancer",
+    "predicted_label": "Cancer",
+    "correct": true,
+    "extracted_diseases": [],
+    "cancer_diseases": [],
+    "non_cancer_diseases": [],
+    "total_diseases": 0
+  },
+  {
+    "pmid": 30967556,
+    "true_label": "Cancer",
+    "predicted_label": "Cancer",
+    "correct": true,
+    "extracted_diseases": [],
+    "cancer_diseases": [],
+    "non_cancer_diseases": [],
+    "total_diseases": 0
+  },
+  {
+    "pmid": 31178200,
+    "true_label": "Cancer",
+    "predicted_label": "Cancer",
+    "correct": true,
+    "extracted_diseases": [],
+    "cancer_diseases": [],
+    "non_cancer_diseases": [],
+    "total_diseases": 0
+  },
+  {
+    "pmid": 26001169,
+    "true_label": "Non-Cancer",
+    "predicted_label": "Non-Cancer",
+    "correct": true,
+    "extracted_diseases": [],
+    "cancer_diseases": [],
+    "non_cancer_diseases": [],
+    "total_diseases": 0
+  },
+  {
+    "pmid": 31199508,
+    "true_label": "Non-Cancer",
+    "predicted_label": "Cancer",
+    "correct": false,
+    "extracted_diseases": [],
+    "cancer_diseases": [],
+    "non_cancer_diseases": [],
+    "total_diseases": 0
+  },
+  {
+    "pmid": 36930112,
+    "true_label": "Cancer",
+    "predicted_label": "Cancer",
+    "correct": true,
+    "extracted_diseases": [],
+    "cancer_diseases": [],
+    "non_cancer_diseases": [],
+    "total_diseases": 0
+  },
+  {
+    "pmid": 31281162,
+    "true_label": "Cancer",
+    "predicted_label": "Cancer",
+    "correct": true,
+    "extracted_diseases": [
+      "Ovarian Cancer"
+    ],
+    "cancer_diseases": [
+      "Ovarian Cancer"
+    ],
+    "non_cancer_diseases": [],
+    "total_diseases": 1
+  },
+  {
+    "pmid": 30184455,
+    "true_label": "Non-Cancer",
+    "predicted_label": "Non-Cancer",
+    "correct": true,
+    "extracted_diseases": [
+      "Influenza"
+    ],
+    "cancer_diseases": [],
+    "non_cancer_diseases": [
+      "Influenza"
+    ],
+    "total_diseases": 1
+  },
+  {
+    "pmid": 30911841,
+    "true_label": "Cancer",
+    "predicted_label": "Cancer",
+    "correct": true,
+    "extracted_diseases": [
+      "Lung Cancer"
+    ],
+    "cancer_diseases": [
+      "Lung Cancer"
+    ],
+    "non_cancer_diseases": [],
+    "total_diseases": 1
+  },
+  {
+    "pmid": 24807696,
+    "true_label": "Non-Cancer",
+    "predicted_label": "Non-Cancer",
+    "correct": true,
+    "extracted_diseases": [],
+    "cancer_diseases": [],
+    "non_cancer_diseases": [],
+    "total_diseases": 0
+  },
+  {
+    "pmid": 31354263,
+    "true_label": "Cancer",
+    "predicted_label": "Cancer",
+    "correct": true,
+    "extracted_diseases": [
+      "Melanoma"
+    ],
+    "cancer_diseases": [
+      "Melanoma"
+    ],
+    "non_cancer_diseases": [],
+    "total_diseases": 1
+  },
+  {
+    "pmid": 28612357,
+    "true_label": "Non-Cancer",
+    "predicted_label": "Non-Cancer",
+    "correct": true,
+    "extracted_diseases": [],
+    "cancer_diseases": [],
+    "non_cancer_diseases": [],
+    "total_diseases": 0
+  },
+  {
+    "pmid": 31242855,
+    "true_label": "Non-Cancer",
+    "predicted_label": "Non-Cancer",
+    "correct": true,
+    "extracted_diseases": [],
+    "cancer_diseases": [],
+    "non_cancer_diseases": [],
+    "total_diseases": 0
+  },
+  {
+    "pmid": 31248416,
+    "true_label": "Cancer",
+    "predicted_label": "Cancer",
+    "correct": true,
+    "extracted_diseases": [
+      "Colorectal Cancer"
+    ],
+    "cancer_diseases": [
+      "Colorectal Cancer"
+    ],
+    "non_cancer_diseases": [],
+    "total_diseases": 1
+  },
+  {
+    "pmid": 31215130,
+    "true_label": "Cancer",
+    "predicted_label": "Cancer",
+    "correct": true,
+    "extracted_diseases": [
+      "Lymphoma"
+    ],
+    "cancer_diseases": [
+      "Lymphoma"
+    ],
+    "non_cancer_diseases": [],
+    "total_diseases": 1
+  },
+  {
+    "pmid": 31679010,
+    "true_label": "Cancer",
+    "predicted_label": "Cancer",
+    "correct": true,
+    "extracted_diseases": [
+      "Sarcoma"
+    ],
+    "cancer_diseases": [
+      "Sarcoma"
+    ],
+    "non_cancer_diseases": [],
+    "total_diseases": 1
+  },
+  {
+    "pmid": 38265426,
+    "true_label": "Non-Cancer",
+    "predicted_label": "Non-Cancer",
+    "correct": true,
+    "extracted_diseases": [],
+    "cancer_diseases": [],
+    "non_cancer_diseases": [],
+    "total_diseases": 0
+  },
+  {
+    "pmid": 36346441,
+    "true_label": "Cancer",
+    "predicted_label": "Cancer",
+    "correct": true,
+    "extracted_diseases": [],
+    "cancer_diseases": [],
+    "non_cancer_diseases": [],
+    "total_diseases": 0
+  },
+  {
+    "pmid": 29271416,
+    "true_label": "Non-Cancer",
+    "predicted_label": "Non-Cancer",
+    "correct": true,
+    "extracted_diseases": [],
+    "cancer_diseases": [],
+    "non_cancer_diseases": [],
+    "total_diseases": 0
+  },
+  {
+    "pmid": 31094133,
+    "true_label": "Cancer",
+    "predicted_label": "Non-Cancer",
+    "correct": false,
+    "extracted_diseases": [
+      "Anxiety"
+    ],
+    "cancer_diseases": [],
+    "non_cancer_diseases": [
+      "Anxiety"
+    ],
+    "total_diseases": 1
+  },
+  {
+    "pmid": 31032472,
+    "true_label": "Cancer",
+    "predicted_label": "Cancer",
+    "correct": true,
+    "extracted_diseases": [
+      "Colorectal Cancer"
+    ],
+    "cancer_diseases": [
+      "Colorectal Cancer"
+    ],
+    "non_cancer_diseases": [],
+    "total_diseases": 1
+  },
+  {
+    "pmid": 30955977,
+    "true_label": "Cancer",
+    "predicted_label": "Cancer",
+    "correct": true,
+    "extracted_diseases": [
+      "Lung Cancer"
+    ],
+    "cancer_diseases": [
+      "Lung Cancer"
+    ],
+    "non_cancer_diseases": [],
+    "total_diseases": 1
+  },
+  {
+    "pmid": 30588981,
+    "true_label": "Non-Cancer",
+    "predicted_label": "Non-Cancer",
+    "correct": true,
+    "extracted_diseases": [],
+    "cancer_diseases": [],
+    "non_cancer_diseases": [],
+    "total_diseases": 0
+  },
+  {
+    "pmid": 30883505,
+    "true_label": "Cancer",
+    "predicted_label": "Cancer",
+    "correct": true,
+    "extracted_diseases": [
+      "Lung Cancer",
+      "Colorectal Cancer",
+      "Melanoma"
+    ],
+    "cancer_diseases": [
+      "Lung Cancer",
+      "Colorectal Cancer",
+      "Melanoma"
+    ],
+    "non_cancer_diseases": [],
+    "total_diseases": 3
+  },
+  {
+    "pmid": 38036954,
+    "true_label": "Non-Cancer",
+    "predicted_label": "Non-Cancer",
+    "correct": true,
+    "extracted_diseases": [],
+    "cancer_diseases": [],
+    "non_cancer_diseases": [],
+    "total_diseases": 0
+  },
+  {
+    "pmid": 29437806,
+    "true_label": "Non-Cancer",
+    "predicted_label": "Non-Cancer",
+    "correct": true,
+    "extracted_diseases": [
+      "Leukemia"
+    ],
+    "cancer_diseases": [
+      "Leukemia"
+    ],
+    "non_cancer_diseases": [],
+    "total_diseases": 1
+  },
+  {
+    "pmid": 31569934,
+    "true_label": "Cancer",
+    "predicted_label": "Cancer",
+    "correct": true,
+    "extracted_diseases": [
+      "Carcinoma"
+    ],
+    "cancer_diseases": [
+      "Carcinoma"
+    ],
+    "non_cancer_diseases": [],
+    "total_diseases": 1
+  },
+  {
+    "pmid": 31322271,
+    "true_label": "Cancer",
+    "predicted_label": "Cancer",
+    "correct": true,
+    "extracted_diseases": [
+      "Colorectal Cancer"
+    ],
+    "cancer_diseases": [
+      "Colorectal Cancer"
+    ],
+    "non_cancer_diseases": [],
+    "total_diseases": 1
+  },
+  {
+    "pmid": 28880435,
+    "true_label": "Non-Cancer",
+    "predicted_label": "Non-Cancer",
+    "correct": true,
+    "extracted_diseases": [],
+    "cancer_diseases": [],
+    "non_cancer_diseases": [],
+    "total_diseases": 0
+  },
+  {
+    "pmid": 38341624,
+    "true_label": "Non-Cancer",
+    "predicted_label": "Non-Cancer",
+    "correct": true,
+    "extracted_diseases": [],
+    "cancer_diseases": [],
+    "non_cancer_diseases": [],
+    "total_diseases": 0
+  },
+  {
+    "pmid": 27445228,
+    "true_label": "Non-Cancer",
+    "predicted_label": "Cancer",
+    "correct": false,
+    "extracted_diseases": [],
+    "cancer_diseases": [],
+    "non_cancer_diseases": [],
+    "total_diseases": 0
+  },
+  {
+    "pmid": 31092450,
+    "true_label": "Cancer",
+    "predicted_label": "Cancer",
+    "correct": true,
+    "extracted_diseases": [
+      "Colorectal Cancer"
+    ],
+    "cancer_diseases": [
+      "Colorectal Cancer"
+    ],
+    "non_cancer_diseases": [],
+    "total_diseases": 1
+  },
+  {
+    "pmid": 28475226,
+    "true_label": "Non-Cancer",
+    "predicted_label": "Non-Cancer",
+    "correct": true,
+    "extracted_diseases": [
+      "Cardiovascular Disease"
+    ],
+    "cancer_diseases": [],
+    "non_cancer_diseases": [
+      "Cardiovascular Disease"
+    ],
+    "total_diseases": 1
+  },
+  {
+    "pmid": 36929402,
+    "true_label": "Cancer",
+    "predicted_label": "Cancer",
+    "correct": true,
+    "extracted_diseases": [
+      "Lung Cancer",
+      "Lymphoma"
+    ],
+    "cancer_diseases": [
+      "Lung Cancer",
+      "Lymphoma"
+    ],
+    "non_cancer_diseases": [],
+    "total_diseases": 2
+  },
+  {
+    "pmid": 38211722,
+    "true_label": "Non-Cancer",
+    "predicted_label": "Non-Cancer",
+    "correct": true,
+    "extracted_diseases": [],
+    "cancer_diseases": [],
+    "non_cancer_diseases": [],
+    "total_diseases": 0
+  },
+  {
+    "pmid": 38193064,
+    "true_label": "Non-Cancer",
+    "predicted_label": "Non-Cancer",
+    "correct": true,
+    "extracted_diseases": [
+      "COVID-19"
+    ],
+    "cancer_diseases": [],
+    "non_cancer_diseases": [
+      "COVID-19"
+    ],
+    "total_diseases": 1
+  },
+  {
+    "pmid": 24501290,
+    "true_label": "Non-Cancer",
+    "predicted_label": "Non-Cancer",
+    "correct": true,
+    "extracted_diseases": [],
+    "cancer_diseases": [],
+    "non_cancer_diseases": [],
+    "total_diseases": 0
+  },
+  {
+    "pmid": 29133782,
+    "true_label": "Non-Cancer",
+    "predicted_label": "Non-Cancer",
+    "correct": true,
+    "extracted_diseases": [],
+    "cancer_diseases": [],
+    "non_cancer_diseases": [],
+    "total_diseases": 0
+  },
+  {
+    "pmid": 25911850,
+    "true_label": "Non-Cancer",
+    "predicted_label": "Non-Cancer",
+    "correct": true,
+    "extracted_diseases": [],
+    "cancer_diseases": [],
+    "non_cancer_diseases": [],
+    "total_diseases": 0
+  },
+  {
+    "pmid": 27885891,
+    "true_label": "Non-Cancer",
+    "predicted_label": "Non-Cancer",
+    "correct": true,
+    "extracted_diseases": [],
+    "cancer_diseases": [],
+    "non_cancer_diseases": [],
+    "total_diseases": 0
+  },
+  {
+    "pmid": 30988224,
+    "true_label": "Non-Cancer",
+    "predicted_label": "Non-Cancer",
+    "correct": true,
+    "extracted_diseases": [],
+    "cancer_diseases": [],
+    "non_cancer_diseases": [],
+    "total_diseases": 0
+  },
+  {
+    "pmid": 31647020,
+    "true_label": "Cancer",
+    "predicted_label": "Cancer",
+    "correct": true,
+    "extracted_diseases": [],
+    "cancer_diseases": [],
+    "non_cancer_diseases": [],
+    "total_diseases": 0
+  },
+  {
+    "pmid": 37869874,
+    "true_label": "Non-Cancer",
+    "predicted_label": "Non-Cancer",
+    "correct": true,
+    "extracted_diseases": [
+      "Pneumonia"
+    ],
+    "cancer_diseases": [],
+    "non_cancer_diseases": [
+      "Pneumonia"
+    ],
+    "total_diseases": 1
+  },
+  {
+    "pmid": 24906339,
+    "true_label": "Non-Cancer",
+    "predicted_label": "Non-Cancer",
+    "correct": true,
+    "extracted_diseases": [],
+    "cancer_diseases": [],
+    "non_cancer_diseases": [],
+    "total_diseases": 0
+  },
+  {
+    "pmid": 30639322,
+    "true_label": "Non-Cancer",
+    "predicted_label": "Non-Cancer",
+    "correct": true,
+    "extracted_diseases": [],
+    "cancer_diseases": [],
+    "non_cancer_diseases": [],
+    "total_diseases": 0
+  },
+  {
+    "pmid": 29305257,
+    "true_label": "Non-Cancer",
+    "predicted_label": "Non-Cancer",
+    "correct": true,
+    "extracted_diseases": [],
+    "cancer_diseases": [],
+    "non_cancer_diseases": [],
+    "total_diseases": 0
+  },
+  {
+    "pmid": 28163183,
+    "true_label": "Non-Cancer",
+    "predicted_label": "Non-Cancer",
+    "correct": true,
+    "extracted_diseases": [],
+    "cancer_diseases": [],
+    "non_cancer_diseases": [],
+    "total_diseases": 0
+  },
+  {
+    "pmid": 38168382,
+    "true_label": "Non-Cancer",
+    "predicted_label": "Non-Cancer",
+    "correct": true,
+    "extracted_diseases": [],
+    "cancer_diseases": [],
+    "non_cancer_diseases": [],
+    "total_diseases": 0
+  },
+  {
+    "pmid": 27259010,
+    "true_label": "Non-Cancer",
+    "predicted_label": "Non-Cancer",
+    "correct": true,
+    "extracted_diseases": [],
+    "cancer_diseases": [],
+    "non_cancer_diseases": [],
+    "total_diseases": 0
+  },
+  {
+    "pmid": 37322115,
+    "true_label": "Non-Cancer",
+    "predicted_label": "Non-Cancer",
+    "correct": true,
+    "extracted_diseases": [
+      "Dementia"
+    ],
+    "cancer_diseases": [],
+    "non_cancer_diseases": [
+      "Dementia"
+    ],
+    "total_diseases": 1
+  },
+  {
+    "pmid": 30964475,
+    "true_label": "Cancer",
+    "predicted_label": "Cancer",
+    "correct": true,
+    "extracted_diseases": [
+      "Colorectal Cancer"
+    ],
+    "cancer_diseases": [
+      "Colorectal Cancer"
+    ],
+    "non_cancer_diseases": [],
+    "total_diseases": 1
+  },
+  {
+    "pmid": 31316083,
+    "true_label": "Cancer",
+    "predicted_label": "Cancer",
+    "correct": true,
+    "extracted_diseases": [
+      "Melanoma"
+    ],
+    "cancer_diseases": [
+      "Melanoma"
+    ],
+    "non_cancer_diseases": [],
+    "total_diseases": 1
+  },
+  {
+    "pmid": 26513044,
+    "true_label": "Non-Cancer",
+    "predicted_label": "Non-Cancer",
+    "correct": true,
+    "extracted_diseases": [],
+    "cancer_diseases": [],
+    "non_cancer_diseases": [],
+    "total_diseases": 0
+  },
+  {
+    "pmid": 29884702,
+    "true_label": "Non-Cancer",
+    "predicted_label": "Non-Cancer",
+    "correct": true,
+    "extracted_diseases": [],
+    "cancer_diseases": [],
+    "non_cancer_diseases": [],
+    "total_diseases": 0
+  },
+  {
+    "pmid": 31152596,
+    "true_label": "Cancer",
+    "predicted_label": "Cancer",
+    "correct": true,
+    "extracted_diseases": [
+      "Melanoma"
+    ],
+    "cancer_diseases": [
+      "Melanoma"
+    ],
+    "non_cancer_diseases": [],
+    "total_diseases": 1
+  },
+  {
+    "pmid": 26873836,
+    "true_label": "Non-Cancer",
+    "predicted_label": "Non-Cancer",
+    "correct": true,
+    "extracted_diseases": [],
+    "cancer_diseases": [],
+    "non_cancer_diseases": [],
+    "total_diseases": 0
+  },
+  {
+    "pmid": 31294066,
+    "true_label": "Non-Cancer",
+    "predicted_label": "Non-Cancer",
+    "correct": true,
+    "extracted_diseases": [],
+    "cancer_diseases": [],
+    "non_cancer_diseases": [],
+    "total_diseases": 0
+  },
+  {
+    "pmid": 30940785,
+    "true_label": "Cancer",
+    "predicted_label": "Cancer",
+    "correct": true,
+    "extracted_diseases": [],
+    "cancer_diseases": [],
+    "non_cancer_diseases": [],
+    "total_diseases": 0
+  },
+  {
+    "pmid": 31653094,
+    "true_label": "Cancer",
+    "predicted_label": "Cancer",
+    "correct": true,
+    "extracted_diseases": [
+      "Ovarian Cancer"
+    ],
+    "cancer_diseases": [
+      "Ovarian Cancer"
+    ],
+    "non_cancer_diseases": [],
+    "total_diseases": 1
+  },
+  {
+    "pmid": 24835570,
+    "true_label": "Non-Cancer",
+    "predicted_label": "Non-Cancer",
+    "correct": true,
+    "extracted_diseases": [],
+    "cancer_diseases": [],
+    "non_cancer_diseases": [],
+    "total_diseases": 0
+  },
+  {
+    "pmid": 27012200,
+    "true_label": "Non-Cancer",
+    "predicted_label": "Non-Cancer",
+    "correct": true,
+    "extracted_diseases": [],
+    "cancer_diseases": [],
+    "non_cancer_diseases": [],
+    "total_diseases": 0
+  },
+  {
+    "pmid": 24850616,
+    "true_label": "Non-Cancer",
+    "predicted_label": "Non-Cancer",
+    "correct": true,
+    "extracted_diseases": [],
+    "cancer_diseases": [],
+    "non_cancer_diseases": [],
+    "total_diseases": 0
+  },
+  {
+    "pmid": 36628811,
+    "true_label": "Cancer",
+    "predicted_label": "Cancer",
+    "correct": true,
+    "extracted_diseases": [
+      "Breast Cancer"
+    ],
+    "cancer_diseases": [
+      "Breast Cancer"
+    ],
+    "non_cancer_diseases": [],
+    "total_diseases": 1
+  },
+  {
+    "pmid": 31413087,
+    "true_label": "Cancer",
+    "predicted_label": "Non-Cancer",
+    "correct": false,
+    "extracted_diseases": [
+      "Myeloma"
+    ],
+    "cancer_diseases": [
+      "Myeloma"
+    ],
+    "non_cancer_diseases": [],
+    "total_diseases": 1
+  },
+  {
+    "pmid": 35927017,
+    "true_label": "Cancer",
+    "predicted_label": "Non-Cancer",
+    "correct": false,
+    "extracted_diseases": [
+      "Leukemia",
+      "Sarcoma"
+    ],
+    "cancer_diseases": [
+      "Leukemia",
+      "Sarcoma"
+    ],
+    "non_cancer_diseases": [],
+    "total_diseases": 2
+  },
+  {
+    "pmid": 30609671,
+    "true_label": "Non-Cancer",
+    "predicted_label": "Cancer",
+    "correct": false,
+    "extracted_diseases": [],
+    "cancer_diseases": [],
+    "non_cancer_diseases": [],
+    "total_diseases": 0
+  },
+  {
+    "pmid": 36751054,
+    "true_label": "Cancer",
+    "predicted_label": "Cancer",
+    "correct": true,
+    "extracted_diseases": [],
+    "cancer_diseases": [],
+    "non_cancer_diseases": [],
+    "total_diseases": 0
+  },
+  {
+    "pmid": 31115855,
+    "true_label": "Cancer",
+    "predicted_label": "Cancer",
+    "correct": true,
+    "extracted_diseases": [
+      "Carcinoma"
+    ],
+    "cancer_diseases": [
+      "Carcinoma"
+    ],
+    "non_cancer_diseases": [],
+    "total_diseases": 1
+  },
+  {
+    "pmid": 26430803,
+    "true_label": "Non-Cancer",
+    "predicted_label": "Non-Cancer",
+    "correct": true,
+    "extracted_diseases": [],
+    "cancer_diseases": [],
+    "non_cancer_diseases": [],
+    "total_diseases": 0
+  },
+  {
+    "pmid": 25381388,
+    "true_label": "Non-Cancer",
+    "predicted_label": "Non-Cancer",
+    "correct": true,
+    "extracted_diseases": [],
+    "cancer_diseases": [],
+    "non_cancer_diseases": [],
+    "total_diseases": 0
+  },
+  {
+    "pmid": 31427547,
+    "true_label": "Cancer",
+    "predicted_label": "Cancer",
+    "correct": true,
+    "extracted_diseases": [
+      "Carcinoma"
+    ],
+    "cancer_diseases": [
+      "Carcinoma"
+    ],
+    "non_cancer_diseases": [],
+    "total_diseases": 1
+  },
+  {
+    "pmid": 31333801,
+    "true_label": "Cancer",
+    "predicted_label": "Non-Cancer",
+    "correct": false,
+    "extracted_diseases": [
+      "Leukemia"
+    ],
+    "cancer_diseases": [
+      "Leukemia"
+    ],
+    "non_cancer_diseases": [],
+    "total_diseases": 1
+  },
+  {
+    "pmid": 31367542,
+    "true_label": "Cancer",
+    "predicted_label": "Cancer",
+    "correct": true,
+    "extracted_diseases": [
+      "Lung Cancer"
+    ],
+    "cancer_diseases": [
+      "Lung Cancer"
+    ],
+    "non_cancer_diseases": [],
+    "total_diseases": 1
+  },
+  {
+    "pmid": 38027110,
+    "true_label": "Non-Cancer",
+    "predicted_label": "Non-Cancer",
+    "correct": true,
+    "extracted_diseases": [],
+    "cancer_diseases": [],
+    "non_cancer_diseases": [],
+    "total_diseases": 0
+  },
+  {
+    "pmid": 36930419,
+    "true_label": "Cancer",
+    "predicted_label": "Cancer",
+    "correct": true,
+    "extracted_diseases": [
+      "Breast Cancer"
+    ],
+    "cancer_diseases": [
+      "Breast Cancer"
+    ],
+    "non_cancer_diseases": [],
+    "total_diseases": 1
+  },
+  {
+    "pmid": 31029168,
+    "true_label": "Cancer",
+    "predicted_label": "Cancer",
+    "correct": true,
+    "extracted_diseases": [
+      "Ovarian Cancer"
+    ],
+    "cancer_diseases": [
+      "Ovarian Cancer"
+    ],
+    "non_cancer_diseases": [],
+    "total_diseases": 1
+  },
+  {
+    "pmid": 36790533,
+    "true_label": "Cancer",
+    "predicted_label": "Non-Cancer",
+    "correct": false,
+    "extracted_diseases": [
+      "Melanoma"
+    ],
+    "cancer_diseases": [
+      "Melanoma"
+    ],
+    "non_cancer_diseases": [],
+    "total_diseases": 1
+  },
+  {
+    "pmid": 28801073,
+    "true_label": "Non-Cancer",
+    "predicted_label": "Non-Cancer",
+    "correct": true,
+    "extracted_diseases": [],
+    "cancer_diseases": [],
+    "non_cancer_diseases": [],
+    "total_diseases": 0
+  },
+  {
+    "pmid": 37394163,
+    "true_label": "Non-Cancer",
+    "predicted_label": "Non-Cancer",
+    "correct": true,
+    "extracted_diseases": [],
+    "cancer_diseases": [],
+    "non_cancer_diseases": [],
+    "total_diseases": 0
+  },
+  {
+    "pmid": 30580065,
+    "true_label": "Non-Cancer",
+    "predicted_label": "Non-Cancer",
+    "correct": true,
+    "extracted_diseases": [],
+    "cancer_diseases": [],
+    "non_cancer_diseases": [],
+    "total_diseases": 0
+  },
+  {
+    "pmid": 24475179,
+    "true_label": "Non-Cancer",
+    "predicted_label": "Non-Cancer",
+    "correct": true,
+    "extracted_diseases": [],
+    "cancer_diseases": [],
+    "non_cancer_diseases": [],
+    "total_diseases": 0
+  },
+  {
+    "pmid": 30475086,
+    "true_label": "Non-Cancer",
+    "predicted_label": "Non-Cancer",
+    "correct": true,
+    "extracted_diseases": [],
+    "cancer_diseases": [],
+    "non_cancer_diseases": [],
+    "total_diseases": 0
+  },
+  {
+    "pmid": 31167492,
+    "true_label": "Cancer",
+    "predicted_label": "Cancer",
+    "correct": true,
+    "extracted_diseases": [
+      "Carcinoma"
+    ],
+    "cancer_diseases": [
+      "Carcinoma"
+    ],
+    "non_cancer_diseases": [],
+    "total_diseases": 1
+  },
+  {
+    "pmid": 26456649,
+    "true_label": "Non-Cancer",
+    "predicted_label": "Non-Cancer",
+    "correct": true,
+    "extracted_diseases": [],
+    "cancer_diseases": [],
+    "non_cancer_diseases": [],
+    "total_diseases": 0
+  },
+  {
+    "pmid": 30927944,
+    "true_label": "Cancer",
+    "predicted_label": "Cancer",
+    "correct": true,
+    "extracted_diseases": [],
+    "cancer_diseases": [],
+    "non_cancer_diseases": [],
+    "total_diseases": 0
+  },
+  {
+    "pmid": 30961661,
+    "true_label": "Cancer",
+    "predicted_label": "Cancer",
+    "correct": true,
+    "extracted_diseases": [
+      "Breast Cancer"
+    ],
+    "cancer_diseases": [
+      "Breast Cancer"
+    ],
+    "non_cancer_diseases": [],
+    "total_diseases": 1
+  },
+  {
+    "pmid": 38642556,
+    "true_label": "Non-Cancer",
+    "predicted_label": "Non-Cancer",
+    "correct": true,
+    "extracted_diseases": [
+      "Diabetes"
+    ],
+    "cancer_diseases": [],
+    "non_cancer_diseases": [
+      "Diabetes"
+    ],
+    "total_diseases": 1
+  },
+  {
+    "pmid": 27070304,
+    "true_label": "Non-Cancer",
+    "predicted_label": "Non-Cancer",
+    "correct": true,
+    "extracted_diseases": [],
+    "cancer_diseases": [],
+    "non_cancer_diseases": [],
+    "total_diseases": 0
+  },
+  {
+    "pmid": 26967226,
+    "true_label": "Non-Cancer",
+    "predicted_label": "Non-Cancer",
+    "correct": true,
+    "extracted_diseases": [
+      "Diabetes"
+    ],
+    "cancer_diseases": [],
+    "non_cancer_diseases": [
+      "Diabetes"
+    ],
+    "total_diseases": 1
+  },
+  {
+    "pmid": 36929074,
+    "true_label": "Cancer",
+    "predicted_label": "Cancer",
+    "correct": true,
+    "extracted_diseases": [
+      "Melanoma"
+    ],
+    "cancer_diseases": [
+      "Melanoma"
+    ],
+    "non_cancer_diseases": [],
+    "total_diseases": 1
+  },
+  {
+    "pmid": 36621979,
+    "true_label": "Cancer",
+    "predicted_label": "Cancer",
+    "correct": true,
+    "extracted_diseases": [
+      "Ovarian Cancer",
+      "Carcinoma"
+    ],
+    "cancer_diseases": [
+      "Ovarian Cancer",
+      "Carcinoma"
+    ],
+    "non_cancer_diseases": [],
+    "total_diseases": 2
+  },
+  {
+    "pmid": 24780089,
+    "true_label": "Non-Cancer",
+    "predicted_label": "Non-Cancer",
+    "correct": true,
+    "extracted_diseases": [],
+    "cancer_diseases": [],
+    "non_cancer_diseases": [],
+    "total_diseases": 0
+  },
+  {
+    "pmid": 31212602,
+    "true_label": "Cancer",
+    "predicted_label": "Cancer",
+    "correct": true,
+    "extracted_diseases": [],
+    "cancer_diseases": [],
+    "non_cancer_diseases": [],
+    "total_diseases": 0
+  },
+  {
+    "pmid": 25029267,
+    "true_label": "Non-Cancer",
+    "predicted_label": "Non-Cancer",
+    "correct": true,
+    "extracted_diseases": [],
+    "cancer_diseases": [],
+    "non_cancer_diseases": [],
+    "total_diseases": 0
+  },
+  {
+    "pmid": 31209238,
+    "true_label": "Cancer",
+    "predicted_label": "Cancer",
+    "correct": true,
+    "extracted_diseases": [],
+    "cancer_diseases": [],
+    "non_cancer_diseases": [],
+    "total_diseases": 0
+  },
+  {
+    "pmid": 30937513,
+    "true_label": "Cancer",
+    "predicted_label": "Cancer",
+    "correct": true,
+    "extracted_diseases": [
+      "Leukemia",
+      "Lymphoma",
+      "Pneumonia"
+    ],
+    "cancer_diseases": [
+      "Leukemia",
+      "Lymphoma"
+    ],
+    "non_cancer_diseases": [
+      "Pneumonia"
+    ],
+    "total_diseases": 3
+  },
+  {
+    "pmid": 31069152,
+    "true_label": "Cancer",
+    "predicted_label": "Cancer",
+    "correct": true,
+    "extracted_diseases": [
+      "Liver Cancer"
+    ],
+    "cancer_diseases": [
+      "Liver Cancer"
+    ],
+    "non_cancer_diseases": [],
+    "total_diseases": 1
+  },
+  {
+    "pmid": 31319986,
+    "true_label": "Cancer",
+    "predicted_label": "Cancer",
+    "correct": true,
+    "extracted_diseases": [
+      "Lung Cancer",
+      "Carcinoma"
+    ],
+    "cancer_diseases": [
+      "Lung Cancer",
+      "Carcinoma"
+    ],
+    "non_cancer_diseases": [],
+    "total_diseases": 2
+  },
+  {
+    "pmid": 31171120,
+    "true_label": "Cancer",
+    "predicted_label": "Cancer",
+    "correct": true,
+    "extracted_diseases": [
+      "Colorectal Cancer"
+    ],
+    "cancer_diseases": [
+      "Colorectal Cancer"
+    ],
+    "non_cancer_diseases": [],
+    "total_diseases": 1
+  },
+  {
+    "pmid": 31055804,
+    "true_label": "Cancer",
+    "predicted_label": "Non-Cancer",
+    "correct": false,
+    "extracted_diseases": [
+      "Leukemia"
+    ],
+    "cancer_diseases": [
+      "Leukemia"
+    ],
+    "non_cancer_diseases": [],
+    "total_diseases": 1
+  },
+  {
+    "pmid": 24962530,
+    "true_label": "Non-Cancer",
+    "predicted_label": "Non-Cancer",
+    "correct": true,
+    "extracted_diseases": [],
+    "cancer_diseases": [],
+    "non_cancer_diseases": [],
+    "total_diseases": 0
+  },
+  {
+    "pmid": 31304427,
+    "true_label": "Cancer",
+    "predicted_label": "Cancer",
+    "correct": true,
+    "extracted_diseases": [],
+    "cancer_diseases": [],
+    "non_cancer_diseases": [],
+    "total_diseases": 0
+  },
+  {
+    "pmid": 31558473,
+    "true_label": "Cancer",
+    "predicted_label": "Cancer",
+    "correct": true,
+    "extracted_diseases": [],
+    "cancer_diseases": [],
+    "non_cancer_diseases": [],
+    "total_diseases": 0
+  },
+  {
+    "pmid": 30884810,
+    "true_label": "Cancer",
+    "predicted_label": "Cancer",
+    "correct": true,
+    "extracted_diseases": [],
+    "cancer_diseases": [],
+    "non_cancer_diseases": [],
+    "total_diseases": 0
+  },
+  {
+    "pmid": 31602389,
+    "true_label": "Cancer",
+    "predicted_label": "Cancer",
+    "correct": true,
+    "extracted_diseases": [
+      "Colorectal Cancer"
+    ],
+    "cancer_diseases": [
+      "Colorectal Cancer"
+    ],
+    "non_cancer_diseases": [],
+    "total_diseases": 1
+  },
+  {
+    "pmid": 36877099,
+    "true_label": "Cancer",
+    "predicted_label": "Cancer",
+    "correct": true,
+    "extracted_diseases": [
+      "Lung Cancer"
+    ],
+    "cancer_diseases": [
+      "Lung Cancer"
+    ],
+    "non_cancer_diseases": [],
+    "total_diseases": 1
+  },
+  {
+    "pmid": 36931075,
+    "true_label": "Cancer",
+    "predicted_label": "Cancer",
+    "correct": true,
+    "extracted_diseases": [
+      "Lung Cancer",
+      "Lymphoma"
+    ],
+    "cancer_diseases": [
+      "Lung Cancer",
+      "Lymphoma"
+    ],
+    "non_cancer_diseases": [],
+    "total_diseases": 2
+  },
+  {
+    "pmid": 31350329,
+    "true_label": "Non-Cancer",
+    "predicted_label": "Cancer",
+    "correct": false,
+    "extracted_diseases": [],
+    "cancer_diseases": [],
+    "non_cancer_diseases": [],
+    "total_diseases": 0
+  },
+  {
+    "pmid": 31191019,
+    "true_label": "Cancer",
+    "predicted_label": "Cancer",
+    "correct": true,
+    "extracted_diseases": [
+      "Lymphoma"
+    ],
+    "cancer_diseases": [
+      "Lymphoma"
+    ],
+    "non_cancer_diseases": [],
+    "total_diseases": 1
+  },
+  {
+    "pmid": 31400126,
+    "true_label": "Cancer",
+    "predicted_label": "Non-Cancer",
+    "correct": false,
+    "extracted_diseases": [
+      "Leukemia"
+    ],
+    "cancer_diseases": [
+      "Leukemia"
+    ],
+    "non_cancer_diseases": [],
+    "total_diseases": 1
+  }
+]

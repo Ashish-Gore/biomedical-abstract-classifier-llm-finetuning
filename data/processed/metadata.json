@@ -1,0 +1,11 @@
+{
+  "total_abstracts": 1000,
+  "train_size": 800,
+  "test_size": 200,
+  "cancer_abstracts": 500,
+  "non_cancer_abstracts": 500,
+  "label_mapping": {
+    "0": 0,
+    "1": 1
+  }
+}

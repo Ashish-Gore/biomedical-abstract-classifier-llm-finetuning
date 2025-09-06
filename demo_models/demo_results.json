@@ -1,0 +1,2192 @@
+[
+  {
+    "abstract_id": "demo_95",
+    "original_text": "SLC16A1 plays an important role in the development of multiple cancer types. Pan-cancer analysis may have significant impacts on the exploration of the relationship between SLC16A1 gene expression, pr...",
+    "cleaned_text": "SLC16A1 plays an important role in the development of multiple cancer types. Pan-cancer analysis may have significant impacts on the exploration of the relationship between SLC16A1 gene expression, prognosis and the molecular mechanisms of tumorigenesis. In this study, through the analysis of TCGA and GEO datasets, we explored the expression level and survival prognosis of SLC16A1 in pan-cancer, and further explored the differences in SLC16A1 gene mutation, methylation, and phosphorylation between tumor and normal tissues. In addition, we focused on the biological function of this gene and the relationship between the prognosis and immune infiltration by immune infiltration analysis and enrichment analysis, in order to evaluate the diagnostic and prognostic significance of SLC16A1 in carcinomas. The study found that SLC16A1 was highly expressed in 14 kinds of tumors, and there were statistically significant differences in the prognosis of 9 tumors. The phosphorylation level of S467 increased in OV, RCC, and UCEC. There was a statistically negative correlation between the CD8 T-cell infiltration level and the SLC16A1 expression in HNSC, LUSC, SARC, TGCT, and KIRC. The cancer-related fibroblasts were positively correlated with SLC16A1 expression in BLCA, BRCA, KIRC, KIRP, PAAD, PCPG, and THCA. The enrichment analysis indicated that the tumorigenesis mechanism of this gene was mainly related to glycolysis and glucose metabolism synthesis. SLC16A1 was a promising prognostic and immunological biomarker in pan-cancer.",
+    "classification": {
+      "predicted_labels": [
+        "Cancer"
+      ],
+      "confidence_scores": {
+        "Cancer": 0.8,
+        "Non-Cancer": 0.2
+      },
+      "prediction": 1,
+      "probabilities": [
+        0.2,
+        0.8
+      ]
+    },
+    "disease_extraction": {
+      "extracted_diseases": [],
+      "cancer_diseases": [],
+      "non_cancer_diseases": [],
+      "disease_details": [],
+      "total_diseases": 0,
+      "cancer_count": 0,
+      "non_cancer_count": 0
+    },
+    "is_cancer_related": false,
+    "analysis_metadata": {
+      "text_length": 1537,
+      "cleaned_length": 1537,
+      "disease_count": 0,
+      "cancer_disease_count": 0,
+      "non_cancer_disease_count": 0
+    },
+    "true_label": 1,
+    "correct": true
+  },
+  {
+    "abstract_id": "demo_15",
+    "original_text": "Recent biochemical characterization of arsenic resistance protein 2 (Ars2) has established it as central in determining the fate of nascent ribonucleic acid (RNA) polymerase II (RNAPII) transcripts. T...",
+    "cleaned_text": "Recent biochemical characterization of arsenic resistance protein 2 (Ars2) has established it as central in determining the fate of nascent ribonucleic acid (RNA) polymerase II (RNAPII) transcripts. Through interactions with the nuclear 5-7-methylguanosine cap-binding complex, Ars2 promotes cotranscriptional processing coupled with nuclear export or degradation of several classes of RNAPII transcripts, allowing for gene expression programs that facilitate rapid and sustained proliferation of immortalized cells in culture. However, rapidly dividing cells in culture do not represent the physiological condition of the vast majority of cells in an adult mammal. To examine functions of Ars2 in a physiological setting, we generated inducible Ars2 knockout mice and found that deletion of Ars2 from adult mice resulted in defective hematopoiesis in bone marrow and thymus. Importantly, only some of this defect could be explained by the requirement of Ars2 for rapid proliferation, which we found to be cell-type specific in vivo. Rather, Ars2 was required for survival of developing thymocytes and for limiting differentiation of bone marrow resident long-term hematopoietic stem cells. As a result, Ars2 knockout led to rapid thymic involution and loss of the ability of mice to regenerate peripheral blood after myeloablation. These in vivo data demonstrate that Ars2 expression is important at several steps of hematopoiesis, likely because Ars2 acts on gene expression programs underlying essential cell fate decisions such as the decision to die,proliferate, or differentiate.",
+    "classification": {
+      "predicted_labels": [
+        "Non-Cancer"
+      ],
+      "confidence_scores": {
+        "Cancer": 0.2,
+        "Non-Cancer": 0.8
+      },
+      "prediction": 0,
+      "probabilities": [
+        0.8,
+        0.2
+      ]
+    },
+    "disease_extraction": {
+      "extracted_diseases": [],
+      "cancer_diseases": [],
+      "non_cancer_diseases": [],
+      "disease_details": [],
+      "total_diseases": 0,
+      "cancer_count": 0,
+      "non_cancer_count": 0
+    },
+    "is_cancer_related": false,
+    "analysis_metadata": {
+      "text_length": 1585,
+      "cleaned_length": 1585,
+      "disease_count": 0,
+      "cancer_disease_count": 0,
+      "non_cancer_disease_count": 0
+    },
+    "true_label": 0,
+    "correct": true
+  },
+  {
+    "abstract_id": "demo_30",
+    "original_text": "The recent progress in sensitive KIT D816V mutation analysis suggests that mutation analysis of peripheral blood (PB) represents a promising diagnostic test in mastocytosis. However, there is a need f...",
+    "cleaned_text": "The recent progress in sensitive KIT D816V mutation analysis suggests that mutation analysis of peripheral blood (PB) represents a promising diagnostic test in mastocytosis. However, there is a need for systematic assessment of the analytical sensitivity and specificity of the approach in order to establish its value in clinical use. We therefore evaluated sensitive KIT D816V mutation analysis of PB as a diagnostic test in an entire case-series of adults with mastocytosis. We demonstrate for the first time that by using a sufficiently sensitive KIT D816V mutation analysis, it is possible to detect the mutation in PB in nearly all adult mastocytosis patients. The mutation was detected in PB in 78 of 83 systemic mastocytosis (94) and 3 of 4 cutaneous mastocytosis patients (75). The test was 100 specific as determined by analysis of clinically relevant control patients who all tested negative. Mutation analysis of PB was significantly more sensitive than serum tryptase 20 ngmL. Of 27 patients with low tryptase, 26 tested mutation positive (96). The test is furthermore readily available and we consider the results to serve as a foundation of experimental evidence to support the inclusion of the test in diagnostic algorithms and clinical practice in mastocytosis.",
+    "classification": {
+      "predicted_labels": [
+        "Non-Cancer"
+      ],
+      "confidence_scores": {
+        "Cancer": 0.2,
+        "Non-Cancer": 0.8
+      },
+      "prediction": 0,
+      "probabilities": [
+        0.8,
+        0.2
+      ]
+    },
+    "disease_extraction": {
+      "extracted_diseases": [],
+      "cancer_diseases": [],
+      "non_cancer_diseases": [],
+      "disease_details": [],
+      "total_diseases": 0,
+      "cancer_count": 0,
+      "non_cancer_count": 0
+    },
+    "is_cancer_related": false,
+    "analysis_metadata": {
+      "text_length": 1278,
+      "cleaned_length": 1278,
+      "disease_count": 0,
+      "cancer_disease_count": 0,
+      "non_cancer_disease_count": 0
+    },
+    "true_label": 0,
+    "correct": true
+  },
+  {
+    "abstract_id": "demo_158",
+    "original_text": "Polygenic risk scores have shown great promise in predicting complex disease risk and will become more accurate as training sample sizes increase. The standard approach for calculating risk scores inv...",
+    "cleaned_text": "Polygenic risk scores have shown great promise in predicting complex disease risk and will become more accurate as training sample sizes increase. The standard approach for calculating risk scores involves linkage disequilibrium (LD)-based marker pruning and applying a p value threshold to association statistics, but this discards information and can reduce predictive accuracy. We introduce LDpred, a method that infers the posterior mean effect size of each marker by using a prior on effect sizes and LD information from an external reference panel. Theory and simulations show that LDpred outperforms the approach of pruning followed by thresholding, particularly at large sample sizes. Accordingly, predicted R(2) increased from 20.1 to 25.3 in a large schizophrenia dataset and from 9.8 to 12.0 in a large multiple sclerosis dataset. A similar relative improvement in accuracy was observed for three additional large disease datasets and for non-European schizophrenia samples. The advantage of LDpred over existing methods will grow as sample sizes increase.",
+    "classification": {
+      "predicted_labels": [
+        "Non-Cancer"
+      ],
+      "confidence_scores": {
+        "Cancer": 0.2,
+        "Non-Cancer": 0.8
+      },
+      "prediction": 0,
+      "probabilities": [
+        0.8,
+        0.2
+      ]
+    },
+    "disease_extraction": {
+      "extracted_diseases": [],
+      "cancer_diseases": [],
+      "non_cancer_diseases": [],
+      "disease_details": [],
+      "total_diseases": 0,
+      "cancer_count": 0,
+      "non_cancer_count": 0
+    },
+    "is_cancer_related": false,
+    "analysis_metadata": {
+      "text_length": 1067,
+      "cleaned_length": 1067,
+      "disease_count": 0,
+      "cancer_disease_count": 0,
+      "non_cancer_disease_count": 0
+    },
+    "true_label": 0,
+    "correct": true
+  },
+  {
+    "abstract_id": "demo_128",
+    "original_text": "Polycystic Ovary Syndrome (PCOS) is a multifactorial reproductive healthcare problem affecting 4-12 of women and a leading cause of female infertility worldwide. The potential genetic contributors of ...",
+    "cleaned_text": "Polycystic Ovary Syndrome (PCOS) is a multifactorial reproductive healthcare problem affecting 4-12 of women and a leading cause of female infertility worldwide. The potential genetic contributors of PCOS are unclear. However, over the past decade emerging evidence has shown that increased Oxidative Stress (OS) and decreased antioxidant status were often linked with PCOS. The present case-control study was aimed to assess the reactive oxygen species induced OS in women from South India. A total of 164 individuals comprising of 89 patients and 75 controls were enrolled in the present study. For all the subjects, the frequency of micronucleated cells (MNC) in epithelial samples and serum Malondialdehyde (MDA) levels were estimated to assess genomic instability and cytotoxicity respectively. A statistically significant difference between the groups were identified with respect to Body Mass Index, Waist to Hip Ratio, luteinizing hormone and prolactin levels ( 0.05), however the mean follicle stimulating hormone was not different between the groups (p  0.055). The frequency of MN cells (5.89 - 4.86 vs. 2.24 - 2.01) and mean serum MDA (360.84 - 87.08 vs. 301.70 - 82.82) levels were considerably higher in patients than controls (p   0.0001), furthermore, a positive correlation was observed between MNC and MDA levels in patients (r  0.349, p  0.0008) and not in controls (r  0.104, p  0.37), suggest high OS in PCOS women. Therefore, MN assay and serum MDA levels may serve together or individually as biomarkers of OS in PCOS women.",
+    "classification": {
+      "predicted_labels": [
+        "Non-Cancer"
+      ],
+      "confidence_scores": {
+        "Cancer": 0.2,
+        "Non-Cancer": 0.8
+      },
+      "prediction": 0,
+      "probabilities": [
+        0.8,
+        0.2
+      ]
+    },
+    "disease_extraction": {
+      "extracted_diseases": [],
+      "cancer_diseases": [],
+      "non_cancer_diseases": [],
+      "disease_details": [],
+      "total_diseases": 0,
+      "cancer_count": 0,
+      "non_cancer_count": 0
+    },
+    "is_cancer_related": false,
+    "analysis_metadata": {
+      "text_length": 1547,
+      "cleaned_length": 1547,
+      "disease_count": 0,
+      "cancer_disease_count": 0,
+      "non_cancer_disease_count": 0
+    },
+    "true_label": 0,
+    "correct": true
+  },
+  {
+    "abstract_id": "demo_115",
+    "original_text": "A 6-month-old male infant with Stuve-Wiedemann syndrome (SWS) presented with an acute respiratory arrest secondary to a rhinovirus respiratory infection from which he was rapidly resuscitated. He deve...",
+    "cleaned_text": "A 6-month-old male infant with Stuve-Wiedemann syndrome (SWS) presented with an acute respiratory arrest secondary to a rhinovirus respiratory infection from which he was rapidly resuscitated. He developed an acute kidney injury requiring supportive treatment and on day 3 of his illness was noted to have developed severe rhabdomyolysis (creatine kinase level 132 040 UL (normal 320 UL)). He was born from consanguineous parents with homozygous mutations in the leukaemia inhibitory factor receptor. He had skeletal dysplasia with metabolic bone disease and episodes of hyperthermia with lactic acidosis. He also had paroxysmal ventricular tachycardia treated with prophylactic propranolol. This is a case report of a child with SWS who had a febrile illness and epileptic seizures which led to severe rhabdomyolysis outside the context of anaesthesia, and we would like to draw the attention of clinicians to this potential complication.",
+    "classification": {
+      "predicted_labels": [
+        "Non-Cancer"
+      ],
+      "confidence_scores": {
+        "Cancer": 0.2,
+        "Non-Cancer": 0.8
+      },
+      "prediction": 0,
+      "probabilities": [
+        0.8,
+        0.2
+      ]
+    },
+    "disease_extraction": {
+      "extracted_diseases": [
+        "Leukemia"
+      ],
+      "cancer_diseases": [
+        "Leukemia"
+      ],
+      "non_cancer_diseases": [],
+      "disease_details": [
+        {
+          "disease": "Leukemia",
+          "category": "Cancer",
+          "start": 463,
+          "end": 472,
+          "confidence": 0.9,
+          "method": "regex"
+        }
+      ],
+      "total_diseases": 1,
+      "cancer_count": 1,
+      "non_cancer_count": 0
+    },
+    "is_cancer_related": true,
+    "analysis_metadata": {
+      "text_length": 939,
+      "cleaned_length": 939,
+      "disease_count": 1,
+      "cancer_disease_count": 1,
+      "non_cancer_disease_count": 0
+    },
+    "true_label": 0,
+    "correct": true
+  },
+  {
+    "abstract_id": "demo_69",
+    "original_text": "Malaysia is a multicultural and multiethnic country comprising numerous ethnic groups. From the total population of 32.7 million, Malays form the bulk of the Bumiputera in Malaysia comprise about 69.9...",
+    "cleaned_text": "Malaysia is a multicultural and multiethnic country comprising numerous ethnic groups. From the total population of 32.7 million, Malays form the bulk of the Bumiputera in Malaysia comprise about 69.9, followed by Chinese 22.8, Indian 6.6, and others 0.7. The heterogeneous population and increasing numbers of non-citizens in this country affects the heterogeneity of genetic diseases, diversity, and heterogeneity of thalassaemia mutations. Alpha (\u03b1)-thalassaemia is an inherited haemoglobin disorder characterized by hypochromic microcytic anaemia caused by a quantitative reduction in the \u03b1-globin chain. A majority of the \u03b1-thalassaemia are caused by deletions in the \u03b1-globin gene cluster. Among Malays, the most common deletional alpha thalassaemia is -\u03b13.7 deletion followed by --SEA deletion. We described the molecular characterization of a new --GB deletion in our population, involving both alpha genes in cis. Interestingly, we found that this mutation is unique among Malay ethnicities. It is important to diagnose this deletion because of the 25 risk of Hb Barts with hydrops fetalis in the offspring when in combination with another \u03b10- thalassaemia allele. MLPA is a suitable method to detect unknown and uncommon deletions and to characterize those cases which remain unresolved after a standard diagnostic approach.",
+    "classification": {
+      "predicted_labels": [
+        "Non-Cancer"
+      ],
+      "confidence_scores": {
+        "Cancer": 0.2,
+        "Non-Cancer": 0.8
+      },
+      "prediction": 0,
+      "probabilities": [
+        0.8,
+        0.2
+      ]
+    },
+    "disease_extraction": {
+      "extracted_diseases": [],
+      "cancer_diseases": [],
+      "non_cancer_diseases": [],
+      "disease_details": [],
+      "total_diseases": 0,
+      "cancer_count": 0,
+      "non_cancer_count": 0
+    },
+    "is_cancer_related": false,
+    "analysis_metadata": {
+      "text_length": 1334,
+      "cleaned_length": 1334,
+      "disease_count": 0,
+      "cancer_disease_count": 0,
+      "non_cancer_disease_count": 0
+    },
+    "true_label": 0,
+    "correct": true
+  },
+  {
+    "abstract_id": "demo_170",
+    "original_text": "Members of the plakophilin-catenin sub-family (Pkp-1, -2, and -3) facilitate the linkage of desmosome junctional components to each other (e.g. desmosomal cadherins to desmoplakin) and the intermediat...",
+    "cleaned_text": "Members of the plakophilin-catenin sub-family (Pkp-1, -2, and -3) facilitate the linkage of desmosome junctional components to each other (e.g. desmosomal cadherins to desmoplakin) and the intermediate-filament cytoskeleton. Pkps also contribute to desmosomal stabilization and the trafficking of its components. The functions of Pkps outside of the desmosome are less well studied, despite evidence suggesting their roles in mRNA regulation, small-GTPase modulation (e.g. mid-body scission) during cell division, and cell survival following DNA damage. Pkp-catenins are further believed to have roles in the nucleus given their nuclear localization in some contexts and the known nuclear roles of structurally related catenins, such as beta-catenin and p120-catenin. Further, Pkp-catenin activities in the nuclear compartment have become of increased interest with the identification of interactions between Pkp2-catenin and RNA Pol III and Pkp1 with single-stranded DNA. Consistent with earlier reports suggesting possible nuclear roles in development, we previously demonstrated prominent nuclear localization of Pkp3 in Xenopus naive ectoderm (animal cap) cells and recently resolved a similar localization in mouse embryonic stem cells. Here, we report the association and positive functional interaction of Pkp3 with a transcription factor, Ets variant gene 1 (ETV1), which has critical roles in neural development and prominent roles in human genetic disease. Our results are the first to report the interaction of a sequence-specific transcription factor with any Pkp. Using Xenopus laevis embryos and mammalian cells, we provide evidence for the Pkp3:ETV1 complex on both biochemical and functional levels.",
+    "classification": {
+      "predicted_labels": [
+        "Non-Cancer"
+      ],
+      "confidence_scores": {
+        "Cancer": 0.2,
+        "Non-Cancer": 0.8
+      },
+      "prediction": 0,
+      "probabilities": [
+        0.8,
+        0.2
+      ]
+    },
+    "disease_extraction": {
+      "extracted_diseases": [],
+      "cancer_diseases": [],
+      "non_cancer_diseases": [],
+      "disease_details": [],
+      "total_diseases": 0,
+      "cancer_count": 0,
+      "non_cancer_count": 0
+    },
+    "is_cancer_related": false,
+    "analysis_metadata": {
+      "text_length": 1715,
+      "cleaned_length": 1715,
+      "disease_count": 0,
+      "cancer_disease_count": 0,
+      "non_cancer_disease_count": 0
+    },
+    "true_label": 0,
+    "correct": true
+  },
+  {
+    "abstract_id": "demo_174",
+    "original_text": "OBJECTIVE: To investigate associations between genetic mutations and qualitative as well as quantitative features on MRI in rectal adenocarcinoma at primary staging. METHODS: In this retrospective stu...",
+    "cleaned_text": "OBJECTIVE: To investigate associations between genetic mutations and qualitative as well as quantitative features on MRI in rectal adenocarcinoma at primary staging. METHODS: In this retrospective study, patients with rectal adenocarcinoma, genome sequencing, and pretreatment rectal MRI were included. Statistical analysis was performed to evaluate associations between qualitative features obtained from subjective evaluation of rectal MRI and gene mutations as well as between quantitative textural features and gene mutations. For the qualitative evaluation, Fishers Exact test was used to analyze categorical associations and Wilcoxon Rank Sum test was used for continuous clinical variables. For the quantitative evaluation, we performed manual segmentation of T2-weighted images for radiomics-based quantitative image analysis. Thirty-four texture features consisting of first order intensity histogram-based features (n  4), second order Haralick textures (n  5), and Gabor-edge based Haralick textures were computed at two different orientations. Consensus clustering was performed with 34 computed texture features using the K-means algorithm with Euclidean distance between the texture features. The clusters resulting from the algorithm were then used to enumerate the prevalence of gene mutations in those clusters. RESULTS: In 65 patients, 45 genes were mutated in more than 365 patients (5) and were included in the statistical analysis. Regarding qualitative imaging features, on univariate analysis, tumor location was significantly associated with APC (p  0.032) and RASA1 mutation (p  0.032); CRM status was significantly associated with ATM mutation (p  0.021); and lymph node metastasis was significantly associated with BRCA2 (p  0.046) mutation. However, these associations were not significant after adjusting for multiple comparisons. Regarding quantitative imaging features, Cluster C1 had tumors with higher mean Gabor edge intensity compared with cluster C2 (theta  0 , p  0.018; theta  45 , p  0.047; theta  90 , p  0.037; cluster C3 (theta  0 , p  0.18; theta  45 , p  0.1; theta  90 , p  0.052), and cluster C4 (theta  0 , p  0.016; theta  45 , p  0.033; theta  90 , p  0.014) suggesting that the cluster C1 had tumors with more distinct edges or heterogeneous appearance compared with other clusters. CONCLUSIONS: Although this preliminary study showed promising associations between quantitative features and genetic mutations, it did not show any correlation between qualitative features and genetic mutations. Further studies with larger sample size are warranted to validate our preliminary data.",
+    "classification": {
+      "predicted_labels": [
+        "Cancer"
+      ],
+      "confidence_scores": {
+        "Cancer": 0.8,
+        "Non-Cancer": 0.2
+      },
+      "prediction": 1,
+      "probabilities": [
+        0.2,
+        0.8
+      ]
+    },
+    "disease_extraction": {
+      "extracted_diseases": [],
+      "cancer_diseases": [],
+      "non_cancer_diseases": [],
+      "disease_details": [],
+      "total_diseases": 0,
+      "cancer_count": 0,
+      "non_cancer_count": 0
+    },
+    "is_cancer_related": false,
+    "analysis_metadata": {
+      "text_length": 2632,
+      "cleaned_length": 2632,
+      "disease_count": 0,
+      "cancer_disease_count": 0,
+      "non_cancer_disease_count": 0
+    },
+    "true_label": 1,
+    "correct": true
+  },
+  {
+    "abstract_id": "demo_45",
+    "original_text": "BACKGROUND: We are reporting a rare case of MUTYH-associated polyposis, a colorectal cancer hereditary syndrome, diagnosticated after an intussusception. Colorectal cancer is an important cause of can...",
+    "cleaned_text": "BACKGROUND: We are reporting a rare case of MUTYH-associated polyposis, a colorectal cancer hereditary syndrome, diagnosticated after an intussusception. Colorectal cancer is an important cause of cancer related mortality that can be manifested by an intussusception, a rare occurrence in adults and almost always related to tumors. Approximately 5 of colorectal cancers can be attributed to syndromes known to cause hereditary colorectal cancer, such as MUTYH-associated polyposis, autosomal genetic syndrome associated with this disease. CASE PRESENTATION: We present the case of a 44 years old male, that sought medical consultation with a complaint of abdominal discomfort, that after five days changed its characteristics. The patient was sent to the emergency department were a CT-scan revealed intestinal sub-occlusion by ileocolic invagination. Right colectomy was carried out. The anatomic-pathological examination revealed a moderately differentiated mucinous adenocarcinoma and multiples sessile polyps, which led to the suspicion of a genetic syndrome. In the genetics analysis two mutations were observed in the MUTYH gene, and MUTYH-associated polyposis was diagnosticated. CONCLUSION: This case demonstrates the importance of meticulous analysis of the patient examinations results to identify possible discrete alterations that can lead to improved understanding of disease.",
+    "classification": {
+      "predicted_labels": [
+        "Cancer"
+      ],
+      "confidence_scores": {
+        "Cancer": 0.8,
+        "Non-Cancer": 0.2
+      },
+      "prediction": 1,
+      "probabilities": [
+        0.2,
+        0.8
+      ]
+    },
+    "disease_extraction": {
+      "extracted_diseases": [
+        "Colorectal Cancer"
+      ],
+      "cancer_diseases": [
+        "Colorectal Cancer"
+      ],
+      "non_cancer_diseases": [],
+      "disease_details": [
+        {
+          "disease": "Colorectal Cancer",
+          "category": "Cancer",
+          "start": 74,
+          "end": 91,
+          "confidence": 0.9,
+          "method": "regex"
+        }
+      ],
+      "total_diseases": 1,
+      "cancer_count": 1,
+      "non_cancer_count": 0
+    },
+    "is_cancer_related": true,
+    "analysis_metadata": {
+      "text_length": 1390,
+      "cleaned_length": 1390,
+      "disease_count": 1,
+      "cancer_disease_count": 1,
+      "non_cancer_disease_count": 0
+    },
+    "true_label": 1,
+    "correct": true
+  },
+  {
+    "abstract_id": "demo_66",
+    "original_text": "It is not clear how spontaneous DNA double-strand breaks (DSBs) form and are processed in normal cells, and whether they predispose to cancer-associated translocations. We show that DSBs in normal mam...",
+    "cleaned_text": "It is not clear how spontaneous DNA double-strand breaks (DSBs) form and are processed in normal cells, and whether they predispose to cancer-associated translocations. We show that DSBs in normal mammary cells form upon release of paused RNA polymerase II (Pol II) at promoters, 5 splice sites and active enhancers, and are processed by end-joining in the absence of a canonical DNA-damage response. Logistic and causal-association models showed that Pol II pausing at long genes is the main predictor and determinant of DSBs. Damaged introns with paused Pol II-pS5, TOP2B and XRCC4 are enriched in translocation breakpoints, and map at topologically associating domain boundary-flanking regions showing high interaction frequencies with distal loci. Thus, in unperturbed growth conditions, release of paused Pol II at specific loci and chromatin territories favors DSB formation, leading to chromosomal translocations.",
+    "classification": {
+      "predicted_labels": [
+        "Cancer"
+      ],
+      "confidence_scores": {
+        "Cancer": 0.8,
+        "Non-Cancer": 0.2
+      },
+      "prediction": 1,
+      "probabilities": [
+        0.2,
+        0.8
+      ]
+    },
+    "disease_extraction": {
+      "extracted_diseases": [],
+      "cancer_diseases": [],
+      "non_cancer_diseases": [],
+      "disease_details": [],
+      "total_diseases": 0,
+      "cancer_count": 0,
+      "non_cancer_count": 0
+    },
+    "is_cancer_related": false,
+    "analysis_metadata": {
+      "text_length": 920,
+      "cleaned_length": 920,
+      "disease_count": 0,
+      "cancer_disease_count": 0,
+      "non_cancer_disease_count": 0
+    },
+    "true_label": 1,
+    "correct": true
+  },
+  {
+    "abstract_id": "demo_182",
+    "original_text": "Molecular analysis of cell-free DNA (cfDNA) that circulates in plasma and other body fluids represents a liquid biopsy approach for non-invasive cancer screening or monitoring. The rapid development o...",
+    "cleaned_text": "Molecular analysis of cell-free DNA (cfDNA) that circulates in plasma and other body fluids represents a liquid biopsy approach for non-invasive cancer screening or monitoring. The rapid development of sequencing technologies has made cfDNA a promising source to study cancer development and progression. Specific genetic and epigenetic alterations have been found in plasma, serum, and urine cfDNA and could potentially be used as diagnostic or prognostic biomarkers in various cancer types. In this review, we will discuss the molecular characteristics of cancer cfDNA and major bioinformatics approaches involved in the analysis of cfDNA sequencing data for detecting genetic mutation, copy number alteration, methylation change, and nucleosome positioning variation. We highlight specific challenges in sensitivity to detect genetic aberrations and robustness of statistical analysis. Finally, we provide perspectives regarding the standard and continuing development of bioinformatics analysis to move this promising screening tool into clinical practice.",
+    "classification": {
+      "predicted_labels": [
+        "Cancer"
+      ],
+      "confidence_scores": {
+        "Cancer": 0.8,
+        "Non-Cancer": 0.2
+      },
+      "prediction": 1,
+      "probabilities": [
+        0.2,
+        0.8
+      ]
+    },
+    "disease_extraction": {
+      "extracted_diseases": [],
+      "cancer_diseases": [],
+      "non_cancer_diseases": [],
+      "disease_details": [],
+      "total_diseases": 0,
+      "cancer_count": 0,
+      "non_cancer_count": 0
+    },
+    "is_cancer_related": false,
+    "analysis_metadata": {
+      "text_length": 1060,
+      "cleaned_length": 1060,
+      "disease_count": 0,
+      "cancer_disease_count": 0,
+      "non_cancer_disease_count": 0
+    },
+    "true_label": 1,
+    "correct": true
+  },
+  {
+    "abstract_id": "demo_165",
+    "original_text": "BACKGROUND: With the introduction of Olaparib treatment for BRCA-deficient recurrent ovarian cancer, testing for somatic andor germline mutations in BRCA12 genes in tumor tissues became essential for ...",
+    "cleaned_text": "BACKGROUND: With the introduction of Olaparib treatment for BRCA-deficient recurrent ovarian cancer, testing for somatic andor germline mutations in BRCA12 genes in tumor tissues became essential for treatment decisions. In most cases only formalin-fixed paraffin-embedded (FFPE) samples, containing fragmented and chemically modified DNA of minor quality, are available. Thus, multiplex PCR-based sequencing is most commonly applied in routine molecular testing, which is predominantly focused on the identification of known hot spot mutations in oncogenes. METHODS: We compared the overall performance of an adjusted targeted capture-based enrichment protocol and a multiplex PCR-based approach for calling of pathogenic SNVs and InDels using DNA extracted from 13 FFPE tissue samples. We further applied both strategies to seven blood samples and five matched FFPE tumor tissues of patients with known germline exon-spanning deletions and gene-wide duplications in BRCA12 to evaluate CNV detection based solely on panel NGS data. Finally, we analyzed DNA from FFPE tissues of 11 index patients from families suspected of having hereditary breast and ovarian cancer, of whom no blood samples were available for testing, in order to identify underlying pathogenic germline BRCA12 mutations. RESULTS: The multiplex PCR-based protocol produced inhomogeneous coverage among targets of each sample and between samples as well as sporadic amplicon drop out, leading to insufficiently or non-covered nucleotides, which subsequently hindered variant detection. This protocol further led to detection of PCR-artifacts that could easily have been misinterpreted as pathogenic mutations. No such limitations were observed by application of an adjusted targeted capture-based protocol, which allowed for CNV calling with 86 sensitivity and 100 specificity. All pathogenic CNVs were confirmed in the five matched FFPE tumor samples from patients carrying known pathogenic germline mutations and we additionally identified somatic loss of the second allele in BRCA12. Furthermore we detected pathogenic BRCA12 variants in four the eleven FFPE samples from patients of whom no blood was available for analysis. CONCLUSIONS: We demonstrate that an adjusted targeted capture-based enrichment protocol is superior to commonly applied multiplex PCR-based protocols for reliable BRCA12 variant detection, including CNV-detection, using FFPE tumor samples.",
+    "classification": {
+      "predicted_labels": [
+        "Cancer"
+      ],
+      "confidence_scores": {
+        "Cancer": 0.8,
+        "Non-Cancer": 0.2
+      },
+      "prediction": 1,
+      "probabilities": [
+        0.2,
+        0.8
+      ]
+    },
+    "disease_extraction": {
+      "extracted_diseases": [
+        "Ovarian Cancer"
+      ],
+      "cancer_diseases": [
+        "Ovarian Cancer"
+      ],
+      "non_cancer_diseases": [],
+      "disease_details": [
+        {
+          "disease": "Ovarian Cancer",
+          "category": "Cancer",
+          "start": 85,
+          "end": 99,
+          "confidence": 0.9,
+          "method": "regex"
+        }
+      ],
+      "total_diseases": 1,
+      "cancer_count": 1,
+      "non_cancer_count": 0
+    },
+    "is_cancer_related": true,
+    "analysis_metadata": {
+      "text_length": 2437,
+      "cleaned_length": 2437,
+      "disease_count": 1,
+      "cancer_disease_count": 1,
+      "non_cancer_disease_count": 0
+    },
+    "true_label": 1,
+    "correct": true
+  },
+  {
+    "abstract_id": "demo_78",
+    "original_text": "HCC stem cells were reported as posttreatment residual tumor cells that play a pivotal role in tumor relapse. Fusing dendritic cells (DCs) with tumor cells represents an ideal approach to effectively ...",
+    "cleaned_text": "HCC stem cells were reported as posttreatment residual tumor cells that play a pivotal role in tumor relapse. Fusing dendritic cells (DCs) with tumor cells represents an ideal approach to effectively activate the antitumor immunity in vivo. DCHCC stem cell vaccine provides a potential strategy to generate polyclonal immune response to multiple tumor stem cell antigens including those yet to be unidentified. To assess the potential capacity of DCHCC stem cell vaccines against HCC, CD90HepG2 cells were sorted from the HCC cell line HepG2. DC and CD90HepG2 and DC and HepG2 fused cells were induced by polyethylene glycol (PEG). The influence of fusion cells on proliferation and immunological function transformation of lymphocytes was assessed by FCM and ELISA assay, respectively. The cytotoxicity assay of specific fusion cell-induced CTLs against HepG2 was conducted by CytoTox 96 Non-Radioactive Cytotoxicity Assay kit in vitro. At last, the prevention of HCC formation in vivo was described in a mouse model. The results of FCM analysis showed that the proportion of CD90HepG2 cells in the spheral CD90HepG2 enriched by suspension sphere culture was ranging from 98.7 to 99.5, and 57.1 CD90HepG2DC fused cells were successfully constructed. The fusion cells expressed a higher level of costimulatory molecules CD80, CD83, CD86, and MHC-I and MHC-II molecules HLA-ABC and HLA-DR than did immature DCs (P  0.05). And the functional analysis of fusion cell-induced CTLs also illustrated that CD90HepG2DC fusion cells showed a greater capacity to activate proliferation of lymphocytes in vitro (P  0.05). The CD90HepG2DC-activated CTLs had a specific killing ability against CD90HepG2 cells in vivo. These results suggested that CD90HepG2DC fusion cells could efficiently stimulate T lymphocytes to generate specific CTLs targeting CD90HepG2 cells. It might be a promising strategy of immunotherapy for HCC.",
+    "classification": {
+      "predicted_labels": [
+        "Cancer"
+      ],
+      "confidence_scores": {
+        "Cancer": 0.8,
+        "Non-Cancer": 0.2
+      },
+      "prediction": 1,
+      "probabilities": [
+        0.2,
+        0.8
+      ]
+    },
+    "disease_extraction": {
+      "extracted_diseases": [],
+      "cancer_diseases": [],
+      "non_cancer_diseases": [],
+      "disease_details": [],
+      "total_diseases": 0,
+      "cancer_count": 0,
+      "non_cancer_count": 0
+    },
+    "is_cancer_related": false,
+    "analysis_metadata": {
+      "text_length": 1913,
+      "cleaned_length": 1913,
+      "disease_count": 0,
+      "cancer_disease_count": 0,
+      "non_cancer_disease_count": 0
+    },
+    "true_label": 1,
+    "correct": true
+  },
+  {
+    "abstract_id": "demo_186",
+    "original_text": "Hepatoblastoma (HB) is the most common liver cancer in children. We aimed to characterize HB related to APC (Adenomatous Polyposis Coli) germline mutation (APC-HB). This French multicentric retrospect...",
+    "cleaned_text": "Hepatoblastoma (HB) is the most common liver cancer in children. We aimed to characterize HB related to APC (Adenomatous Polyposis Coli) germline mutation (APC-HB). This French multicentric retrospective study included 12 APC-HB patients under 5 at diagnosis. Clinical features of APC-HB were compared to the French SIOPEL2-3 cohort of HB patients. Molecular and histopathological analyses of APC-HB were compared to 15 consecutive sporadic HB treated at Bicetre hospital from 2013 to 2015 (non-APC-HB). APC-HB patients have a peculiar spectrum of germline APC mutations, with no events in the main hotspot of classical APC mutations at codon 1309 (P  .05). Compared to sporadic HB, they have similar clinical features including good prognosis since all patients are alive in complete remission at last follow-up. APC-HB are mostly well-limited tumors with fetal predominance and few mesenchymal components. All APC-HB have an activated Wntbeta-catenin pathway without CTNNB1 mutation, confirming that germline APC and somatic CTNNB1 mutations are mutually exclusive (P  .001). Pathological reviewing identified massive intratumor tertiary lymphoid structures (TLS) containing both lymphocytes and antigen-presenting cells in all 11 APC-HB cases who received cisplatin-based neoadjuvant chemotherapy but not in five pre-chemotherapy samples (four paired biopsies and one patient resected without chemotherapy), indicating that these TLS are induced by chemotherapy (P  .001). Conclusion: APC-HB show a good prognosis, they are all infiltrated by cisplatin-induced TLS, a feature only retrieved in a minority of non-APC-HB. This suggests that APC inactivation can synergize with cisplatin to induce an immunogenic cell death that initiates an anti-tumor immune response.",
+    "classification": {
+      "predicted_labels": [
+        "Cancer"
+      ],
+      "confidence_scores": {
+        "Cancer": 0.8,
+        "Non-Cancer": 0.2
+      },
+      "prediction": 1,
+      "probabilities": [
+        0.2,
+        0.8
+      ]
+    },
+    "disease_extraction": {
+      "extracted_diseases": [
+        "Liver Cancer"
+      ],
+      "cancer_diseases": [
+        "Liver Cancer"
+      ],
+      "non_cancer_diseases": [],
+      "disease_details": [
+        {
+          "disease": "Liver Cancer",
+          "category": "Cancer",
+          "start": 39,
+          "end": 51,
+          "confidence": 0.9,
+          "method": "regex"
+        }
+      ],
+      "total_diseases": 1,
+      "cancer_count": 1,
+      "non_cancer_count": 0
+    },
+    "is_cancer_related": true,
+    "analysis_metadata": {
+      "text_length": 1769,
+      "cleaned_length": 1769,
+      "disease_count": 1,
+      "cancer_disease_count": 1,
+      "non_cancer_disease_count": 0
+    },
+    "true_label": 1,
+    "correct": true
+  },
+  {
+    "abstract_id": "demo_177",
+    "original_text": "Mastocytosis refers to a heterogeneous group of clinical disorders characterized by an abnormal accumulation of mast cells (MCs) in various tissues. The skin is the organ most frequently involved, but...",
+    "cleaned_text": "Mastocytosis refers to a heterogeneous group of clinical disorders characterized by an abnormal accumulation of mast cells (MCs) in various tissues. The skin is the organ most frequently involved, but all organs may be affected. The clinical signs and symptoms are produced by the functional effects of mast cell-derived mediators and the anatomical distribution of the mast cells. The 2008 WHO-classification defines 7 categories of mastocytosis. Skin disease, with or without systemic involvement, is by far the most common form of childhood mastocytosis. Measurement of serum tryptase is important in the diagnostic algorithm of pediatric mastocytosis. In children with tryptase 20 ngmL, the diagnosis of cutaneous mastocytosis (CM) may be decided upon without bone marrow examination (BME), unless other signs of SM are present. If the baseline tryptase level exceeds 100 ngmL, a BME should be considered regardless of age. If the serum tryptase is 20-100 ngmL in children without other signs of SM, the provisional diagnosis mastocytosis in the skin (MIS) can be established and monitored until puberty. If MIS remains present after puberty, a BME should be performed. In adult-onset mastocytosis a complete staging and application of the systemic mastocytosis criteria should always be performed. Treatment is mainly directed at alleviation of symptoms. As c-kit mutations prove to be very important in the pathogenesis of mastocytosis, targeted therapies using kit inhibitors may evolve as important future therapeutic options.",
+    "classification": {
+      "predicted_labels": [
+        "Non-Cancer"
+      ],
+      "confidence_scores": {
+        "Cancer": 0.2,
+        "Non-Cancer": 0.8
+      },
+      "prediction": 0,
+      "probabilities": [
+        0.8,
+        0.2
+      ]
+    },
+    "disease_extraction": {
+      "extracted_diseases": [],
+      "cancer_diseases": [],
+      "non_cancer_diseases": [],
+      "disease_details": [],
+      "total_diseases": 0,
+      "cancer_count": 0,
+      "non_cancer_count": 0
+    },
+    "is_cancer_related": false,
+    "analysis_metadata": {
+      "text_length": 1534,
+      "cleaned_length": 1534,
+      "disease_count": 0,
+      "cancer_disease_count": 0,
+      "non_cancer_disease_count": 0
+    },
+    "true_label": 0,
+    "correct": true
+  },
+  {
+    "abstract_id": "demo_56",
+    "original_text": "Molecular genetic changes in acute myeloid leukemia (AML) play crucial roles in leukemogenesis, including recurrent chromosome translocations, epigeneticspliceosome mutations and transcription factor ...",
+    "cleaned_text": "Molecular genetic changes in acute myeloid leukemia (AML) play crucial roles in leukemogenesis, including recurrent chromosome translocations, epigeneticspliceosome mutations and transcription factor aberrations. Six1, a transcription factor of the Sine oculis homeobox (Six) family, has been shown to transform normal hematopoietic progenitors into leukemia in cooperation with Eya. However, the specific role and the underlying mechanism of Six1 in leukemia maintenance remain unexplored. Here, we showed increased expression of SIX1 in AML patients and murine leukemia stem cells (c-Kit cells, LSCs). Importantly, we also observed that a higher level of Six1 in human patients predicts a worse prognosis. Notably, knockdown of Six1 significantly prolonged the survival of MLL-AF9-induced AML mice with reduced peripheral infiltration and tumor burden. AML cells from Six1-knockdown (KD) mice displayed a significantly decreased number and function of LSC, as assessed by the immunophenotype, colony-forming ability and limiting dilution assay. Further analysis revealed the augmented apoptosis of LSC and decreased expression of glycolytic genes in Six1 KD mice. Overall, our data showed that Six1 is essential for the progression of MLL-AF9-induced AML via maintaining the pool of LSC.",
+    "classification": {
+      "predicted_labels": [
+        "Cancer"
+      ],
+      "confidence_scores": {
+        "Cancer": 0.8,
+        "Non-Cancer": 0.2
+      },
+      "prediction": 1,
+      "probabilities": [
+        0.2,
+        0.8
+      ]
+    },
+    "disease_extraction": {
+      "extracted_diseases": [
+        "Leukemia"
+      ],
+      "cancer_diseases": [
+        "Leukemia"
+      ],
+      "non_cancer_diseases": [],
+      "disease_details": [
+        {
+          "disease": "Leukemia",
+          "category": "Cancer",
+          "start": 43,
+          "end": 51,
+          "confidence": 0.9,
+          "method": "regex"
+        }
+      ],
+      "total_diseases": 1,
+      "cancer_count": 1,
+      "non_cancer_count": 0
+    },
+    "is_cancer_related": true,
+    "analysis_metadata": {
+      "text_length": 1289,
+      "cleaned_length": 1289,
+      "disease_count": 1,
+      "cancer_disease_count": 1,
+      "non_cancer_disease_count": 0
+    },
+    "true_label": 1,
+    "correct": true
+  },
+  {
+    "abstract_id": "demo_152",
+    "original_text": "Young women with breast cancer who carry germline genetic pathogenic variants may face distinct fertility concerns, yet limited data exist comparing fertility preferences and practices between carrier...",
+    "cleaned_text": "Young women with breast cancer who carry germline genetic pathogenic variants may face distinct fertility concerns, yet limited data exist comparing fertility preferences and practices between carriers and noncarriers. Participants in the Young Womens Breast Cancer Study (NCT01468246), a prospective cohort of women diagnosed with breast cancer at 40 years, who completed a modified Fertility Issues Survey were included in this analysis. Of 1052 eligible participants, 118 (11) tested positive for a pathogenic variant. Similar proportions (P  .23) of carriers (46, 54118) and noncarriers (37, 346934) desired more biologic children prediagnosis, and desire decreased similarly postdiagnosis (carriers, 30 35118 vs. noncarriers, 26 244934, P  .35). Among those desiring children postdiagnosis (n  279), concern about cancer risk heritability was more common among carriers (74 2635 vs. noncarriers, 36 88244, P  .01). Carriers were more likely to report that concern about cancer risk heritability contributed to a lack of certainty or interest in future pregnancies (20 1681 vs. noncarriers, 7 49674, P  .001). Similar proportions (P  .65) of carriers (36 43118) and noncarriers (38 351934) were somewhat or very concerned about infertility post-treatment; utilization of fertility preservation strategies was also similar (carriers, 14 17118 vs. noncarriers, 12 113934, P  .78). Carriers were similarly concerned about future fertility and as likely to pursue fertility preservation as noncarriers. Concern about cancer risk heritability was more frequent among carriers and impacted decisions not to pursue future pregnancies for some, underscoring the importance of counseling regarding strategies to prevent transmission to offspring, including preimplantation genetic testing.",
+    "classification": {
+      "predicted_labels": [
+        "Cancer"
+      ],
+      "confidence_scores": {
+        "Cancer": 0.8,
+        "Non-Cancer": 0.2
+      },
+      "prediction": 1,
+      "probabilities": [
+        0.2,
+        0.8
+      ]
+    },
+    "disease_extraction": {
+      "extracted_diseases": [
+        "Breast Cancer"
+      ],
+      "cancer_diseases": [
+        "Breast Cancer"
+      ],
+      "non_cancer_diseases": [],
+      "disease_details": [
+        {
+          "disease": "Breast Cancer",
+          "category": "Cancer",
+          "start": 17,
+          "end": 30,
+          "confidence": 0.9,
+          "method": "regex"
+        }
+      ],
+      "total_diseases": 1,
+      "cancer_count": 1,
+      "non_cancer_count": 0
+    },
+    "is_cancer_related": true,
+    "analysis_metadata": {
+      "text_length": 1784,
+      "cleaned_length": 1784,
+      "disease_count": 1,
+      "cancer_disease_count": 1,
+      "non_cancer_disease_count": 0
+    },
+    "true_label": 1,
+    "correct": true
+  },
+  {
+    "abstract_id": "demo_82",
+    "original_text": "Clinical outcomes of patients with CNS lymphomas (CNSLs) are remarkably heterogeneous, yet identification of patients at high risk for treatment failure is challenging. Furthermore, CNSL diagnosis oft...",
+    "cleaned_text": "Clinical outcomes of patients with CNS lymphomas (CNSLs) are remarkably heterogeneous, yet identification of patients at high risk for treatment failure is challenging. Furthermore, CNSL diagnosis often remains unconfirmed because of contraindications for invasive stereotactic biopsies. Therefore, improved biomarkers are needed to better stratify patients into risk groups, predict treatment response, and noninvasively identify CNSL. We explored the value of circulating tumor DNA (ctDNA) for early outcome prediction, measurable residual disease monitoring, and surgery-free CNSL identification by applying ultrasensitive targeted next-generation sequencing to a total of 306 tumor, plasma, and CSF specimens from 136 patients with brain cancers, including 92 patients with CNSL. Before therapy, ctDNA was detectable in 78 of plasma and 100 of CSF samples. Patients with positive ctDNA in pretreatment plasma had significantly shorter progression-free survival (PFS, P P  .0001, log-rank test). In multivariate analyses including established clinical and radiographic risk factors, pretreatment plasma ctDNA concentrations were independently prognostic of clinical outcomes (PFS HR, 1.4; 95 CI, 1.0 to 1.9; P  .03; OS HR, 1.6; 95 CI, 1.1 to 2.2; P  .006). Moreover, measurable residual disease detection by plasma ctDNA monitoring during treatment identified patients with particularly poor prognosis following curative-intent immunochemotherapy (PFS, P  .0002; OS, P  .004, log-rank test). Finally, we developed a proof-of-principle machine learning approach for biopsy-free CNSL identification from ctDNA, showing sensitivities of 59 (CSF) and 25 (plasma) with high positive predictive value. We demonstrate robust and ultrasensitive detection of ctDNA at various disease milestones in CNSL. Our findings highlight the role of ctDNA as a noninvasive biomarker and its potential value for personalized risk stratification and treatment guidance in patients with CNSL. Media: see text.",
+    "classification": {
+      "predicted_labels": [
+        "Cancer"
+      ],
+      "confidence_scores": {
+        "Cancer": 0.8,
+        "Non-Cancer": 0.2
+      },
+      "prediction": 1,
+      "probabilities": [
+        0.2,
+        0.8
+      ]
+    },
+    "disease_extraction": {
+      "extracted_diseases": [],
+      "cancer_diseases": [],
+      "non_cancer_diseases": [],
+      "disease_details": [],
+      "total_diseases": 0,
+      "cancer_count": 0,
+      "non_cancer_count": 0
+    },
+    "is_cancer_related": false,
+    "analysis_metadata": {
+      "text_length": 1989,
+      "cleaned_length": 1989,
+      "disease_count": 0,
+      "cancer_disease_count": 0,
+      "non_cancer_disease_count": 0
+    },
+    "true_label": 1,
+    "correct": true
+  },
+  {
+    "abstract_id": "demo_68",
+    "original_text": "BACKGROUND: Hypogammaglobulinemia (hypo-IgG) is common early post-HSCT in children, occasionally necessitating long-term immunoglobulin (Ig) G replacement therapy. IgG replacement may not reduce morta...",
+    "cleaned_text": "BACKGROUND: Hypogammaglobulinemia (hypo-IgG) is common early post-HSCT in children, occasionally necessitating long-term immunoglobulin (Ig) G replacement therapy. IgG replacement may not reduce mortality, although infectious complications are decreased PROCEDURE: Clinical data and samples from 86 children were analyzed retrospectively with the aim to identify risk factors for developing long-term hypo-IgG (i.e., requiring  3 months IgG replacement) post-HSCT and studying the underlying biology. Laboratory studies covered serum cytokines, IGHG2 genotyping and routine laboratory investigations. Results were analyzed statistically. RESULTS: Forty-eight percent of the children developed long-term hypo-IgG. These children were younger (5 years) and had higher acute GvHD incidence, but had better overall survival (88 vs. 69, P  0.036). Significantly lower Ig levels post-HSCT but equal immune cell recovery were seen in patients with long-term hypo-IgG compared with those of transient or no hypo-IgG. Pre-HSCT IL-6 and -7 and post-HSCT BAFF and APRIL levels were significantly higher in the long-term hypo-IgG group. CONCLUSIONS: Findings suggests an unfavorable cytokine milieu for graft-derived immune recovery, possibly inducing Ig isotype class switch arrest. Younger age, acute GvHD, and higher pre-HSCT IL-6 levels were identified as significant risk factors for long-term hypo-IgG. Long-term hypo-IgG post-HSCT does not need to be unfavorable and could be an effect of deteriorated cytokine signaling.",
+    "classification": {
+      "predicted_labels": [
+        "Non-Cancer"
+      ],
+      "confidence_scores": {
+        "Cancer": 0.2,
+        "Non-Cancer": 0.8
+      },
+      "prediction": 0,
+      "probabilities": [
+        0.8,
+        0.2
+      ]
+    },
+    "disease_extraction": {
+      "extracted_diseases": [],
+      "cancer_diseases": [],
+      "non_cancer_diseases": [],
+      "disease_details": [],
+      "total_diseases": 0,
+      "cancer_count": 0,
+      "non_cancer_count": 0
+    },
+    "is_cancer_related": false,
+    "analysis_metadata": {
+      "text_length": 1516,
+      "cleaned_length": 1516,
+      "disease_count": 0,
+      "cancer_disease_count": 0,
+      "non_cancer_disease_count": 0
+    },
+    "true_label": 0,
+    "correct": true
+  },
+  {
+    "abstract_id": "demo_124",
+    "original_text": "Optical genome mapping is a high resolution technology that can detect all types of structural variations in the genome. This second phase of a multisite study compares the performance of optical geno...",
+    "cleaned_text": "Optical genome mapping is a high resolution technology that can detect all types of structural variations in the genome. This second phase of a multisite study compares the performance of optical genome mapping and current standard of care methods for diagnostic testing of individuals with constitutional disorders including neurodevelopmental impairments and congenital anomalies. Among the 627 analyses in phase 2, 405 were of retrospective samples supplied by five diagnostic centers in the United States and 94 were prospective samples collected over 18 months by two diagnostic centers (June 2021 - October 2022). Additional samples represented a family cohort to determine inheritance (n119) and controls (n9). Full concordance of results between optical genome mapping and one or more standard of care diagnostic tests was 98.6 (618627) with partial concordance in an additional 1.1 .",
+    "classification": {
+      "predicted_labels": [
+        "Non-Cancer"
+      ],
+      "confidence_scores": {
+        "Cancer": 0.2,
+        "Non-Cancer": 0.8
+      },
+      "prediction": 0,
+      "probabilities": [
+        0.8,
+        0.2
+      ]
+    },
+    "disease_extraction": {
+      "extracted_diseases": [],
+      "cancer_diseases": [],
+      "non_cancer_diseases": [],
+      "disease_details": [],
+      "total_diseases": 0,
+      "cancer_count": 0,
+      "non_cancer_count": 0
+    },
+    "is_cancer_related": false,
+    "analysis_metadata": {
+      "text_length": 892,
+      "cleaned_length": 892,
+      "disease_count": 0,
+      "cancer_disease_count": 0,
+      "non_cancer_disease_count": 0
+    },
+    "true_label": 0,
+    "correct": true
+  },
+  {
+    "abstract_id": "demo_16",
+    "original_text": "BACKGROUND: Diffuse astrocytic and oligodendroglial gliomas are the most common neuroepithelial tumors. Their classification is based on the integration of histological and molecular findings accordin...",
+    "cleaned_text": "BACKGROUND: Diffuse astrocytic and oligodendroglial gliomas are the most common neuroepithelial tumors. Their classification is based on the integration of histological and molecular findings according to the classification of tumors of the central nervous system published by the World Health Organization (WHO) in 2016. OBJECTIVES: This review describes the different entities and variants of diffuse gliomas and summarizes the current diagnostic criteria for these tumors. MATERIALS AND METHODS: Based on the 2016 WHO classification and selected other publications, the histomolecular diagnostics of diffuse gliomas is presented and illustrated. RESULTS: Diffuse gliomas are divided into isocitrate dehydrogenase (IDH)-mutant or IDH-wildtype gliomas by detection of mutations in the IDH1 or IDH2 genes. Among the IDH-mutant gliomas, oligodendroglial tumors are characterized by combined losses of chromosome arms 1p and 19q. Loss of nuclear expression of the ATRX protein is a marker of IDH- mutant astrocytic gliomas. Glioblastoma, IDH-wildtype, is the most common diffuse glioma. Diffuse and anaplastic astrocytic gliomas without IDH mutation should be further evaluated for molecular features of glioblastoma, IDH-wildtype. Diffuse gliomas in the thalamus, brainstem, or spinal cord carrying a histone 3 (H3)-K27M mutation are classified as diffuse midline gliomas, H3-K27M-mutant. By determining the IDH and 1p19q status, oligoastrocytomas can be stratified into either astrocytic or oligodendroglial gliomas. Gliomatosis cerebri is no longer regarded as a distinct glioma entity. CONCLUSIONS: Diffuse gliomas can today be classified accurately and reproducibly by means of histological, immunohistochemical, and molecular analyses.",
+    "classification": {
+      "predicted_labels": [
+        "Cancer"
+      ],
+      "confidence_scores": {
+        "Cancer": 0.8,
+        "Non-Cancer": 0.2
+      },
+      "prediction": 1,
+      "probabilities": [
+        0.2,
+        0.8
+      ]
+    },
+    "disease_extraction": {
+      "extracted_diseases": [],
+      "cancer_diseases": [],
+      "non_cancer_diseases": [],
+      "disease_details": [],
+      "total_diseases": 0,
+      "cancer_count": 0,
+      "non_cancer_count": 0
+    },
+    "is_cancer_related": false,
+    "analysis_metadata": {
+      "text_length": 1739,
+      "cleaned_length": 1739,
+      "disease_count": 0,
+      "cancer_disease_count": 0,
+      "non_cancer_disease_count": 0
+    },
+    "true_label": 1,
+    "correct": true
+  },
+  {
+    "abstract_id": "demo_148",
+    "original_text": "The PARP inhibitor olaparib has been approved in the maintenance setting of platinum-sensitive epithelial ovarian cancer patients with germline or somatic BRCA12 mutation. Therefore, the availability ...",
+    "cleaned_text": "The PARP inhibitor olaparib has been approved in the maintenance setting of platinum-sensitive epithelial ovarian cancer patients with germline or somatic BRCA12 mutation. Therefore, the availability of a tumor BRCA test has become a clinical need. We report the results of the clinical implementation of a tumor BRCA test within the frame of an institutional workflow for the management of patients with nonmucinous and nonborderline epithelial ovarian cancer. In total, 223 patients with epithelial ovarian cancer were prospectively analyzed. BRCA12 status was evaluated on formalin-fixed, paraffin-embedded tumor specimens using next-generation sequencing technology. The tumor BRCA test had a success rate of 99.1 (221 of 223 successfully analyzed cases) and a median turnaround time of 17 calendar days. Among the 221 cases, BRCA1 or BRCA2 pathogeniclikely pathogenic mutations were found in 62 (28.1) cases and variants of uncertain significance in 25 (11.3) cases. The concordance rate between tumor BRCA test results and germline BRCA12 status was 87, with five cases harboring pathogeniclikely pathogenic somatic-only mutations. The next-generation, sequencing-based tumor BRCA test showed a high success rate and a turnaround time compatible with clinical purposes. The tumor BRCA test could be implemented in a molecular diagnostic setting and it may guide the clinical management of patients with epithelial ovarian cancer.",
+    "classification": {
+      "predicted_labels": [
+        "Cancer"
+      ],
+      "confidence_scores": {
+        "Cancer": 0.8,
+        "Non-Cancer": 0.2
+      },
+      "prediction": 1,
+      "probabilities": [
+        0.2,
+        0.8
+      ]
+    },
+    "disease_extraction": {
+      "extracted_diseases": [
+        "Ovarian Cancer"
+      ],
+      "cancer_diseases": [
+        "Ovarian Cancer"
+      ],
+      "non_cancer_diseases": [],
+      "disease_details": [
+        {
+          "disease": "Ovarian Cancer",
+          "category": "Cancer",
+          "start": 106,
+          "end": 120,
+          "confidence": 0.9,
+          "method": "regex"
+        }
+      ],
+      "total_diseases": 1,
+      "cancer_count": 1,
+      "non_cancer_count": 0
+    },
+    "is_cancer_related": true,
+    "analysis_metadata": {
+      "text_length": 1435,
+      "cleaned_length": 1435,
+      "disease_count": 1,
+      "cancer_disease_count": 1,
+      "non_cancer_disease_count": 0
+    },
+    "true_label": 1,
+    "correct": true
+  },
+  {
+    "abstract_id": "demo_93",
+    "original_text": "Patients with systemic mastocytosis (SM) have a wide variety of problems, including skeletal abnormalities. The disease results from a mutation of the stem cell receptor (c-kit) in mast cells and we w...",
+    "cleaned_text": "Patients with systemic mastocytosis (SM) have a wide variety of problems, including skeletal abnormalities. The disease results from a mutation of the stem cell receptor (c-kit) in mast cells and we wondered if the function of bone marrow stromal cells (BMSCs; also known as MSCs or mesenchymal stem cells) might be affected by the invasion of bone marrow by mutant mast cells. As expected, BMSCs from SM patients do not have a mutation in c-kit, but they proliferate poorly. In addition, while osteogenic differentiation of the BMSCs seems to be deficient, their adipogenic potential appears to be increased. Since the hematopoietic supportive abilities of BMSCs are also important, we also studied the engraftment in NSG mice of human CD34() hematopoietic progenitors, after being co-cultured with BMSCs of healthy volunteers vs. BMSCs derived from patients with SM. BMSCs derived from the bone marrow of patients with SM could not support hematopoiesis to the extent that healthy BMSCs do. Finally, we performed an expression analysis and found significant differences between healthy and SM derived BMSCs in the expression of genes with a variety of functions, including the WNT signaling, ossification, and bone remodeling. We suggest that some of the symptoms associated with SM might be driven by epigenetic changes in BMSCs caused by dysfunctional mast cells in the bone marrow of the patients.",
+    "classification": {
+      "predicted_labels": [
+        "Non-Cancer"
+      ],
+      "confidence_scores": {
+        "Cancer": 0.2,
+        "Non-Cancer": 0.8
+      },
+      "prediction": 0,
+      "probabilities": [
+        0.8,
+        0.2
+      ]
+    },
+    "disease_extraction": {
+      "extracted_diseases": [],
+      "cancer_diseases": [],
+      "non_cancer_diseases": [],
+      "disease_details": [],
+      "total_diseases": 0,
+      "cancer_count": 0,
+      "non_cancer_count": 0
+    },
+    "is_cancer_related": false,
+    "analysis_metadata": {
+      "text_length": 1402,
+      "cleaned_length": 1402,
+      "disease_count": 0,
+      "cancer_disease_count": 0,
+      "non_cancer_disease_count": 0
+    },
+    "true_label": 0,
+    "correct": true
+  },
+  {
+    "abstract_id": "demo_65",
+    "original_text": "OBJECTIVE: Pedicle screw placement is a very common procedure used to stabilize all three columns of the thoracic and lumbar spine. The purpose of this study is to evaluate the incidence of screw misp...",
+    "cleaned_text": "OBJECTIVE: Pedicle screw placement is a very common procedure used to stabilize all three columns of the thoracic and lumbar spine. The purpose of this study is to evaluate the incidence of screw misplacement and related complications in patients who underwent fluoroscopy-guided transpedicular screw fixation at a neurosurgical teaching institution. METHODS: We retrospectively reviewed consecutive patients who underwent fluoroscopy-guided transpedicular screw fixation from January 2007 to May 2011 in the Department of Neurosurgery, Kantonsspital Aarau, a certified Swiss National Neurosurgical Education and Training Center. The accuracy of the pedicle screw trajectory was assessed using reconstructed postoperative axial, sagittal, and coronal computed tomography images. The displacement was classified as minor (4 mm). RESULTS: A total of 1236 pedicle screws were placed in 273 consecutive patients in the thoracic and lumbosacral spine. All surgeries were performed under the supervision of 7 board-certified neurosurgeons and faculty members. A total of 17 surgeons, including trainees, participated in all procedures. A total of 247 (20) screws breaching the pedicle were identified, with 135 (10.9) minor violations, 65 (5.3) moderate violations, and 47 (3.8) severe violations. Sixteen (5.9) patients developed postoperative radiculopathy. All of these patients belonged to the subgroup of severe screw displacement. CONCLUSIONS: The data presented confirm that for a training and education center, transpedicular fluoroscopy-guided screw fixation remains a technically demanding procedure. As defined in this study, neurological symptoms are likely associated only with severe screw misplacement.",
+    "classification": {
+      "predicted_labels": [
+        "Non-Cancer"
+      ],
+      "confidence_scores": {
+        "Cancer": 0.2,
+        "Non-Cancer": 0.8
+      },
+      "prediction": 0,
+      "probabilities": [
+        0.8,
+        0.2
+      ]
+    },
+    "disease_extraction": {
+      "extracted_diseases": [],
+      "cancer_diseases": [],
+      "non_cancer_diseases": [],
+      "disease_details": [],
+      "total_diseases": 0,
+      "cancer_count": 0,
+      "non_cancer_count": 0
+    },
+    "is_cancer_related": false,
+    "analysis_metadata": {
+      "text_length": 1711,
+      "cleaned_length": 1711,
+      "disease_count": 0,
+      "cancer_disease_count": 0,
+      "non_cancer_disease_count": 0
+    },
+    "true_label": 0,
+    "correct": true
+  },
+  {
+    "abstract_id": "demo_60",
+    "original_text": "Mesothelioma affects mostly older individuals who have been occupationally exposed to asbestos. The global mesothelioma incidence and mortality rates are unknown, because data are not available from d...",
+    "cleaned_text": "Mesothelioma affects mostly older individuals who have been occupationally exposed to asbestos. The global mesothelioma incidence and mortality rates are unknown, because data are not available from developing countries that continue to use large amounts of asbestos. The incidence rate of mesothelioma has decreased in Australia, the United States, and Western Europe, where the use of asbestos was banned or strictly regulated in the 1970s and 1980s, demonstrating the value of these preventive measures. However, in these same countries, the overall number of deaths from mesothelioma has not decreased as the size of the population and the percentage of old people have increased. Moreover, hotspots of mesothelioma may occur when carcinogenic fibers that are present in the environment are disturbed as rural areas are being developed. Novel immunohistochemical and molecular markers have improved the accuracy of diagnosis; however, about 14 (high-resource countries) to 50 (developing countries) of mesothelioma diagnoses are incorrect, resulting in inadequate treatment and complicating epidemiological studies. The discovery that germline BRCA1-asssociated protein 1 (BAP1) mutations cause mesothelioma and other cancers (BAP1 cancer syndrome) elucidated some of the key pathogenic mechanisms, and treatments targeting these molecular mechanisms andor modulating the immune response are being tested. The role of surgery in pleural mesothelioma is controversial as it is difficult to predict who will benefit from aggressive management, even when local therapies are added to existing or novel systemic treatments. Treatment outcomes are improving, however, for peritoneal mesothelioma. Multidisciplinary international collaboration will be necessary to improve prevention, early detection, and treatment.",
+    "classification": {
+      "predicted_labels": [
+        "Cancer"
+      ],
+      "confidence_scores": {
+        "Cancer": 0.8,
+        "Non-Cancer": 0.2
+      },
+      "prediction": 1,
+      "probabilities": [
+        0.2,
+        0.8
+      ]
+    },
+    "disease_extraction": {
+      "extracted_diseases": [],
+      "cancer_diseases": [],
+      "non_cancer_diseases": [],
+      "disease_details": [],
+      "total_diseases": 0,
+      "cancer_count": 0,
+      "non_cancer_count": 0
+    },
+    "is_cancer_related": false,
+    "analysis_metadata": {
+      "text_length": 1814,
+      "cleaned_length": 1814,
+      "disease_count": 0,
+      "cancer_disease_count": 0,
+      "non_cancer_disease_count": 0
+    },
+    "true_label": 1,
+    "correct": true
+  },
+  {
+    "abstract_id": "demo_84",
+    "original_text": "PURPOSE: Treatment of metastatic colorectal cancer frequently includes antiangiogenic agents such as bevacizumab. Size measurements are inadequate to assess treatment response to these agents, and new...",
+    "cleaned_text": "PURPOSE: Treatment of metastatic colorectal cancer frequently includes antiangiogenic agents such as bevacizumab. Size measurements are inadequate to assess treatment response to these agents, and newer response assessment criteria are needed. We aimed to evaluate F-FDG PET-derived texture parameters in a preclinical colorectal cancer model as alternative metrics of response to treatment with bevacizumab. MATERIALS AND METHODS: Fourteen CD1 athymic mice injected in the flank with 5x106 LS174T cells (human colorectal carcinoma) were either untreated controls (n7) or bevacizumab treated (n7). After 2 weeks, mice underwent F-FDG PETCT. Calliper-measured tumor growth (Deltavol) and final tumor volume (Volcal), F-FDG PET metabolically active volume (Volmet), mean metabolism (Metmean), and maximum metabolism (Metmax) were measured. Twenty-four texture features were compared between treated and untreated mice. Immunohistochemical mean tumor vascular density was estimated by anti-CD-34 staining after tumor resection. RESULTS: Treated mice had significantly lower tumor vascular density (P0.032), confirming the antiangiogenic therapeutic effect of bevacizumab. None of the conventional measures were different between the two groups: Deltavol (P0.9), Volcal (P0.7), Volmet (P0.28), Metmax (P0.7), or Metmean (P0.32). One texture parameter, GLSZM-SZV (visually indicating that the F-FDG PET images of treated mice comprise uniformly sized clusters of different activity) had significantly different means between the two groups of mice (P0.001). CONCLUSION: F-FDG PET derived texture parameters, particularly GLSZM-SZV, may be valid biomarkers of tumor response to treatment with bevacizumab, before change in volume.",
+    "classification": {
+      "predicted_labels": [
+        "Cancer"
+      ],
+      "confidence_scores": {
+        "Cancer": 0.8,
+        "Non-Cancer": 0.2
+      },
+      "prediction": 1,
+      "probabilities": [
+        0.2,
+        0.8
+      ]
+    },
+    "disease_extraction": {
+      "extracted_diseases": [
+        "Colorectal Cancer",
+        "Carcinoma"
+      ],
+      "cancer_diseases": [
+        "Colorectal Cancer",
+        "Carcinoma"
+      ],
+      "non_cancer_diseases": [],
+      "disease_details": [
+        {
+          "disease": "Colorectal Cancer",
+          "category": "Cancer",
+          "start": 33,
+          "end": 50,
+          "confidence": 0.9,
+          "method": "regex"
+        },
+        {
+          "disease": "Carcinoma",
+          "category": "Cancer",
+          "start": 522,
+          "end": 531,
+          "confidence": 0.9,
+          "method": "regex"
+        }
+      ],
+      "total_diseases": 2,
+      "cancer_count": 2,
+      "non_cancer_count": 0
+    },
+    "is_cancer_related": true,
+    "analysis_metadata": {
+      "text_length": 1724,
+      "cleaned_length": 1724,
+      "disease_count": 2,
+      "cancer_disease_count": 2,
+      "non_cancer_disease_count": 0
+    },
+    "true_label": 1,
+    "correct": true
+  },
+  {
+    "abstract_id": "demo_67",
+    "original_text": "Dear Editor, Acrochordons are common benign neoplasms found in everyday practice. We present a rare case of a giant and single acrochordon on the lumbar region with signs of ischemia. The correlation ...",
+    "cleaned_text": "Dear Editor, Acrochordons are common benign neoplasms found in everyday practice. We present a rare case of a giant and single acrochordon on the lumbar region with signs of ischemia. The correlation of clinical, dermatoscopic, and histopathological analyses may help the clinician differentiate this entity from other benign and malignant dermatoses. A 33-year-old man presented to the outpatient clinic complaining of a lumbar mass that had been growing for two years. The lesion was asymptomatic except for recent discomfort when lying in the supine decubitus position. On examination there was a single, erythematous, non-tender pedunculated lesion, 5.1 cm x 4 cm x 3.2 cm in size, with flaccid bullae on its surface and firm consistency (Figure 1, a-b). Dermoscopy showed regularly arranged dotted vessels in a violaceous background and bullae filled with serous fluid (Figure 1, c-d). His personal and family medical history were unremarkable. Shave excision was performed and the sample was sent for histopathologic analysis. Histopathology revealed a normal epidermis surrounding a core of loose collagen fibers. Papillary dermis showed a mixed inflammatory cell infiltrate, congested capillaries, and extravasated erythrocytes. Scattered clusters of adipocytes were found in the deep dermis (Figure 2). The diagnosis of a giant ischemic acrochordon was established. Acrochordons, also commonly known as skin tags, are benign pedunculated neoplasms frequently found on the neck, axillae, or groin. They represent fibroepithelial polyps that originate from ectoderm and mesoderm tissue (1). They can be pigmented or skin colored and usually range between 2 to 5 mm in size. Skin tags can affect nearly 46 of the general population (2). Giant and solitary acrochordons are an uncommon clinical variant (2). Differential diagnosis of this pathology may be challenging in the particular clinical context of this patient. Benign neoplasms such as dermatofibroma, neurofibroma, and epidermal inclusion cysts can be clinically similar to giant skin tags (1,2). Histopathological analyses of acrochordons usually show papillomatosis, irregular acanthosis, loose collagen fibers, and dilated capillaries (2). A fibrolipomatous variant of acrochordon may reveal adipose tissue lobules between septa of collagen on pathological examination (1). Local ischemia due to twisting of the stalk may induce the formation of intradermal or subepidermal blisters in these tumors. Histopathologic characteristics found in ischemic acrochordons are neutrophil infiltration, congested capillaries, and extravasated erythrocytes (3). Fibroepithelioma of Pinkus (FeP) is a rare variant of basal cell carcinoma that may clinically mimic benign polypoid tumors and has a certain predilection for the lumbosacral area. Dermoscopic characteristics of fibroepithelioma of Pinkus that may aid the clinician in this diagnosis are fine arborizing vessels, either alone or associated with dotted vessels, and white streaks (4). Cosmetically adequate treatment of a giant acrochordon can be performed by shave excision and electrodesiccation of its pedicle. Choudhary et al. reported good results with this technique on a giant acrochordon on the thigh (5).",
+    "classification": {
+      "predicted_labels": [
+        "Cancer"
+      ],
+      "confidence_scores": {
+        "Cancer": 0.8,
+        "Non-Cancer": 0.2
+      },
+      "prediction": 1,
+      "probabilities": [
+        0.2,
+        0.8
+      ]
+    },
+    "disease_extraction": {
+      "extracted_diseases": [
+        "Carcinoma"
+      ],
+      "cancer_diseases": [
+        "Carcinoma"
+      ],
+      "non_cancer_diseases": [],
+      "disease_details": [
+        {
+          "disease": "Carcinoma",
+          "category": "Cancer",
+          "start": 2683,
+          "end": 2692,
+          "confidence": 0.9,
+          "method": "regex"
+        }
+      ],
+      "total_diseases": 1,
+      "cancer_count": 1,
+      "non_cancer_count": 0
+    },
+    "is_cancer_related": true,
+    "analysis_metadata": {
+      "text_length": 3230,
+      "cleaned_length": 3230,
+      "disease_count": 1,
+      "cancer_disease_count": 1,
+      "non_cancer_disease_count": 0
+    },
+    "true_label": 1,
+    "correct": true
+  },
+  {
+    "abstract_id": "demo_125",
+    "original_text": "The emergence of new variants of SARS-CoV-2 has led to the administration of different booster vaccines to mitigate COVID-19. Vaccines with adenoviral vectors have been rarely associated with vaccine-...",
+    "cleaned_text": "The emergence of new variants of SARS-CoV-2 has led to the administration of different booster vaccines to mitigate COVID-19. Vaccines with adenoviral vectors have been rarely associated with vaccine-induced immune thrombotic thrombocytopenia (VITT). This study aimed to describe 15 cases of VITT after the third and fourth doses of the COVID-19 vaccine in Brazil. Cases were reported after all kinds of anti-SARS-CoV-2 booster vaccinations between October 17, 2021, and September 4, 2022. Of the 26 suspected cases, 15 cases of VITT were analyzed. Of these, 10 were classified as definite VITT, 2 as probable, 1 as possible, and 2 as unlikely. The estimated frequency of definite, probable, or possible VITT was 0.33 cases per million. Cases were assigned to ChAdOx1 (13 cases), Ad26.COV2.S (1 case), and BNT162b2 (1 case). None of the patients received an adenoviral vaccine as a primary vaccination. The average age of participants was 34 years, and symptoms usually appeared 8 days after vaccination. Headache was the most common symptom, and cerebral veins were the most affected thrombotic site. The overall mortality risk was 53. Anti-platelet factor 4 enzyme-linked immunosorbent assay serology was positive in 11 out of 15 patients (73.3), negative in 2 (13.3), and missing in 2 (13.3). The study confirms that VITT is linked to the first exposure to adenoviral vector vaccines. Since January 2023, Brazil has recommended preferably COVID-19 messenger RNA vaccines for individuals aged 18 to 39 years. We suggest that, in the current disease scenario, COVID-19 adenovirus vaccines should not be the first choice for individuals aged 50 years who have not received a previous dose of this type of vaccine.",
+    "classification": {
+      "predicted_labels": [
+        "Non-Cancer"
+      ],
+      "confidence_scores": {
+        "Cancer": 0.2,
+        "Non-Cancer": 0.8
+      },
+      "prediction": 0,
+      "probabilities": [
+        0.8,
+        0.2
+      ]
+    },
+    "disease_extraction": {
+      "extracted_diseases": [
+        "COVID-19"
+      ],
+      "cancer_diseases": [],
+      "non_cancer_diseases": [
+        "COVID-19"
+      ],
+      "disease_details": [
+        {
+          "disease": "COVID-19",
+          "category": "Infectious",
+          "start": 33,
+          "end": 43,
+          "confidence": 0.9,
+          "method": "regex"
+        }
+      ],
+      "total_diseases": 1,
+      "cancer_count": 0,
+      "non_cancer_count": 1
+    },
+    "is_cancer_related": false,
+    "analysis_metadata": {
+      "text_length": 1713,
+      "cleaned_length": 1713,
+      "disease_count": 1,
+      "cancer_disease_count": 0,
+      "non_cancer_disease_count": 1
+    },
+    "true_label": 0,
+    "correct": true
+  },
+  {
+    "abstract_id": "demo_132",
+    "original_text": "Aim: Tuberous sclerosis complex (TSC) is a rare disease that produces multisystemic disorders. Everolimus (EVR) is the only immunosuppressive drug approved to control the symptoms and progression of t...",
+    "cleaned_text": "Aim: Tuberous sclerosis complex (TSC) is a rare disease that produces multisystemic disorders. Everolimus (EVR) is the only immunosuppressive drug approved to control the symptoms and progression of the disease. The aim was to evaluate the genotype-phenotype association to improve the pediatric TSC pharmacotherapeutic outcome. Patients  methods: Ten pediatric TSC patients were recruited. Concomitant treatment and main metabolic enzymes and transporter coding gene variants of EVR were analyzed. Results: Significant associations were found between CYP3A422 allele and concomitant treatment with valproic acid (CYP3A4-inhibitor) with a poor metabolizer phenotype and the presence of pneumonia. Conclusion: This is the first pharmacogenetic study of EVR in pediatric TSC patients. The authors propose to consider concomitant treatment and pharmacogenetics due to their multifactorial status.",
+    "classification": {
+      "predicted_labels": [
+        "Non-Cancer"
+      ],
+      "confidence_scores": {
+        "Cancer": 0.2,
+        "Non-Cancer": 0.8
+      },
+      "prediction": 0,
+      "probabilities": [
+        0.8,
+        0.2
+      ]
+    },
+    "disease_extraction": {
+      "extracted_diseases": [
+        "Pneumonia"
+      ],
+      "cancer_diseases": [],
+      "non_cancer_diseases": [
+        "Pneumonia"
+      ],
+      "disease_details": [
+        {
+          "disease": "Pneumonia",
+          "category": "Respiratory",
+          "start": 686,
+          "end": 695,
+          "confidence": 0.9,
+          "method": "regex"
+        }
+      ],
+      "total_diseases": 1,
+      "cancer_count": 0,
+      "non_cancer_count": 1
+    },
+    "is_cancer_related": false,
+    "analysis_metadata": {
+      "text_length": 893,
+      "cleaned_length": 893,
+      "disease_count": 1,
+      "cancer_disease_count": 0,
+      "non_cancer_disease_count": 1
+    },
+    "true_label": 0,
+    "correct": true
+  },
+  {
+    "abstract_id": "demo_9",
+    "original_text": "UNLABELLED: Essentials Mechanism of thrombin-induced inflammation is not fully understood. Thrombin induced monocyte adhesion and barrier loss require Angiopoietin-2 (Ang-2). Ang-2 mediates vessel lea...",
+    "cleaned_text": "UNLABELLED: Essentials Mechanism of thrombin-induced inflammation is not fully understood. Thrombin induced monocyte adhesion and barrier loss require Angiopoietin-2 (Ang-2). Ang-2 mediates vessel leakage and monocyte adhesion through SHP-2p38MAPK pathway. Calcium dependent SHP2p38MAPK activation regulates Ang-2 expression through a feedback loop. SUMMARY: Background Thrombin imparts an inflammatory phenotype to the endothelium by promoting increased monocyte adhesion and vascular permeability. However, the molecular players that govern these events are incompletely understood. Objective The aim of this study was to determine whether Angiopoietin-2 (Ang-2) has a role, if any, in regulating inflammatory signals initiated by thrombin. Methods Assessment of vascular leakage by Miles assay was performed by intra-dermal injection on the foot paw. Surface levels of intercellular adhesion molecule-1 (ICAM-1) were determined by flow cytometry. Overexpression, knockdown and phosphorylation of proteins were determined by Western blotting. Results In time-course experiments, thrombin-stimulated Ang-2 up-regulation, peaked prior to the expression of adhesion molecule ICAM-1 in human umbilical vein-derived endothelial cells (HUVECs). Knockdown of Ang-2 blocked both thrombin-induced monocyte adhesion and ICAM-1 expression. In addition, Ang-2(--) mice displayed defective vascular leakage when treated with thrombin. Introducing Ang-2 protein in Ang-2(--) mice failed to recover a wild-type phenotype. Mechanistically, Ang-2 appears to regulate the thrombin-activated calcium spike that is required for tyrosine phosphatase SHP2 and p38 MAPK activation. Further, down-regulation of SHP2 attenuated both thrombin-induced Ang-2 expression and monocyte adhesion. Down-regulation of the adaptor protein Gab1, a co-activator of SHP2, as well as overexpression of the Gab1 mutant incapable of interacting with SHP2 (YFGab1), inhibited thrombin-mediated effects, including downstream activation of p38 MAPK, which in turn was required for Ang-2 expression. Conclusions The data establish an essential role of the Gab1SHP2p38MAPK signaling pathway and Ang-2 in regulating thrombin-induced monocyte adhesion and vascular leakage.",
+    "classification": {
+      "predicted_labels": [
+        "Non-Cancer"
+      ],
+      "confidence_scores": {
+        "Cancer": 0.2,
+        "Non-Cancer": 0.8
+      },
+      "prediction": 0,
+      "probabilities": [
+        0.8,
+        0.2
+      ]
+    },
+    "disease_extraction": {
+      "extracted_diseases": [],
+      "cancer_diseases": [],
+      "non_cancer_diseases": [],
+      "disease_details": [],
+      "total_diseases": 0,
+      "cancer_count": 0,
+      "non_cancer_count": 0
+    },
+    "is_cancer_related": false,
+    "analysis_metadata": {
+      "text_length": 2227,
+      "cleaned_length": 2227,
+      "disease_count": 0,
+      "cancer_disease_count": 0,
+      "non_cancer_disease_count": 0
+    },
+    "true_label": 0,
+    "correct": true
+  },
+  {
+    "abstract_id": "demo_18",
+    "original_text": "Male breast cancer (MBC) is rare and consequently understudied. Here we present the case of contralateral breast cancer in a male patient nearly a quarter century following his initial breast cancer d...",
+    "cleaned_text": "Male breast cancer (MBC) is rare and consequently understudied. Here we present the case of contralateral breast cancer in a male patient nearly a quarter century following his initial breast cancer diagnosis and treatment. The epidemiology, risk factors, diagnosis, characterization, treatment, and prognosis of male breast cancer are reviewed. MBC accounts for 1 in 15 lifetime risk of breast cancer and is present in 11 of MBC patients, while BRCA1 is present in an estimated 1.5 of MBC patients. The risk of contralateral breast cancer developing in a male with a unilateral lesion is much higher than for a primary male breast cancer in the general population. Men tend to be diagnosed at a later age and stage than females. Prognosis for male and female breast cancer is similar considering both age of patient and stage of the tumor at diagnosis, and similar treatment paradigms have resulted in similar outcomes. Although lumpectomy with radiation therapy may have the same prognosis as mastectomy, the standard of care for male breast cancer continues to be simple mastectomy with sentinel lymph node biopsy.",
+    "classification": {
+      "predicted_labels": [
+        "Cancer"
+      ],
+      "confidence_scores": {
+        "Cancer": 0.8,
+        "Non-Cancer": 0.2
+      },
+      "prediction": 1,
+      "probabilities": [
+        0.2,
+        0.8
+      ]
+    },
+    "disease_extraction": {
+      "extracted_diseases": [
+        "Breast Cancer"
+      ],
+      "cancer_diseases": [
+        "Breast Cancer"
+      ],
+      "non_cancer_diseases": [],
+      "disease_details": [
+        {
+          "disease": "Breast Cancer",
+          "category": "Cancer",
+          "start": 5,
+          "end": 18,
+          "confidence": 0.9,
+          "method": "regex"
+        }
+      ],
+      "total_diseases": 1,
+      "cancer_count": 1,
+      "non_cancer_count": 0
+    },
+    "is_cancer_related": true,
+    "analysis_metadata": {
+      "text_length": 1117,
+      "cleaned_length": 1117,
+      "disease_count": 1,
+      "cancer_disease_count": 1,
+      "non_cancer_disease_count": 0
+    },
+    "true_label": 1,
+    "correct": true
+  },
+  {
+    "abstract_id": "demo_55",
+    "original_text": "BACKGROUND CONTEXT: Spinal implant placement may be challenging in cases of severe cervicothoracic spinal deformities and anatomical anomalies as in Type 1 neurofibromatosis. Intralaminar screwing of ...",
+    "cleaned_text": "BACKGROUND CONTEXT: Spinal implant placement may be challenging in cases of severe cervicothoracic spinal deformities and anatomical anomalies as in Type 1 neurofibromatosis. Intralaminar screwing of the thoracic spine has been described in few cases in which pedicles were hypoplasic. The costovertebral joints have never been used before as an anchorage point for screws. PURPOSE: The purpose of the study was to describe a new thoracic fixation technique to be used in severe deformities whenever the posterior arch (laminae and pedicles) is not available because of anatomic abnormalities. STUDY DESIGN: This is a case report. METHODS: An 18-year-old woman with progressive tetraparesis caused by increasing deformity of cervicothoracic spine underwent evaluation and surgical treatment: procedure and techniques were described. The clinical features, the radiological findings, and the outcomes were assessed. Complications and local recurrences were also recorded. RESULTS: Costotransverse joint screwing was successfully used in one case of severe cervicothoracic spine deformity with major hypoplasia of the pedicles. The posterior arch of one thoracic vertebra became mobile soon after periosteal stripping probably because of iatrogenic fracture of the only existent pedicle. The four-cortical trajectory of the screws resulted in a good bone purchase allowing the surgeon to complete the procedure. No local or general complications were recorded during 2 years of follow-up. CONCLUSIONS: The procedure was used as a salvage technique during a difficult surgery where a local complication forced a change of strategy. Although the implant remained stable long enough to achieve fusion, it still consists of placing a screw through a joint that remains slightly mobile. This could possibly result in a screw loosening in the long period if fusion is not achieved. We suggest the use of this technique when all the other options have been explored and excluded for anatomical reasons.",
+    "classification": {
+      "predicted_labels": [
+        "Non-Cancer"
+      ],
+      "confidence_scores": {
+        "Cancer": 0.2,
+        "Non-Cancer": 0.8
+      },
+      "prediction": 0,
+      "probabilities": [
+        0.8,
+        0.2
+      ]
+    },
+    "disease_extraction": {
+      "extracted_diseases": [],
+      "cancer_diseases": [],
+      "non_cancer_diseases": [],
+      "disease_details": [],
+      "total_diseases": 0,
+      "cancer_count": 0,
+      "non_cancer_count": 0
+    },
+    "is_cancer_related": false,
+    "analysis_metadata": {
+      "text_length": 1993,
+      "cleaned_length": 1993,
+      "disease_count": 0,
+      "cancer_disease_count": 0,
+      "non_cancer_disease_count": 0
+    },
+    "true_label": 0,
+    "correct": true
+  },
+  {
+    "abstract_id": "demo_75",
+    "original_text": "Most human cells require anchorage for survival. Cell-substrate adhesion activates diverse signalling pathways, without which cells undergo anoikis-a form of programmed cell death1. Acquisition of ano...",
+    "cleaned_text": "Most human cells require anchorage for survival. Cell-substrate adhesion activates diverse signalling pathways, without which cells undergo anoikis-a form of programmed cell death1. Acquisition of anoikis resistance is a pivotal step in cancer disease progression, as metastasizing cells often lose firm attachment to surrounding tissue2,3. In these poorly attached states, cells adopt rounded morphologies and form small hemispherical plasma membrane protrusions called blebs4-11. Bleb function has been thoroughly investigated in the context of amoeboid migration, but it has been examined far less in other scenarios12. Here we show by three-dimensional imaging and manipulation of cell morphological states that blebbing triggers the formation of plasma membrane-proximal signalling hubs that confer anoikis resistance. Specifically, in melanoma cells, blebbing generates plasma membrane contours that recruit curvature-sensing septin proteins as scaffolds for constitutively active mutant NRAS and effectors. These signalling hubs activate ERK and PI3K-well-established promoters of pro-survival pathways. Inhibition of blebs or septins has little effect on the survival of well-adhered cells, but in detached cells it causes NRAS mislocalization, reduced MAPK and PI3K activity, and ultimately, death. This unveils a morphological requirement for mutant NRAS to operate as an effective oncoprotein. Furthermore, whereas some BRAF-mutated melanoma cells do not rely on this survival pathway in a basal state, inhibition of BRAF and MEK strongly sensitizes them to both bleb and septin inhibition. Moreover, fibroblasts engineered to sustain blebbing acquire the same anoikis resistance as cancer cells even without harbouring oncogenic mutations. Thus, blebs are potent signalling organelles capable of integrating myriad cellular information flows into concerted cellular responses, in this case granting robust anoikis resistance.",
+    "classification": {
+      "predicted_labels": [
+        "Cancer"
+      ],
+      "confidence_scores": {
+        "Cancer": 0.8,
+        "Non-Cancer": 0.2
+      },
+      "prediction": 1,
+      "probabilities": [
+        0.2,
+        0.8
+      ]
+    },
+    "disease_extraction": {
+      "extracted_diseases": [
+        "Melanoma"
+      ],
+      "cancer_diseases": [
+        "Melanoma"
+      ],
+      "non_cancer_diseases": [],
+      "disease_details": [
+        {
+          "disease": "Melanoma",
+          "category": "Cancer",
+          "start": 841,
+          "end": 849,
+          "confidence": 0.9,
+          "method": "regex"
+        }
+      ],
+      "total_diseases": 1,
+      "cancer_count": 1,
+      "non_cancer_count": 0
+    },
+    "is_cancer_related": true,
+    "analysis_metadata": {
+      "text_length": 1937,
+      "cleaned_length": 1937,
+      "disease_count": 1,
+      "cancer_disease_count": 1,
+      "non_cancer_disease_count": 0
+    },
+    "true_label": 1,
+    "correct": true
+  },
+  {
+    "abstract_id": "demo_150",
+    "original_text": "Endochondral ossification is a crucial process for longitudinal growth of bones. Differentiating chondrocytes in growth cartilage form four sequential zones of proliferation, alignment into column, hy...",
+    "cleaned_text": "Endochondral ossification is a crucial process for longitudinal growth of bones. Differentiating chondrocytes in growth cartilage form four sequential zones of proliferation, alignment into column, hypertrophy, and substitution of chondrocytes with osteoblasts. Wntbeta-catenin signaling is essential for differentiation of proliferating chondrocytes into hypertrophic chondrocytes in growth cartilage. R-spondin 2 (Rspo2), a member of R-spondin family, is an agonist for Wnt signaling, but its role in chondrocyte differentiation remains unknown. Here we report that growth cartilage of Rspo2-knockout mice shows a decreased amount of beta-catenin and increased amounts collagen type II (CII) and Sox9 in the abnormally extended proliferating zone. In contrast, expression of collagen type X (CX) in the hypertrophic zone remains unchanged. Differentiating chondrogenic ATDC5 cells, mimicking proliferating chondrocytes, upregulate Rspo2 and its putative receptor, Lgr5, in parallel. Addition of recombinant human Rspo2 to differentiating ATDC5 cells decreases expressions of Col2a1, Sox9, and Acan, as well as production of proteoglycans. In contrast, lentivirus-mediated knockdown of Rspo2 has the opposite effect. The effect of Rspo2 on chondrogenic differentiation is mediated by Wntbeta-catenin signaling, and not by WntPCP or WntCa(2) signaling. We propose that Rspo2 activates Wntbeta-catenin signaling to reduce Col2a1 and Sox9 and to facilitate differentiation of proliferating chondrocytes into hypertrophic chondrocytes in growth cartilage.",
+    "classification": {
+      "predicted_labels": [
+        "Non-Cancer"
+      ],
+      "confidence_scores": {
+        "Cancer": 0.2,
+        "Non-Cancer": 0.8
+      },
+      "prediction": 0,
+      "probabilities": [
+        0.8,
+        0.2
+      ]
+    },
+    "disease_extraction": {
+      "extracted_diseases": [],
+      "cancer_diseases": [],
+      "non_cancer_diseases": [],
+      "disease_details": [],
+      "total_diseases": 0,
+      "cancer_count": 0,
+      "non_cancer_count": 0
+    },
+    "is_cancer_related": false,
+    "analysis_metadata": {
+      "text_length": 1552,
+      "cleaned_length": 1552,
+      "disease_count": 0,
+      "cancer_disease_count": 0,
+      "non_cancer_disease_count": 0
+    },
+    "true_label": 0,
+    "correct": true
+  },
+  {
+    "abstract_id": "demo_104",
+    "original_text": "A 35-year-old Japanese man who had experienced hoarseness for 10 years presented with a vocal cord lesion. A gross examination revealed a left vocal cord polyp occupying two-thirds of the vocal space....",
+    "cleaned_text": "A 35-year-old Japanese man who had experienced hoarseness for 10 years presented with a vocal cord lesion. A gross examination revealed a left vocal cord polyp occupying two-thirds of the vocal space. The endoscopically resected lesion contained scattered atypical fibroblastic, stellate, or ganglion-like cells with mucoid stroma. Vacuolated cells were also seen. Lymphoplasmacytic infiltrate was largely undetectable. A vocal cord polyp was first suspected, but well-differentiated liposarcoma and inflammatory myofibroblastic tumor (IMT) were included in the differential diagnoses. The tumor cells were positive for anaplastic lymphoma kinase (ALK), calponin, and vimentin, and negative for other smooth muscle markers by immunohistochemistry. Structures resembling myofibroblasts were not observed by electron microscopy, which confirmed abundant rough endoplasmic reticulum in the tumor cells and accumulated lipid droplets in some tumor cells. ALK gene rearrangement was detected by fluorescence in situ hybridization, and TIMP3-ALK fusion was confirmed by 5 rapid amplification of cDNA ends. We diagnosed the lesion as an IMT, and an ALK-rearranged stellate cell tumor may be postulated. This is the first report of a fusion partner gene of ALK in a case of laryngeal IMT.",
+    "classification": {
+      "predicted_labels": [
+        "Cancer"
+      ],
+      "confidence_scores": {
+        "Cancer": 0.8,
+        "Non-Cancer": 0.2
+      },
+      "prediction": 1,
+      "probabilities": [
+        0.2,
+        0.8
+      ]
+    },
+    "disease_extraction": {
+      "extracted_diseases": [
+        "Lymphoma"
+      ],
+      "cancer_diseases": [
+        "Lymphoma"
+      ],
+      "non_cancer_diseases": [],
+      "disease_details": [
+        {
+          "disease": "Lymphoma",
+          "category": "Cancer",
+          "start": 631,
+          "end": 639,
+          "confidence": 0.9,
+          "method": "regex"
+        }
+      ],
+      "total_diseases": 1,
+      "cancer_count": 1,
+      "non_cancer_count": 0
+    },
+    "is_cancer_related": true,
+    "analysis_metadata": {
+      "text_length": 1280,
+      "cleaned_length": 1280,
+      "disease_count": 1,
+      "cancer_disease_count": 1,
+      "non_cancer_disease_count": 0
+    },
+    "true_label": 1,
+    "correct": true
+  },
+  {
+    "abstract_id": "demo_135",
+    "original_text": "BACKGROUND: Psoriasis is a chronic inflammatory disease characterized by epidermal hyperplasia and increased T cell infiltration. Cytotoxic T lymphocyte antigen-4 (CTLA-4) is a key factor that affects...",
+    "cleaned_text": "BACKGROUND: Psoriasis is a chronic inflammatory disease characterized by epidermal hyperplasia and increased T cell infiltration. Cytotoxic T lymphocyte antigen-4 (CTLA-4) is a key factor that affects T cell function and immune response. However, whether the expression of CTLA-4 affects the severity of psoriasis is still unknown. OBJECTIVE: The aim of the project was to investigate the correlation between the expression of CTLA-4 and the severity of psoriasis. METHODS: The plasma soluble CTLA-4 levels and membrane CTLA-4 expression were measured by enzyme-linked immunosorbent assay and immunohistochemistry analysis in mild, moderate and severe psoriasis patients, respectively. Imiquimod-induced mouse model of psoriasis was treated with CTLA-4 immunoglobulin fusion protein (CTLA-4 Ig) or anti-CTLA-4 antibody. Epidermal thickness and infiltrating CD3 T cell counts were evaluated. RESULTS: The plasma soluble CTLA-4 levels had no significant difference among mild, moderate, and severe patients (p  0.05). However, the membrane CTLA-4 expression in skin was significantly higher in mild psoriasis patients compared to moderate and severe psoriasis patients (17652.86 - 18095.66 vs 6901.36 - 4400.77 vs 3970.24 - 5509.15, p  0.001). Furthermore, in imiquimod-induced mouse model of psoriasis, the results showed that mimicking CTLA-4 function improved the skin phenotype and reduced epidermal thickness (172.87 - 28.25 vs 245.87 - 36.61 mum, n  6, p  0.01) as well as infiltrating CD3 T cell counts (5.09 - 3.45 vs 13.45 - 4.70, p  0.01) compared to control group. However, blocking CTLA-4 function aggregated the skin phenotype including enhanced epidermal thickness and infiltrating CD3 T cell counts compared to control group. CONCLUSION: These results indicated that the expression of mCTLA-4 in skin lesion inversely correlated with the severity of psoriasis and CTLA-4 might play a critical role in the disease severity of psoriasis.",
+    "classification": {
+      "predicted_labels": [
+        "Non-Cancer"
+      ],
+      "confidence_scores": {
+        "Cancer": 0.2,
+        "Non-Cancer": 0.8
+      },
+      "prediction": 0,
+      "probabilities": [
+        0.8,
+        0.2
+      ]
+    },
+    "disease_extraction": {
+      "extracted_diseases": [],
+      "cancer_diseases": [],
+      "non_cancer_diseases": [],
+      "disease_details": [],
+      "total_diseases": 0,
+      "cancer_count": 0,
+      "non_cancer_count": 0
+    },
+    "is_cancer_related": false,
+    "analysis_metadata": {
+      "text_length": 1948,
+      "cleaned_length": 1948,
+      "disease_count": 0,
+      "cancer_disease_count": 0,
+      "non_cancer_disease_count": 0
+    },
+    "true_label": 0,
+    "correct": true
+  },
+  {
+    "abstract_id": "demo_137",
+    "original_text": "It has been known for decades that the DNA-dependent protein kinase (DNA-PK) is only an active serinethreonine protein kinase when it is bound to a DNA double-stranded end; still, the molecular detail...",
+    "cleaned_text": "It has been known for decades that the DNA-dependent protein kinase (DNA-PK) is only an active serinethreonine protein kinase when it is bound to a DNA double-stranded end; still, the molecular details of how this activation is achieved have remained elusive. The recent surge in structural information for DNA-PK complexes has provided valuable insights into the process of DNA end recognition by DNA-PK. A particularly intriguing feature of this kinase is a region of the protein that can transition from a seemingly structurally disordered state to a single alpha-helix that traverses down the DNA binding cradle. The DNA-PK bound DNA end of the DNA substrate engages with and appears to split around this helix which has been named the DNA End Blocking helix (DEB). Here a mutational approach is utilized to clarify the role of the DEB, and how DNA ends activate the enzyme. Our data suggest two distinct methods of kinase activation that is dependent on the DNA end chemistry. If the DNA end can split around the helix and stabilize the interaction between the DNA end and the DEB with a recently defined Helix-Hairpin-Helix (HHH) motif, the kinase forms an end-protection monomer that is active towards DNA-PKs many substrates. But if the DNA end cannot stably interact with the DEB because of the DNA end structure, for instance hairpins, or because the DEB has been disrupted by mutation, the kinase is only partially activated, resulting in specific autophosphorylations of the DNA-PK monomer that allows nucleolytic end-processing. We posit that mutants that disrupt the capacity to stably generate the DEBHHH DNA end-interaction are inefficient in generating the dimer complex that is requisite for NHEJ. In support of this idea, mutations that promote formation of this dimer partially rescue the severe cellular phenotypes associated with mutation of the DEB helix.",
+    "classification": {
+      "predicted_labels": [
+        "Non-Cancer"
+      ],
+      "confidence_scores": {
+        "Cancer": 0.2,
+        "Non-Cancer": 0.8
+      },
+      "prediction": 0,
+      "probabilities": [
+        0.8,
+        0.2
+      ]
+    },
+    "disease_extraction": {
+      "extracted_diseases": [],
+      "cancer_diseases": [],
+      "non_cancer_diseases": [],
+      "disease_details": [],
+      "total_diseases": 0,
+      "cancer_count": 0,
+      "non_cancer_count": 0
+    },
+    "is_cancer_related": false,
+    "analysis_metadata": {
+      "text_length": 1878,
+      "cleaned_length": 1878,
+      "disease_count": 0,
+      "cancer_disease_count": 0,
+      "non_cancer_disease_count": 0
+    },
+    "true_label": 0,
+    "correct": true
+  },
+  {
+    "abstract_id": "demo_164",
+    "original_text": "Next-generation sequencing (NGS) has enabled comprehensive genomic profiling to identify gene alterations that play important roles in cancer biology. However, the clinical significance of these genom...",
+    "cleaned_text": "Next-generation sequencing (NGS) has enabled comprehensive genomic profiling to identify gene alterations that play important roles in cancer biology. However, the clinical significance of these genomic alterations in triple-negative breast cancer (TNBC) patients has not yet been fully elucidated. The aim of this study was to clarify the clinical significance of genomic profiling data, including copy number alterations (CNA) and tumor mutation burden (TMB), in TNBC patients. A total of 47 patients with Stage I-III TNBC with genomic profiling of 435 known cancer genes by NGS were enrolled in this study. Disease-free survival (DFS) and overall survival (OS) were evaluated for their association to gene profiling data. CNA-high patients showed significantly worse DFS and OS than CNA-low patients (p  0.0009, p  0.0041, respectively). TMB was not associated with DFS or OS in TNBC patients. Patients with TP53 alterations showed a tendency of worse DFS (p  0.0953) and significantly worse OS (p  0.0338) compared with patients without TP53 alterations. Multivariable analysis including CNA and other clinicopathological parameters revealed that CNA was an independent prognostic factor for DFS (p  0.0104) and OS (p  0.0306). Finally, multivariable analysis also revealed the combination of CNA-high and TP53 alterations is an independent prognostic factor for DFS (p  0.0005) and OS (p  0.0023). We revealed that CNA, but not TMB, is significantly associated with DFS and OS in TNBC patients. The combination of CNA-high and TP53 alterations may be a promising biomarker that can inform beyond standard clinicopathologic factors to identify a subgroup of TNBC patients with significantly worse prognosis.",
+    "classification": {
+      "predicted_labels": [
+        "Cancer"
+      ],
+      "confidence_scores": {
+        "Cancer": 0.8,
+        "Non-Cancer": 0.2
+      },
+      "prediction": 1,
+      "probabilities": [
+        0.2,
+        0.8
+      ]
+    },
+    "disease_extraction": {
+      "extracted_diseases": [
+        "Breast Cancer"
+      ],
+      "cancer_diseases": [
+        "Breast Cancer"
+      ],
+      "non_cancer_diseases": [],
+      "disease_details": [
+        {
+          "disease": "Breast Cancer",
+          "category": "Cancer",
+          "start": 234,
+          "end": 247,
+          "confidence": 0.9,
+          "method": "regex"
+        }
+      ],
+      "total_diseases": 1,
+      "cancer_count": 1,
+      "non_cancer_count": 0
+    },
+    "is_cancer_related": true,
+    "analysis_metadata": {
+      "text_length": 1711,
+      "cleaned_length": 1711,
+      "disease_count": 1,
+      "cancer_disease_count": 1,
+      "non_cancer_disease_count": 0
+    },
+    "true_label": 1,
+    "correct": true
+  },
+  {
+    "abstract_id": "demo_76",
+    "original_text": "The Latino population has been systematically underrepresented in large-scale genetic analyses, and previous studies have relied on the imputation of ungenotyped variants based on the 1000 Genomes (10...",
+    "cleaned_text": "The Latino population has been systematically underrepresented in large-scale genetic analyses, and previous studies have relied on the imputation of ungenotyped variants based on the 1000 Genomes (1000G) imputation panel, which results in suboptimal capture of low-frequency or Latino-enriched variants. The National Heart, Lung, and Blood Institute (NHLBI) Trans-Omics for Precision Medicine (TOPMed) released the largest multi-ancestry genotype reference panel representing a unique opportunity to analyse rare genetic variations in the Latino population. We hypothesise that a more comprehensive analysis of lowrare variation using the TOPMed panel would improve our knowledge of the genetics of type 2 diabetes in the Latino population. We evaluated the TOPMed imputation performance using genotyping array and whole-exome sequence data in six Latino cohorts. To evaluate the ability of TOPMed imputation to increase the number of identified loci, we performed a Latino type 2 diabetes genome-wide association study (GWAS) meta-analysis in 8150 individuals with type 2 diabetes and 10,735 control individuals and replicated the results in six additional cohorts including whole-genome sequence data from the All of Us cohort. Compared with imputation with 1000G, the TOPMed panel improved the identification of rare and low-frequency variants. We identified 26 genome-wide significant signals including a novel variant (minor allele frequency 1.7; OR 1.37, p3.4  10-9). A Latino-tailored polygenic score constructed from our data and GWAS data from East Asian and European populations improved the prediction accuracy in a Latino target dataset, explaining up to 7.6 of the type 2 diabetes risk variance. Our results demonstrate the utility of TOPMed imputation for identifying low-frequency variants in understudied populations, leading to the discovery of novel disease associations and the improvement of polygenic scores. Full summary statistics are available through the Common Metabolic Diseases Knowledge Portal ( https:t2d.hugeamp.orgdownloads.html ) and through the GWAS catalog ( https:www.ebi.ac.ukgwas , accession ID: GCST90255648). Polygenic score (PS) weights for each ancestry are available via the PGS catalog ( https:www.pgscatalog.org , publication ID: PGP000445, scores IDs: PGS003443, PGS003444 and PGS003445).",
+    "classification": {
+      "predicted_labels": [
+        "Non-Cancer"
+      ],
+      "confidence_scores": {
+        "Cancer": 0.2,
+        "Non-Cancer": 0.8
+      },
+      "prediction": 0,
+      "probabilities": [
+        0.8,
+        0.2
+      ]
+    },
+    "disease_extraction": {
+      "extracted_diseases": [
+        "Diabetes"
+      ],
+      "cancer_diseases": [],
+      "non_cancer_diseases": [
+        "Diabetes"
+      ],
+      "disease_details": [
+        {
+          "disease": "Diabetes",
+          "category": "Metabolic",
+          "start": 707,
+          "end": 715,
+          "confidence": 0.9,
+          "method": "regex"
+        }
+      ],
+      "total_diseases": 1,
+      "cancer_count": 0,
+      "non_cancer_count": 1
+    },
+    "is_cancer_related": false,
+    "analysis_metadata": {
+      "text_length": 2335,
+      "cleaned_length": 2335,
+      "disease_count": 1,
+      "cancer_disease_count": 0,
+      "non_cancer_disease_count": 1
+    },
+    "true_label": 0,
+    "correct": true
+  },
+  {
+    "abstract_id": "demo_79",
+    "original_text": "Male premutation carriers presenting between 55 and 200 CGG repeats in the Fragile-X-associated (FMR1) gene are at risk of developing Fragile X TremorAtaxia Syndrome (FXTAS), and females undergo Prema...",
+    "cleaned_text": "Male premutation carriers presenting between 55 and 200 CGG repeats in the Fragile-X-associated (FMR1) gene are at risk of developing Fragile X TremorAtaxia Syndrome (FXTAS), and females undergo Premature Ovarian Failure (POF1). Here, we have evaluated gene expression profiles from blood in male FMR1 premutation carriers and detected a strong deregulation of genes enriched in FXTAS relevant biological pathways, including inflammation, neuronal homeostasis and viability. Gene expression profiling distinguished between control individuals, carriers with FXTAS and carriers without FXTAS, with levels of expanded FMR1 mRNA being increased in FXTAS patients. In vitro studies in a neuronal cell model indicate that expression levels of expanded FMR1 5-UTR are relevant in modulating the transcriptome. Thus, perturbations of the transcriptome may be an interplay between the CGG expansion size and FMR1 expression levels. Several deregulated genes (DFFA, BCL2L11, BCL2L1, APP, SOD1, RNF10, HDAC5, KCNC3, ATXN7, ATXN3 and EAP1) were validated in brain samples of a FXTAS mouse model. Downregulation of EAP1, a gene involved in the female reproductive system physiology, was confirmed in female carriers. Decreased levels were detected in female carriers with POF1 compared to those without POF1, suggesting that EAP1 levels contribute to ovarian insufficiency. In summary, gene expression profiling in blood has uncovered mechanisms that may underlie different pathological aspects of the premutation. A better understanding of the transcriptome dynamics in relation with expanded FMR1 mRNA expression levels and CGG expansion size may provide mechanistic insights into the disease process and a more accurate FXTAS diagnosis to the myriad of phenotypes associated with the premutation.",
+    "classification": {
+      "predicted_labels": [
+        "Non-Cancer"
+      ],
+      "confidence_scores": {
+        "Cancer": 0.2,
+        "Non-Cancer": 0.8
+      },
+      "prediction": 0,
+      "probabilities": [
+        0.8,
+        0.2
+      ]
+    },
+    "disease_extraction": {
+      "extracted_diseases": [],
+      "cancer_diseases": [],
+      "non_cancer_diseases": [],
+      "disease_details": [],
+      "total_diseases": 0,
+      "cancer_count": 0,
+      "non_cancer_count": 0
+    },
+    "is_cancer_related": false,
+    "analysis_metadata": {
+      "text_length": 1787,
+      "cleaned_length": 1787,
+      "disease_count": 0,
+      "cancer_disease_count": 0,
+      "non_cancer_disease_count": 0
+    },
+    "true_label": 0,
+    "correct": true
+  },
+  {
+    "abstract_id": "demo_197",
+    "original_text": "LESSONS LEARNED: This is the first human interventional study in patients with Cowden syndrome that is driven by inactivation of germline PTEN gene.Single-agent sirolimus, a mTOR inhibitor, suppressed...",
+    "cleaned_text": "LESSONS LEARNED: This is the first human interventional study in patients with Cowden syndrome that is driven by inactivation of germline PTEN gene.Single-agent sirolimus, a mTOR inhibitor, suppressed mTOR signaling in surrogate human tissues without significant toxicity. BACKGROUND: Cowden syndrome is characterized by inactivating germline PTEN mutations, which can lead to activation of the PI3K-Akt-mTOR pathway. METHODS: Adult subjects with germline PTEN mutation who met international diagnostic criteria for Cowden syndrome and who had Eastern Cooperative Oncology Group (ECOG) performance status 0-2 and adequate organ function were enrolled. Subjects were treated with a 56-day course of daily oral sirolimus. In addition to symptom assessment and physical examination, dermatologic, endoscopic, neurologic (cerebellar), and radiographic assessments were conducted. Inhibition of the mTOR pathway in benign skin and gastrointestinal (GI) lesion was assessed by immunohistochemistry. RESULTS: A total of 18 patients and 16 families were enrolled. PTEN mutations were located at exons 1-8. Regression of skin and GI lesions was observed by dermoscopy or endoscopy. Neurological evaluation showed improvement in cerebellar function score at 1 month. Immunohistochemistry (IHC) analysis in skin and GI benign lesions showed a decrease in the ratio of phosphorylated (p)S6 to total S6 in response to sirolimus. Ratios of pS6K to total S6 at days 14 and 56 were significantly lower than at baseline (p  .0026, p  .00391, respectively). A 56-day course of sirolimus was well tolerated. CONCLUSION: A 56-day course of sirolimus was well tolerated in subjects with Cowden syndrome and was associated with some evidence of improvement in symptoms, skin and GI lesions, cerebellar function, and decreased mTOR signaling.",
+    "classification": {
+      "predicted_labels": [
+        "Cancer"
+      ],
+      "confidence_scores": {
+        "Cancer": 0.8,
+        "Non-Cancer": 0.2
+      },
+      "prediction": 1,
+      "probabilities": [
+        0.2,
+        0.8
+      ]
+    },
+    "disease_extraction": {
+      "extracted_diseases": [],
+      "cancer_diseases": [],
+      "non_cancer_diseases": [],
+      "disease_details": [],
+      "total_diseases": 0,
+      "cancer_count": 0,
+      "non_cancer_count": 0
+    },
+    "is_cancer_related": false,
+    "analysis_metadata": {
+      "text_length": 1819,
+      "cleaned_length": 1819,
+      "disease_count": 0,
+      "cancer_disease_count": 0,
+      "non_cancer_disease_count": 0
+    },
+    "true_label": 0,
+    "correct": false
+  },
+  {
+    "abstract_id": "demo_38",
+    "original_text": "BACKGROUND: Cavernomas frequently are associated with intractable epilepsy. When cavernomas located in the temporal lobe are associated with intractable epilepsy, the hippocampus also may have an epil...",
+    "cleaned_text": "BACKGROUND: Cavernomas frequently are associated with intractable epilepsy. When cavernomas located in the temporal lobe are associated with intractable epilepsy, the hippocampus also may have an epileptic focus. The objective in the present study was to clarify the importance of evaluation of the posterior hippocampal epileptogenicity during epilepsy surgery for posteromedial temporal lobe cavernoma. CASE DESCRIPTIONS: In this study, we describe 2 rare cases of medically intractable epilepsy in patients with posteromedial temporal lobe cavernomas who underwent surgery via the occipital approach. Using longitudinal insertion of depth electrodes into the hippocampus, we evaluated epileptogenicity in both patients from the cavernoma cavity and its surrounding hemosiderin, as well as from the posterior hippocampus near the cavernoma. We show that the transoccipital approach to the posteromedial temporal lobe is compatible with depth electrode insertion and subdural electrode placement on the temporal lobe, enabling an accurate evaluation of potential epileptogenic zones in the posterior part of the hippocampus. Both patients did not experience any seizures and had no postoperative neurologic deficits, and their cognitive functions were intact. CONCLUSIONS: The transoccipital approach enables the optimization of the extent of posterior hippocampectomy while avoiding unnecessary resection for seizure control. We suggest resecting the posterior part of the hippocampus in addition to the cavernoma and surrounding areas in patients with medically refractory epilepsy due to a posteromedial temporal cavernoma. Tailored systematic resection guided by intraoperative electrocorticography and electroencephalography with a depth electrode was important and necessary in the present cases.",
+    "classification": {
+      "predicted_labels": [
+        "Non-Cancer"
+      ],
+      "confidence_scores": {
+        "Cancer": 0.2,
+        "Non-Cancer": 0.8
+      },
+      "prediction": 0,
+      "probabilities": [
+        0.8,
+        0.2
+      ]
+    },
+    "disease_extraction": {
+      "extracted_diseases": [],
+      "cancer_diseases": [],
+      "non_cancer_diseases": [],
+      "disease_details": [],
+      "total_diseases": 0,
+      "cancer_count": 0,
+      "non_cancer_count": 0
+    },
+    "is_cancer_related": false,
+    "analysis_metadata": {
+      "text_length": 1803,
+      "cleaned_length": 1803,
+      "disease_count": 0,
+      "cancer_disease_count": 0,
+      "non_cancer_disease_count": 0
+    },
+    "true_label": 0,
+    "correct": true
+  },
+  {
+    "abstract_id": "demo_24",
+    "original_text": "Acute myeloid leukemia (AML) is caused by abnormal production of white blood cells, red blood cells or platelets. The leukemia cells communicate with their microenvironment through nano-vesicle exosom...",
+    "cleaned_text": "Acute myeloid leukemia (AML) is caused by abnormal production of white blood cells, red blood cells or platelets. The leukemia cells communicate with their microenvironment through nano-vesicle exosomes that are 30-100 nm in diameter. These nano-vesicles are released from body fluids upon fusion of an endocytic compartment with the cell membrane. Exosomes function as cargo to deliver signaling molecules to distant cells. This allows cross-talk between hematopoietic cells and other distant target cell environments. Exosomes support leukemia growth by acting as messengers between tumor cells and the microenvironment as well as inducing oncogenic factors such as c-Myc. Exosomes have also been used as biomarkers in the clinical diagnosis of leukemia. Glycogen synthase kinase-3 (GSK-3) and protein phosphatase 2A (PP2A) are two crucial signaling molecules involved in the AML pathogenesis and MYC stability. GSK-3 is a serinethreonine protein kinase that coordinates with over 40 different proteins during physiologicalpathological conditions in blood cells. The dysregulation in GSK-3 has been reported during hematological malignancies. GSK-3 acts as a tumor suppressor by targeting c-MYC, MCL-1 and beta-catenin. Conversely, GSK-3 can also act as tumor promoter in some instances. The pharmacological modulators of GSK-3 such as ABT-869, 6-Bromoindirubin-3-oxime (BIO), GS-87 and LY2090314 have shown promise in the treatment of hematological malignancy. PP2A is a heterotrimeric serinethreonine phosphatase involved in the regulation of hematological malignancy. PP2A-activating drugs (PADs) can effectively antagonize leukemogenesis. The discovery of exosomes, kinase inhibitors and phosphatase activators have provided new hope to the leukemia patients. This review discusses the role of exosomes, GSK-3 and PP2A in the pathogenesis of leukemia. We provide evidence from both preclinical and clinical studies.",
+    "classification": {
+      "predicted_labels": [
+        "Cancer"
+      ],
+      "confidence_scores": {
+        "Cancer": 0.8,
+        "Non-Cancer": 0.2
+      },
+      "prediction": 1,
+      "probabilities": [
+        0.2,
+        0.8
+      ]
+    },
+    "disease_extraction": {
+      "extracted_diseases": [
+        "Leukemia"
+      ],
+      "cancer_diseases": [
+        "Leukemia"
+      ],
+      "non_cancer_diseases": [],
+      "disease_details": [
+        {
+          "disease": "Leukemia",
+          "category": "Cancer",
+          "start": 14,
+          "end": 22,
+          "confidence": 0.9,
+          "method": "regex"
+        }
+      ],
+      "total_diseases": 1,
+      "cancer_count": 1,
+      "non_cancer_count": 0
+    },
+    "is_cancer_related": true,
+    "analysis_metadata": {
+      "text_length": 1921,
+      "cleaned_length": 1921,
+      "disease_count": 1,
+      "cancer_disease_count": 1,
+      "non_cancer_disease_count": 0
+    },
+    "true_label": 1,
+    "correct": true
+  },
+  {
+    "abstract_id": "demo_122",
+    "original_text": "BACKGROUND: Genomic inversions are usually balanced, but unusual patterns have been described in haemophilia A (HA) patients for intron 22 (Inv22) and intron 1 (Inv1) inversions leading to the hypothe...",
+    "cleaned_text": "BACKGROUND: Genomic inversions are usually balanced, but unusual patterns have been described in haemophilia A (HA) patients for intron 22 (Inv22) and intron 1 (Inv1) inversions leading to the hypothesis of more complex rearrangements involving deletions or duplications. AIM: To characterize five abnormal patterns either in Southern blot and long-range PCR for Inv22 or in PCR for Inv1. MATERIALS AND METHODS: All patients were studied using cytogenetic microarray analysis (CMA). RESULTS: In all cases, CMA analysis found that each inversion was associated with complex Xq28 rearrangement. In three patients, CMA analysis showed large duplication ranging from 230 to 1302 kb and encompassing a various number of contiguous genes among which RAB39B. RAB39B duplication is a strong candidate gene for X-linked intellectual disability (XLID). Surprisingly, none of the severe HA patients with RAB39B duplication reported in this study or in the literature exhibited XLID. We hypothesise that F8 complex rearrangement down regulated RAB39B expression. In the two remaining patients, CMA analysis found Xq28 large deletion (from 285 to 522 kb). Moyamoya syndrome was strongly suspected in one of them who carried BRCC3 deletion. CONCLUSION: Because several F8 neighbouring genes are associated with other pathologies such as XLID and cardiovascular disease, all HA patients where complex Xq28 rearrangement was suspected should be referred to a geneticist for possible utility of a pangenomic study. Such investigation should be carefully considered in genetic counselling in female carriers to assess the risk of transmitting severe HA with a contiguous gene syndrome.",
+    "classification": {
+      "predicted_labels": [
+        "Non-Cancer"
+      ],
+      "confidence_scores": {
+        "Cancer": 0.2,
+        "Non-Cancer": 0.8
+      },
+      "prediction": 0,
+      "probabilities": [
+        0.8,
+        0.2
+      ]
+    },
+    "disease_extraction": {
+      "extracted_diseases": [
+        "Cardiovascular Disease"
+      ],
+      "cancer_diseases": [],
+      "non_cancer_diseases": [
+        "Cardiovascular Disease"
+      ],
+      "disease_details": [
+        {
+          "disease": "Cardiovascular Disease",
+          "category": "Cardiovascular",
+          "start": 1332,
+          "end": 1354,
+          "confidence": 0.9,
+          "method": "regex"
+        }
+      ],
+      "total_diseases": 1,
+      "cancer_count": 0,
+      "non_cancer_count": 1
+    },
+    "is_cancer_related": false,
+    "analysis_metadata": {
+      "text_length": 1667,
+      "cleaned_length": 1667,
+      "disease_count": 1,
+      "cancer_disease_count": 0,
+      "non_cancer_disease_count": 1
+    },
+    "true_label": 0,
+    "correct": true
+  },
+  {
+    "abstract_id": "demo_195",
+    "original_text": "Crizotinib and entrectinib have been approved to treat ROS1 fusion-positive (ROS1) non-small-cell lung cancer. However, unmet needs remain, including treatment of patients with resistance mutations, e...",
+    "cleaned_text": "Crizotinib and entrectinib have been approved to treat ROS1 fusion-positive (ROS1) non-small-cell lung cancer. However, unmet needs remain, including treatment of patients with resistance mutations, efficacy in brain metastasis and avoidance of neurological side effects. Taletrectinib was designed to: improve efficacy; overcome resistance to first-generation ROS1 inhibitors; and address brain metastasis while conferring fewer neurological adverse events. All of these features are demonstrated and supported by the interim data from the regional phase II TRUST-I clinical study. Here we describe the rationale and design of TRUST-II, a global phase II study of taletrectinib in patients with locally advancedmetastatic ROS1 non-small-cell lung cancer and other ROS1 solid tumors. The primary end point is confirmed objective response rate. Secondary end points include duration of response, progression-free survival, overall survival and safety. This trial is enrolling patients in North America, Europe and Asia.",
+    "classification": {
+      "predicted_labels": [
+        "Cancer"
+      ],
+      "confidence_scores": {
+        "Cancer": 0.8,
+        "Non-Cancer": 0.2
+      },
+      "prediction": 1,
+      "probabilities": [
+        0.2,
+        0.8
+      ]
+    },
+    "disease_extraction": {
+      "extracted_diseases": [
+        "Lung Cancer"
+      ],
+      "cancer_diseases": [
+        "Lung Cancer"
+      ],
+      "non_cancer_diseases": [],
+      "disease_details": [
+        {
+          "disease": "Lung Cancer",
+          "category": "Cancer",
+          "start": 98,
+          "end": 109,
+          "confidence": 0.9,
+          "method": "regex"
+        }
+      ],
+      "total_diseases": 1,
+      "cancer_count": 1,
+      "non_cancer_count": 0
+    },
+    "is_cancer_related": true,
+    "analysis_metadata": {
+      "text_length": 1018,
+      "cleaned_length": 1018,
+      "disease_count": 1,
+      "cancer_disease_count": 1,
+      "non_cancer_disease_count": 0
+    },
+    "true_label": 1,
+    "correct": true
+  },
+  {
+    "abstract_id": "demo_29",
+    "original_text": "Plasmablastic plasma cell myelomas of the cervix can mimic the more common cervical squamous cell carcinoma. It can be difficult to differentiate plasmablastic lymphoma of the cervix from cervical pla...",
+    "cleaned_text": "Plasmablastic plasma cell myelomas of the cervix can mimic the more common cervical squamous cell carcinoma. It can be difficult to differentiate plasmablastic lymphoma of the cervix from cervical plasmablastic plasma cell myeloma. The clinician must rely on clinical, laboratory, and radiologic findings to diagnose genital plasma cell myeloma. Prompt diagnosis of this rare clinical condition can potentially allow timely treatment with systemic chemotherapy.",
+    "classification": {
+      "predicted_labels": [
+        "Cancer"
+      ],
+      "confidence_scores": {
+        "Cancer": 0.8,
+        "Non-Cancer": 0.2
+      },
+      "prediction": 1,
+      "probabilities": [
+        0.2,
+        0.8
+      ]
+    },
+    "disease_extraction": {
+      "extracted_diseases": [
+        "Lymphoma",
+        "Myeloma",
+        "Carcinoma"
+      ],
+      "cancer_diseases": [
+        "Lymphoma",
+        "Myeloma",
+        "Carcinoma"
+      ],
+      "non_cancer_diseases": [],
+      "disease_details": [
+        {
+          "disease": "Lymphoma",
+          "category": "Cancer",
+          "start": 160,
+          "end": 168,
+          "confidence": 0.9,
+          "method": "regex"
+        },
+        {
+          "disease": "Myeloma",
+          "category": "Cancer",
+          "start": 223,
+          "end": 230,
+          "confidence": 0.9,
+          "method": "regex"
+        },
+        {
+          "disease": "Carcinoma",
+          "category": "Cancer",
+          "start": 98,
+          "end": 107,
+          "confidence": 0.9,
+          "method": "regex"
+        }
+      ],
+      "total_diseases": 3,
+      "cancer_count": 3,
+      "non_cancer_count": 0
+    },
+    "is_cancer_related": true,
+    "analysis_metadata": {
+      "text_length": 461,
+      "cleaned_length": 461,
+      "disease_count": 3,
+      "cancer_disease_count": 3,
+      "non_cancer_disease_count": 0
+    },
+    "true_label": 1,
+    "correct": true
+  },
+  {
+    "abstract_id": "demo_19",
+    "original_text": "Exosomes are small membrane vesicles (ranging from 30 nm to 150 nm), secreted by different cell types upon fusion of multivesicular bodies (MVB) to the cell plasma membrane under a variety of normal a...",
+    "cleaned_text": "Exosomes are small membrane vesicles (ranging from 30 nm to 150 nm), secreted by different cell types upon fusion of multivesicular bodies (MVB) to the cell plasma membrane under a variety of normal and pathological conditions. Through transferring their cargos such as proteins, lipids and nucleic acids from donor cells to recipient cells, exosomes play a crucial role in cell-to-cell communication. Due to their presence in most body fluids (such as blood, breast milk, saliva, urine, bile, pancreatic juice, cerebrospinal and peritoneal fluids), and their role in carrying bioactive molecules from the cells of origin, exosomes have attracted great interest in their diagnostic and prognostic value for various diseases and therapeutic approaches. Although a large body of literature has documented the importance of exosomes over the past decade, there is no article systematically summarizing protein markers of exosome from different resources and the antibodies that are suited to characterize exosomes. In this review, we briefly summarize the exosome marker proteins, exosomal biomarkers for different diseases, and the antibodies suitable for different bio-resources exosomes characterization.",
+    "classification": {
+      "predicted_labels": [
+        "Non-Cancer"
+      ],
+      "confidence_scores": {
+        "Cancer": 0.2,
+        "Non-Cancer": 0.8
+      },
+      "prediction": 0,
+      "probabilities": [
+        0.8,
+        0.2
+      ]
+    },
+    "disease_extraction": {
+      "extracted_diseases": [],
+      "cancer_diseases": [],
+      "non_cancer_diseases": [],
+      "disease_details": [],
+      "total_diseases": 0,
+      "cancer_count": 0,
+      "non_cancer_count": 0
+    },
+    "is_cancer_related": false,
+    "analysis_metadata": {
+      "text_length": 1204,
+      "cleaned_length": 1204,
+      "disease_count": 0,
+      "cancer_disease_count": 0,
+      "non_cancer_disease_count": 0
+    },
+    "true_label": 0,
+    "correct": true
+  },
+  {
+    "abstract_id": "demo_143",
+    "original_text": "The mechanisticmammalian target of rapamycin (mTOR) has emerged as a critical integrator of signals from the immune microenvironment capable of regulating T cell activation, differentiation, and funct...",
+    "cleaned_text": "The mechanisticmammalian target of rapamycin (mTOR) has emerged as a critical integrator of signals from the immune microenvironment capable of regulating T cell activation, differentiation, and function. The precise role of mTOR in the control of regulatory T cell (Treg) differentiation and function is complex. Pharmacologic inhibition and genetic deletion of mTOR promotes the generation of Tregs even under conditions that would normally promote generation of effector T cells. Alternatively, mTOR activity has been observed to be increased in Tregs, and the genetic deletion of the mTOR complex 1 (mTORC1)-scaffold protein Raptor inhibits Treg function. In this study, by employing both pharmacologic inhibitors and genetically altered T cells, we seek to clarify the role of mTOR in Tregs. Our studies demonstrate that inhibition of mTOR during T cell activation promotes the generation of long-lived central Tregs with a memory-like phenotype in mice. Metabolically, these central memory Tregs possess enhanced spare respiratory capacity, similar to CD8 memory cells. Alternatively, the generation of effector Tregs (eTregs) requires mTOR function. Indeed, genetic deletion of Rptor leads to the decreased expression of ICOS and PD-1 on the eTregs. Overall, our studies define a subset of mTORC1hi eTregs and mTORC1lo central Tregs.",
+    "classification": {
+      "predicted_labels": [
+        "Non-Cancer"
+      ],
+      "confidence_scores": {
+        "Cancer": 0.2,
+        "Non-Cancer": 0.8
+      },
+      "prediction": 0,
+      "probabilities": [
+        0.8,
+        0.2
+      ]
+    },
+    "disease_extraction": {
+      "extracted_diseases": [],
+      "cancer_diseases": [],
+      "non_cancer_diseases": [],
+      "disease_details": [],
+      "total_diseases": 0,
+      "cancer_count": 0,
+      "non_cancer_count": 0
+    },
+    "is_cancer_related": false,
+    "analysis_metadata": {
+      "text_length": 1340,
+      "cleaned_length": 1340,
+      "disease_count": 0,
+      "cancer_disease_count": 0,
+      "non_cancer_disease_count": 0
+    },
+    "true_label": 0,
+    "correct": true
+  },
+  {
+    "abstract_id": "demo_86",
+    "original_text": "Inherited platelet disorders (IPD) are a heterogeneous group of rare disorders that affect platelet number and function and often predispose to other significant medical complications. In spite of the...",
+    "cleaned_text": "Inherited platelet disorders (IPD) are a heterogeneous group of rare disorders that affect platelet number and function and often predispose to other significant medical complications. In spite of the identification of over 50 IPD disease-associated genes, a molecular diagnosis is only identified in a minority (10) of affected patients without a clinically suspected etiology. We studied a cohort of 21 pediatric patients with suspected IPDs by exome sequencing (ES) to: (1) examine the performance of the exome test for IPD genes, (2) determine if this exome-wide diagnostic test provided a higher diagnostic yield than has been previously reported, (3) to evaluate the frequency of variants of uncertain significance identified, and (4) to identify candidate variants for functional evaluation in patients with an uncertain or negative diagnosis. We established a high priority gene list of 53 genes, evaluated exome capture kit performance, and determined the coverage for these genes and disease-related variants. We identified likely disease causing variants in 5 of the 21 probands (23.8) and variants of uncertain significance in 52 of patients studied. In conclusion, ES has the potential to molecularly diagnose causes of IPD, and to identify candidate genes for functional evaluation. Robust exome sequencing also requires that coverage of genes known to be associated with clinical findings of interest need to be carefully examined and supplemented if necessary. Clinicians who undertake ES should understand the limitations of the test and the full significance of results that may be returned.",
+    "classification": {
+      "predicted_labels": [
+        "Non-Cancer"
+      ],
+      "confidence_scores": {
+        "Cancer": 0.2,
+        "Non-Cancer": 0.8
+      },
+      "prediction": 0,
+      "probabilities": [
+        0.8,
+        0.2
+      ]
+    },
+    "disease_extraction": {
+      "extracted_diseases": [],
+      "cancer_diseases": [],
+      "non_cancer_diseases": [],
+      "disease_details": [],
+      "total_diseases": 0,
+      "cancer_count": 0,
+      "non_cancer_count": 0
+    },
+    "is_cancer_related": false,
+    "analysis_metadata": {
+      "text_length": 1609,
+      "cleaned_length": 1609,
+      "disease_count": 0,
+      "cancer_disease_count": 0,
+      "non_cancer_disease_count": 0
+    },
+    "true_label": 0,
+    "correct": true
+  }
+]
